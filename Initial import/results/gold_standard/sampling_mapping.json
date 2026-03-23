@@ -1,0 +1,3426 @@
+{
+  "metadata": {
+    "name": "Gold Standard Pool Mapping",
+    "description": "Maps papers to source pools - FOR POST-HOC ANALYSIS ONLY",
+    "warning": "DO NOT share with reviewers until after blind screening is complete",
+    "created_at": "2026-02-03T16:20:45.475225",
+    "random_seed": 42,
+    "pool_a_description": "Papers containing electoral keywords",
+    "pool_b_description": "Papers without electoral keywords",
+    "pool_a_selected": 200,
+    "pool_b_selected": 0,
+    "keywords_used": [
+      "election",
+      "elections",
+      "electoral",
+      "voting",
+      "vote",
+      "votes",
+      "voter",
+      "voters",
+      "e-voting",
+      "evoting",
+      "i-voting",
+      "ballot",
+      "ballots",
+      "poll",
+      "polls",
+      "polling",
+      "referendum",
+      "referenda",
+      "plebiscite"
+    ]
+  },
+  "mapping": [
+    {
+      "gs_id": "GS-001",
+      "corpus_id": "BES-0722",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "ballot",
+        "voting",
+        "elections",
+        "voters",
+        "voter"
+      ],
+      "title": "Secured Electronic Voting System with Appropriate Authentication Using Blockchain",
+      "data_sources": [
+        "openalex"
+      ],
+      "year": 2023
+    },
+    {
+      "gs_id": "GS-002",
+      "corpus_id": "BES-0618",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "election",
+        "e-voting",
+        "voting",
+        "votes",
+        "elections",
+        "voters"
+      ],
+      "title": "A Privacy-Preserving Blockchain-based E-voting System",
+      "data_sources": [
+        "semantic_scholar",
+        "arxiv"
+      ],
+      "year": 2023
+    },
+    {
+      "gs_id": "GS-003",
+      "corpus_id": "BES-0333",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "vote",
+        "voting",
+        "voter"
+      ],
+      "title": "MultiTagging: A Vulnerable Smart Contract Labeling and Evaluation Framework",
+      "data_sources": [
+        "openalex",
+        "semantic_scholar"
+      ],
+      "year": 2024
+    },
+    {
+      "gs_id": "GS-004",
+      "corpus_id": "BES-1781",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "e-voting",
+        "voting"
+      ],
+      "title": "Secure Digital Voting System Based on Blockchain Technology",
+      "data_sources": [
+        "openalex",
+        "semantic_scholar",
+        "core"
+      ],
+      "year": 2018
+    },
+    {
+      "gs_id": "GS-005",
+      "corpus_id": "BES-1451",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "elections"
+      ],
+      "title": "A Dynamic Model of Primaries",
+      "data_sources": [
+        "openalex"
+      ],
+      "year": 2020
+    },
+    {
+      "gs_id": "GS-006",
+      "corpus_id": "BES-1069",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "electoral"
+      ],
+      "title": "Achieving Participatory Smart Cities by Making Social Networks Safer",
+      "data_sources": [
+        "semantic_scholar"
+      ],
+      "year": 2022
+    },
+    {
+      "gs_id": "GS-007",
+      "corpus_id": "BES-1488",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "voting",
+        "voters",
+        "voter"
+      ],
+      "title": "Development Principles for Electronic Voting System Using Distributed Ledger Technology",
+      "data_sources": [
+        "openalex",
+        "semantic_scholar"
+      ],
+      "year": 2020
+    },
+    {
+      "gs_id": "GS-008",
+      "corpus_id": "BES-1634",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "electoral",
+        "vote",
+        "voting",
+        "voter"
+      ],
+      "title": "Blockchain Based Anonymous Voting System Using zkSNARKs",
+      "data_sources": [
+        "openalex",
+        "semantic_scholar"
+      ],
+      "year": 2019
+    },
+    {
+      "gs_id": "GS-009",
+      "corpus_id": "BES-1644",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "electoral",
+        "voting",
+        "elections",
+        "voters",
+        "voter"
+      ],
+      "title": "Proof of Concept Blockchain-based Voting System",
+      "data_sources": [
+        "openalex",
+        "semantic_scholar"
+      ],
+      "year": 2019
+    },
+    {
+      "gs_id": "GS-010",
+      "corpus_id": "BES-0765",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "e-voting"
+      ],
+      "title": "Blockchain Based Healthcare System to Secure Health Records",
+      "data_sources": [
+        "openalex"
+      ],
+      "year": 2023
+    },
+    {
+      "gs_id": "GS-011",
+      "corpus_id": "BES-1117",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "e-voting"
+      ],
+      "title": "A Survey on Privacy-Preserving Blockchain Systems (PPBS) and a Novel PPBS-Based Framework for Smart ",
+      "data_sources": [
+        "openalex"
+      ],
+      "year": 2021
+    },
+    {
+      "gs_id": "GS-012",
+      "corpus_id": "BES-1128",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "ballot",
+        "voting",
+        "votes",
+        "voters",
+        "vote",
+        "voter"
+      ],
+      "title": "ElectionBlock: An Electronic Voting System using Blockchain and Fingerprint Authentication",
+      "data_sources": [
+        "openalex",
+        "semantic_scholar"
+      ],
+      "year": 2021
+    },
+    {
+      "gs_id": "GS-013",
+      "corpus_id": "BES-1613",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "election"
+      ],
+      "title": "Stakeholders’ Perspective on Blockchain and Smart Contracts Solutions for Construction Supply Chains",
+      "data_sources": [
+        "openalex"
+      ],
+      "year": 2019
+    },
+    {
+      "gs_id": "GS-014",
+      "corpus_id": "BES-0340",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "ballot",
+        "electoral",
+        "e-voting",
+        "voting",
+        "elections",
+        "votes",
+        "vote"
+      ],
+      "title": "Disrupting the Ballot Box: Blockchain as a Catalyst for Innovation in Electoral Processes",
+      "data_sources": [
+        "openalex",
+        "semantic_scholar"
+      ],
+      "year": 2024
+    },
+    {
+      "gs_id": "GS-015",
+      "corpus_id": "BES-0414",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "election"
+      ],
+      "title": "A Novel Federated Learning System with Privacy Protection and Blockchain Consensus Incentive Mechani",
+      "data_sources": [
+        "semantic_scholar"
+      ],
+      "year": 2024
+    },
+    {
+      "gs_id": "GS-016",
+      "corpus_id": "BES-0098",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "e-voting"
+      ],
+      "title": "Sistem E-Voting berbasis Blockchain dengan Autentikasi Biometrik Sidik Jari dan Protokol Zero-Knowle",
+      "data_sources": [
+        "semantic_scholar"
+      ],
+      "year": 2025
+    },
+    {
+      "gs_id": "GS-017",
+      "corpus_id": "BES-1635",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "ballots",
+        "e-voting",
+        "voting",
+        "voters"
+      ],
+      "title": "Blockchain E-Voting Done Right: Privacy and Transparency with Public Blockchain",
+      "data_sources": [
+        "openalex",
+        "semantic_scholar"
+      ],
+      "year": 2019
+    },
+    {
+      "gs_id": "GS-018",
+      "corpus_id": "BES-1581",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "elections"
+      ],
+      "title": "DeHiDe: Deep Learning-based Hybrid Model to Detect Fake News using Blockchain",
+      "data_sources": [
+        "arxiv"
+      ],
+      "year": 2020
+    },
+    {
+      "gs_id": "GS-019",
+      "corpus_id": "BES-0554",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "voting",
+        "voter"
+      ],
+      "title": "Metaverse governance: An empirical analysis of voting within Decentralized Autonomous Organizations",
+      "data_sources": [
+        "openalex"
+      ],
+      "year": 2023
+    },
+    {
+      "gs_id": "GS-020",
+      "corpus_id": "BES-0052",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "ballot",
+        "e-voting",
+        "voting",
+        "voters",
+        "voter"
+      ],
+      "title": "Self-Tallying E-Voting Using Homomorphic Time-Lock Puzzles and ZK-SNARKs",
+      "data_sources": [
+        "semantic_scholar"
+      ],
+      "year": 2025
+    },
+    {
+      "gs_id": "GS-021",
+      "corpus_id": "BES-1060",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "e-voting",
+        "election"
+      ],
+      "title": "Analisis Pengaruh Faktor Teknologi, Organisasi, dan Manusia Terhadap Kesuksesan Penerapan E-voting S",
+      "data_sources": [
+        "semantic_scholar"
+      ],
+      "year": 2022
+    },
+    {
+      "gs_id": "GS-022",
+      "corpus_id": "BES-1172",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "e-voting",
+        "voting",
+        "votes",
+        "voters",
+        "voter"
+      ],
+      "title": "Towards a Blockchain based Intelligent and Secure Voting",
+      "data_sources": [
+        "openalex",
+        "semantic_scholar"
+      ],
+      "year": 2021
+    },
+    {
+      "gs_id": "GS-023",
+      "corpus_id": "BES-0194",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "ballot",
+        "election",
+        "electoral",
+        "voting",
+        "voter"
+      ],
+      "title": "Blockchain-Based Consensus Algorithm for Decentralized Secure Voting Systems",
+      "data_sources": [
+        "semantic_scholar"
+      ],
+      "year": 2025
+    },
+    {
+      "gs_id": "GS-024",
+      "corpus_id": "BES-1188",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "election"
+      ],
+      "title": "Time and Communication Complexity of Leader Election in Anonymous Networks",
+      "data_sources": [
+        "semantic_scholar"
+      ],
+      "year": 2021
+    },
+    {
+      "gs_id": "GS-025",
+      "corpus_id": "BES-2009",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "electoral"
+      ],
+      "title": "De democratische vertegenwoordiging van cliënten en patiënten bij de decentralisaties",
+      "data_sources": [
+        "openalex"
+      ],
+      "year": 2015
+    },
+    {
+      "gs_id": "GS-026",
+      "corpus_id": "BES-0836",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "ballot",
+        "electoral",
+        "voting",
+        "voters",
+        "voter"
+      ],
+      "title": "Enhancing the Robustness of a Three-Layer Security Electronic Voting System Using Kerberos Authentic",
+      "data_sources": [
+        "core"
+      ],
+      "year": 2023
+    },
+    {
+      "gs_id": "GS-027",
+      "corpus_id": "BES-1853",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "vote",
+        "election",
+        "voting",
+        "elections"
+      ],
+      "title": "Using of Blockchain in Electronic Election in Russia",
+      "data_sources": [
+        "openalex"
+      ],
+      "year": 2018
+    },
+    {
+      "gs_id": "GS-028",
+      "corpus_id": "BES-0400",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "votes",
+        "electoral",
+        "voting",
+        "elections"
+      ],
+      "title": "BLOCKCHAIN DEMOCRACY EVALUATING A SECURE VOTING SYSTEM",
+      "data_sources": [
+        "openalex"
+      ],
+      "year": 2024
+    },
+    {
+      "gs_id": "GS-029",
+      "corpus_id": "BES-1051",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "ballot",
+        "e-voting",
+        "poll",
+        "voting",
+        "elections",
+        "votes",
+        "ballots",
+        "polling",
+        "vote"
+      ],
+      "title": "Blockchain Based E-voting System Using Smart Contracts",
+      "data_sources": [
+        "openalex",
+        "semantic_scholar"
+      ],
+      "year": 2022
+    },
+    {
+      "gs_id": "GS-030",
+      "corpus_id": "BES-0758",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "electoral",
+        "election",
+        "e-voting",
+        "voting",
+        "voters"
+      ],
+      "title": "Remote Electronic Voting: Historical Experience of Russia",
+      "data_sources": [
+        "openalex",
+        "semantic_scholar"
+      ],
+      "year": 2023
+    },
+    {
+      "gs_id": "GS-031",
+      "corpus_id": "BES-0564",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "ballot",
+        "election",
+        "voting",
+        "votes",
+        "vote"
+      ],
+      "title": "Delegated Proof of Stake Consensus Mechanism Based on Community Discovery and Credit Incentive",
+      "data_sources": [
+        "openalex",
+        "semantic_scholar",
+        "mdpi"
+      ],
+      "year": 2023
+    },
+    {
+      "gs_id": "GS-032",
+      "corpus_id": "BES-0776",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "election",
+        "e-voting",
+        "voting",
+        "elections",
+        "ballots",
+        "vote"
+      ],
+      "title": "SoulBound E-Voting System",
+      "data_sources": [
+        "semantic_scholar"
+      ],
+      "year": 2023
+    },
+    {
+      "gs_id": "GS-033",
+      "corpus_id": "BES-0024",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "elections",
+        "e-voting",
+        "voting",
+        "voter"
+      ],
+      "title": "A Comprehensive Review of Blockchain based E-Voting Technologies and Challenges",
+      "data_sources": [
+        "semantic_scholar"
+      ],
+      "year": 2025
+    },
+    {
+      "gs_id": "GS-034",
+      "corpus_id": "BES-0095",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "e-voting",
+        "voting",
+        "votes",
+        "elections",
+        "voter"
+      ],
+      "title": "Develop a Performance based Right-To-Recall e-Voting System in India using Blockchain Technology",
+      "data_sources": [
+        "semantic_scholar"
+      ],
+      "year": 2025
+    },
+    {
+      "gs_id": "GS-035",
+      "corpus_id": "BES-0558",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "elections"
+      ],
+      "title": "Blockchain-Aided Secure Access Control for UAV Computing Networks",
+      "data_sources": [
+        "openalex",
+        "semantic_scholar"
+      ],
+      "year": 2023
+    },
+    {
+      "gs_id": "GS-036",
+      "corpus_id": "BES-0619",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "election"
+      ],
+      "title": "NFT Cross-Chain Transfer Method Under the Notary Group Scheme",
+      "data_sources": [
+        "semantic_scholar"
+      ],
+      "year": 2023
+    },
+    {
+      "gs_id": "GS-037",
+      "corpus_id": "BES-1799",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "vote",
+        "voting",
+        "votes",
+        "voter"
+      ],
+      "title": "Online Voting Application Using Ethereum Blockchain",
+      "data_sources": [
+        "openalex",
+        "semantic_scholar"
+      ],
+      "year": 2018
+    },
+    {
+      "gs_id": "GS-038",
+      "corpus_id": "BES-1437",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "election"
+      ],
+      "title": "Consensus Mechanism of IoT Based on Blockchain Technology",
+      "data_sources": [
+        "openalex",
+        "semantic_scholar"
+      ],
+      "year": 2020
+    },
+    {
+      "gs_id": "GS-039",
+      "corpus_id": "BES-0163",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "electoral",
+        "voting",
+        "voters",
+        "vote",
+        "voter"
+      ],
+      "title": "Blockchain-Based Voting for Diaspora Communities: A Secure Remote Solution",
+      "data_sources": [
+        "semantic_scholar"
+      ],
+      "year": 2025
+    },
+    {
+      "gs_id": "GS-040",
+      "corpus_id": "BES-0334",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "ballot",
+        "electoral",
+        "election",
+        "voting",
+        "voters",
+        "voter"
+      ],
+      "title": "Votereum: Blockchain based Secure Voting System",
+      "data_sources": [
+        "semantic_scholar"
+      ],
+      "year": 2024
+    },
+    {
+      "gs_id": "GS-041",
+      "corpus_id": "BES-2036",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "electoral"
+      ],
+      "title": "Budgetary processes: a political economy perspective",
+      "data_sources": [
+        "core"
+      ],
+      "year": null
+    },
+    {
+      "gs_id": "GS-042",
+      "corpus_id": "BES-1836",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "election",
+        "voting",
+        "elections"
+      ],
+      "title": "Ethnic mobilization in 2015 local elections in North Sumatra, Indonesia",
+      "data_sources": [
+        "openalex"
+      ],
+      "year": 2018
+    },
+    {
+      "gs_id": "GS-043",
+      "corpus_id": "BES-1997",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "electoral"
+      ],
+      "title": "Electoral Competition as a Determinant of Fiscal Decentralisation*",
+      "data_sources": [
+        "openalex"
+      ],
+      "year": 2015
+    },
+    {
+      "gs_id": "GS-044",
+      "corpus_id": "BES-1353",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "election",
+        "e-voting",
+        "voting",
+        "votes",
+        "ballots"
+      ],
+      "title": "E-voting protocols in context of COVID19",
+      "data_sources": [
+        "core"
+      ],
+      "year": 2021
+    },
+    {
+      "gs_id": "GS-045",
+      "corpus_id": "BES-0799",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "electoral",
+        "voting",
+        "voter"
+      ],
+      "title": "Voting on ICP Blockchain: A Decentralized Web3 Approach",
+      "data_sources": [
+        "semantic_scholar"
+      ],
+      "year": 2023
+    },
+    {
+      "gs_id": "GS-046",
+      "corpus_id": "BES-1169",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "voting",
+        "voters"
+      ],
+      "title": "Posting Bot Detection on Blockchain-based Social Media Platform using Machine Learning Techniques",
+      "data_sources": [
+        "openalex",
+        "arxiv"
+      ],
+      "year": 2021
+    },
+    {
+      "gs_id": "GS-047",
+      "corpus_id": "BES-0587",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "voting"
+      ],
+      "title": "An Efficient and Reliable Byzantine Fault Tolerant Blockchain Consensus Protocol for Single-Hop Wire",
+      "data_sources": [
+        "openalex",
+        "semantic_scholar"
+      ],
+      "year": 2023
+    },
+    {
+      "gs_id": "GS-048",
+      "corpus_id": "BES-0707",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "ballot",
+        "e-voting",
+        "voting",
+        "vote",
+        "voter"
+      ],
+      "title": "Secured Voting System based on Blockchain",
+      "data_sources": [
+        "openalex",
+        "semantic_scholar"
+      ],
+      "year": 2023
+    },
+    {
+      "gs_id": "GS-049",
+      "corpus_id": "BES-0014",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "electoral",
+        "election",
+        "voting",
+        "votes",
+        "elections",
+        "voters",
+        "vote",
+        "voter"
+      ],
+      "title": "Blockchain-enhanced electoral integrity: a robust model for secure digital voting systems in Oman",
+      "data_sources": [
+        "openalex",
+        "semantic_scholar"
+      ],
+      "year": 2025
+    },
+    {
+      "gs_id": "GS-050",
+      "corpus_id": "BES-1573",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "electoral"
+      ],
+      "title": "Електоральні партії: теоретико-методологічні засади та ідеологічне позиціювання на прикладі парламен",
+      "data_sources": [
+        "core"
+      ],
+      "year": 2020
+    },
+    {
+      "gs_id": "GS-051",
+      "corpus_id": "BES-1489",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "electoral",
+        "elections"
+      ],
+      "title": "One or two arenas? The break-up between national and regional elections",
+      "data_sources": [
+        "openalex"
+      ],
+      "year": 2020
+    },
+    {
+      "gs_id": "GS-052",
+      "corpus_id": "BES-1750",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "election",
+        "voting",
+        "votes",
+        "polling",
+        "voters"
+      ],
+      "title": "Providing Security, Immutability and Transparency to Voting System Using Blockchain Technology",
+      "data_sources": [
+        "core"
+      ],
+      "year": 2019
+    },
+    {
+      "gs_id": "GS-053",
+      "corpus_id": "BES-0610",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "ballot",
+        "election",
+        "e-voting",
+        "voting",
+        "elections",
+        "votes",
+        "ballots",
+        "polling",
+        "voters",
+        "vote"
+      ],
+      "title": "Online Voting Scheme Using IBM Cloud-Based Hyperledger Fabric with Privacy-Preservation",
+      "data_sources": [
+        "openalex",
+        "mdpi"
+      ],
+      "year": 2023
+    },
+    {
+      "gs_id": "GS-054",
+      "corpus_id": "BES-0955",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "election",
+        "e-voting",
+        "voting",
+        "votes",
+        "ballots",
+        "voters",
+        "vote",
+        "voter"
+      ],
+      "title": "A Framework for e-Voting System Based on Blockchain and Distributed Ledger Technologies",
+      "data_sources": [
+        "openalex"
+      ],
+      "year": 2022
+    },
+    {
+      "gs_id": "GS-055",
+      "corpus_id": "BES-0209",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "election",
+        "voting",
+        "elections",
+        "vote",
+        "voter"
+      ],
+      "title": "Adaptable and Secure Governance Contracts in Smart Cities Using Blockchain Technology",
+      "data_sources": [
+        "semantic_scholar"
+      ],
+      "year": 2025
+    },
+    {
+      "gs_id": "GS-056",
+      "corpus_id": "BES-1974",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "elections"
+      ],
+      "title": "Planning for peace - lessons from Mozambique's peacebuilding process",
+      "data_sources": [
+        "openalex"
+      ],
+      "year": 2016
+    },
+    {
+      "gs_id": "GS-057",
+      "corpus_id": "BES-0007",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "election"
+      ],
+      "title": "Dynamic Blockchain-Empowered Trustworthy End-Edge Collaborative Computing via Rotating Multi-Agent D",
+      "data_sources": [
+        "semantic_scholar"
+      ],
+      "year": 2025
+    },
+    {
+      "gs_id": "GS-058",
+      "corpus_id": "BES-1342",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "ballot",
+        "election",
+        "voting",
+        "elections",
+        "ballots",
+        "voters",
+        "vote",
+        "voter"
+      ],
+      "title": "Decentralized Online Voting",
+      "data_sources": [
+        "core"
+      ],
+      "year": 2021
+    },
+    {
+      "gs_id": "GS-059",
+      "corpus_id": "BES-0915",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "election",
+        "e-voting",
+        "voting",
+        "elections",
+        "votes",
+        "ballots",
+        "voters",
+        "vote",
+        "voter"
+      ],
+      "title": "Blockchain Based New E-voting Protocol System without Trusted Tallying Authorities",
+      "data_sources": [
+        "openalex",
+        "semantic_scholar"
+      ],
+      "year": 2022
+    },
+    {
+      "gs_id": "GS-060",
+      "corpus_id": "BES-1624",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "voting",
+        "voters",
+        "votes"
+      ],
+      "title": "A Proposed Mobile Voting Framework Utilizing Blockchain Technology and Multi-Factor Authentication",
+      "data_sources": [
+        "openalex",
+        "semantic_scholar"
+      ],
+      "year": 2019
+    },
+    {
+      "gs_id": "GS-061",
+      "corpus_id": "BES-0325",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "e-voting",
+        "voting",
+        "votes",
+        "voters",
+        "vote"
+      ],
+      "title": "Advancing E-Voting Security: Biometrics-Enhanced Blockchain for Privacy and VerifiAbility (Bebpv)",
+      "data_sources": [
+        "openalex",
+        "semantic_scholar"
+      ],
+      "year": 2024
+    },
+    {
+      "gs_id": "GS-062",
+      "corpus_id": "BES-2010",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "electoral",
+        "election",
+        "elections",
+        "voters",
+        "vote"
+      ],
+      "title": "Multi-Level Elections and Party Fortunes: The Electoral Impact of Decentralization in Western Europe",
+      "data_sources": [
+        "openalex"
+      ],
+      "year": 2015
+    },
+    {
+      "gs_id": "GS-063",
+      "corpus_id": "BES-1522",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "e-voting",
+        "election",
+        "voting"
+      ],
+      "title": "Design of Electronic Voting Portal Using Blockchain Technology",
+      "data_sources": [
+        "openalex"
+      ],
+      "year": 2020
+    },
+    {
+      "gs_id": "GS-064",
+      "corpus_id": "BES-1048",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "ballot",
+        "e-voting"
+      ],
+      "title": "Development and Performance Evaluation of a Blockchain Associated E-Voting System in IoT-Enabled Sma",
+      "data_sources": [
+        "openalex",
+        "semantic_scholar"
+      ],
+      "year": 2022
+    },
+    {
+      "gs_id": "GS-065",
+      "corpus_id": "BES-0137",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "electoral",
+        "voting",
+        "votes",
+        "elections",
+        "vote",
+        "voter"
+      ],
+      "title": "Developing a Secured Voteing Sysytem Using Blockchain Trechnology",
+      "data_sources": [
+        "semantic_scholar"
+      ],
+      "year": 2025
+    },
+    {
+      "gs_id": "GS-066",
+      "corpus_id": "BES-0796",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "ballot",
+        "election",
+        "voting",
+        "electoral"
+      ],
+      "title": "The Risks of Remote Voting",
+      "data_sources": [
+        "semantic_scholar"
+      ],
+      "year": 2023
+    },
+    {
+      "gs_id": "GS-067",
+      "corpus_id": "BES-1889",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "election"
+      ],
+      "title": "Ideological alignment and the distribution of public expenditures",
+      "data_sources": [
+        "openalex"
+      ],
+      "year": 2017
+    },
+    {
+      "gs_id": "GS-068",
+      "corpus_id": "BES-0192",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "ballot",
+        "election",
+        "voting",
+        "votes",
+        "voter"
+      ],
+      "title": "Blockchain-based decentralized voting system with SHA-256 algorithm and facial recognition",
+      "data_sources": [
+        "semantic_scholar",
+        "core"
+      ],
+      "year": 2025
+    },
+    {
+      "gs_id": "GS-069",
+      "corpus_id": "BES-1494",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "e-voting",
+        "voting",
+        "votes",
+        "vote",
+        "voter"
+      ],
+      "title": "Blockchain Based Public Cloud Security for E-Voting System on IoT Environment",
+      "data_sources": [
+        "openalex",
+        "semantic_scholar"
+      ],
+      "year": 2020
+    },
+    {
+      "gs_id": "GS-070",
+      "corpus_id": "BES-1528",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "electoral",
+        "voting"
+      ],
+      "title": "Spot collaborative shipping sans orchestrator using Blockchain",
+      "data_sources": [
+        "openalex",
+        "semantic_scholar"
+      ],
+      "year": 2020
+    },
+    {
+      "gs_id": "GS-071",
+      "corpus_id": "BES-1374",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "e-voting",
+        "voting"
+      ],
+      "title": "Blockchain Ethereum Clients Performance Analysis Considering E-Voting Application",
+      "data_sources": [
+        "openalex"
+      ],
+      "year": 2020
+    },
+    {
+      "gs_id": "GS-072",
+      "corpus_id": "BES-1866",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "electoral",
+        "voting",
+        "election"
+      ],
+      "title": "Russia Today, Cyberterrorists Tomorrow: U.S. Failure to Prepare Democracy for Cyberspace",
+      "data_sources": [
+        "core"
+      ],
+      "year": 2018
+    },
+    {
+      "gs_id": "GS-073",
+      "corpus_id": "BES-0984",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "ballot",
+        "e-voting",
+        "voting",
+        "voters",
+        "voter"
+      ],
+      "title": "Sancus: an Anonymous and Trustworthy Blockchain-based Electronic Voting Architecture",
+      "data_sources": [
+        "openalex"
+      ],
+      "year": 2022
+    },
+    {
+      "gs_id": "GS-074",
+      "corpus_id": "BES-1967",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "voting"
+      ],
+      "title": "BIX Certificates: Cryptographic Tokens for Anonymous Transactions Based on Certificates Public Ledge",
+      "data_sources": [
+        "semantic_scholar"
+      ],
+      "year": 2016
+    },
+    {
+      "gs_id": "GS-075",
+      "corpus_id": "BES-0189",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "vote"
+      ],
+      "title": "A DAO-based Blockchain Donation System with Smart Contract-Driven Project Prioritization",
+      "data_sources": [
+        "semantic_scholar"
+      ],
+      "year": 2025
+    },
+    {
+      "gs_id": "GS-076",
+      "corpus_id": "BES-0806",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "e-voting",
+        "electoral",
+        "vote",
+        "elections"
+      ],
+      "title": "E-voting, Information Gap, and The Digital Divide in Zimbabwe",
+      "data_sources": [
+        "semantic_scholar"
+      ],
+      "year": 2023
+    },
+    {
+      "gs_id": "GS-077",
+      "corpus_id": "BES-1585",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "elections",
+        "vote",
+        "voting",
+        "votes"
+      ],
+      "title": "Improvement of the DPoS Consensus Mechanism in Blockchain Based on Vague Sets",
+      "data_sources": [
+        "openalex"
+      ],
+      "year": 2019
+    },
+    {
+      "gs_id": "GS-078",
+      "corpus_id": "BES-1571",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "electoral",
+        "e-voting",
+        "election",
+        "vote"
+      ],
+      "title": "Implementation And Development Of E-Voting System For Election Of Student Council Chairperson Of SMP",
+      "data_sources": [
+        "core"
+      ],
+      "year": 2020
+    },
+    {
+      "gs_id": "GS-079",
+      "corpus_id": "BES-0320",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "election",
+        "voting"
+      ],
+      "title": "Accountable Secret Committee Election and Anonymous Sharding Blockchain Consensus",
+      "data_sources": [
+        "semantic_scholar"
+      ],
+      "year": 2024
+    },
+    {
+      "gs_id": "GS-080",
+      "corpus_id": "BES-1305",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "election"
+      ],
+      "title": "Trust-based gateway selection in a multi-tiers blockchain architecture",
+      "data_sources": [
+        "semantic_scholar"
+      ],
+      "year": 2021
+    },
+    {
+      "gs_id": "GS-081",
+      "corpus_id": "BES-1545",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "electoral"
+      ],
+      "title": "Blockchain-Enabled E-Governance: A Model for Enhancing Transparency in Developing Economies",
+      "data_sources": [
+        "semantic_scholar"
+      ],
+      "year": 2020
+    },
+    {
+      "gs_id": "GS-082",
+      "corpus_id": "BES-1286",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "election"
+      ],
+      "title": "Byzantine Agreement and Leader Election: From Classical to the Modern",
+      "data_sources": [
+        "semantic_scholar"
+      ],
+      "year": 2021
+    },
+    {
+      "gs_id": "GS-083",
+      "corpus_id": "BES-1890",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "election"
+      ],
+      "title": "Fake News: A Technological Approach to Proving the Origins of Content, Using Blockchains",
+      "data_sources": [
+        "openalex",
+        "core"
+      ],
+      "year": 2017
+    },
+    {
+      "gs_id": "GS-084",
+      "corpus_id": "BES-0299",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "voting",
+        "voter"
+      ],
+      "title": "Enhancing the democratic nature of voting processes within decentralized autonomous organizations",
+      "data_sources": [
+        "openalex"
+      ],
+      "year": 2024
+    },
+    {
+      "gs_id": "GS-085",
+      "corpus_id": "BES-0212",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "election"
+      ],
+      "title": "Computing power detection based on smart contract",
+      "data_sources": [
+        "semantic_scholar"
+      ],
+      "year": 2025
+    },
+    {
+      "gs_id": "GS-086",
+      "corpus_id": "BES-1448",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "ballot",
+        "voting",
+        "voters",
+        "votes"
+      ],
+      "title": "Blockchain-based Electronic Voting System with Special Ballot and Block Structures that Complies wit",
+      "data_sources": [
+        "openalex",
+        "semantic_scholar"
+      ],
+      "year": 2020
+    },
+    {
+      "gs_id": "GS-087",
+      "corpus_id": "BES-0972",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "e-voting",
+        "vote",
+        "voting",
+        "votes"
+      ],
+      "title": "Decentralized electronic voting system using Hyperledger Fabric",
+      "data_sources": [
+        "openalex",
+        "semantic_scholar"
+      ],
+      "year": 2022
+    },
+    {
+      "gs_id": "GS-088",
+      "corpus_id": "BES-1720",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "polling",
+        "election",
+        "elections"
+      ],
+      "title": "Bringing transparency and trust to elections",
+      "data_sources": [
+        "openalex",
+        "semantic_scholar"
+      ],
+      "year": 2019
+    },
+    {
+      "gs_id": "GS-089",
+      "corpus_id": "BES-1271",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "e-voting",
+        "voting",
+        "votes",
+        "elections",
+        "voters",
+        "vote",
+        "voter"
+      ],
+      "title": "e-Voting System using Fingerprint and Face Recognition Authentication with Blockchain",
+      "data_sources": [
+        "openalex"
+      ],
+      "year": 2021
+    },
+    {
+      "gs_id": "GS-090",
+      "corpus_id": "BES-0569",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "ballot",
+        "election",
+        "e-voting",
+        "voting",
+        "votes",
+        "voters",
+        "vote",
+        "voter"
+      ],
+      "title": "PVPBC: Privacy and Verifiability Preserving E-Voting Based on Permissioned Blockchain",
+      "data_sources": [
+        "openalex",
+        "semantic_scholar",
+        "mdpi"
+      ],
+      "year": 2023
+    },
+    {
+      "gs_id": "GS-091",
+      "corpus_id": "BES-1445",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "voting",
+        "voters"
+      ],
+      "title": "Token‐curated registry in a scholarly journal: Can blockchain support journal communities?",
+      "data_sources": [
+        "openalex",
+        "arxiv"
+      ],
+      "year": 2020
+    },
+    {
+      "gs_id": "GS-092",
+      "corpus_id": "BES-1138",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "vote",
+        "voting",
+        "voters",
+        "votes"
+      ],
+      "title": "A Scalable Implementation of Anonymous Voting over Ethereum Blockchain",
+      "data_sources": [
+        "openalex",
+        "semantic_scholar",
+        "mdpi"
+      ],
+      "year": 2021
+    },
+    {
+      "gs_id": "GS-093",
+      "corpus_id": "BES-1327",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "e-voting",
+        "voting"
+      ],
+      "title": "IMPLEMENTASI TEKNOLOGI BLOCKCHAIN MENGGUNAKAN SMART CONTRACT PADA E-VOTING",
+      "data_sources": [
+        "core"
+      ],
+      "year": 2021
+    },
+    {
+      "gs_id": "GS-094",
+      "corpus_id": "BES-1424",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "election",
+        "voting",
+        "elections"
+      ],
+      "title": "Implementing Electronic Voting System With Blockchain Technology",
+      "data_sources": [
+        "openalex",
+        "semantic_scholar"
+      ],
+      "year": 2020
+    },
+    {
+      "gs_id": "GS-095",
+      "corpus_id": "BES-1236",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "voting"
+      ],
+      "title": "Is Blockchain Technology Secure to Work On?",
+      "data_sources": [
+        "semantic_scholar"
+      ],
+      "year": 2021
+    },
+    {
+      "gs_id": "GS-096",
+      "corpus_id": "BES-0116",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "election",
+        "e-voting",
+        "voting",
+        "vote",
+        "voter"
+      ],
+      "title": "A Federated AI and DAG-Based Framework for Secure and Scalable E-Voting",
+      "data_sources": [
+        "semantic_scholar"
+      ],
+      "year": 2025
+    },
+    {
+      "gs_id": "GS-097",
+      "corpus_id": "BES-1153",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "election",
+        "voting",
+        "elections"
+      ],
+      "title": "Distributed Trust, a Blockchain Election Scheme",
+      "data_sources": [
+        "openalex",
+        "semantic_scholar"
+      ],
+      "year": 2021
+    },
+    {
+      "gs_id": "GS-098",
+      "corpus_id": "BES-0714",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "election",
+        "voting"
+      ],
+      "title": "Smart Voting Platform (Secured Digital Voting System) Uses Blockchain Technology and Biometric Authe",
+      "data_sources": [
+        "openalex"
+      ],
+      "year": 2023
+    },
+    {
+      "gs_id": "GS-099",
+      "corpus_id": "BES-0341",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "ballot",
+        "voting",
+        "votes",
+        "vote",
+        "voter"
+      ],
+      "title": "Multi party confidential verifiable electronic voting scheme based on blockchain",
+      "data_sources": [
+        "openalex",
+        "semantic_scholar"
+      ],
+      "year": 2024
+    },
+    {
+      "gs_id": "GS-100",
+      "corpus_id": "BES-0290",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "election",
+        "referendum",
+        "elections",
+        "polls"
+      ],
+      "title": "The Spanish 2023 general elections: unexpected snap elections to survive in power",
+      "data_sources": [
+        "openalex"
+      ],
+      "year": 2024
+    },
+    {
+      "gs_id": "GS-101",
+      "corpus_id": "BES-0292",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "ballot",
+        "election",
+        "e-voting",
+        "voting",
+        "elections",
+        "votes",
+        "polling",
+        "voters",
+        "vote",
+        "voter"
+      ],
+      "title": "Blockchain Enabled Privacy- Preserved Secure e-voting System for Smart Cities",
+      "data_sources": [
+        "openalex",
+        "semantic_scholar"
+      ],
+      "year": 2024
+    },
+    {
+      "gs_id": "GS-102",
+      "corpus_id": "BES-1179",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "e-voting",
+        "vote"
+      ],
+      "title": "A coercion-resistant blockchain-based E-voting protocol with receipts",
+      "data_sources": [
+        "openalex",
+        "semantic_scholar"
+      ],
+      "year": 2021
+    },
+    {
+      "gs_id": "GS-103",
+      "corpus_id": "BES-0238",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "e-voting",
+        "election",
+        "voting"
+      ],
+      "title": "Proyeksi Konstitusional Electronic Voting Dalam Pemilu Berbasis Decision Support System Dalam Perspe",
+      "data_sources": [
+        "core"
+      ],
+      "year": 2025
+    },
+    {
+      "gs_id": "GS-104",
+      "corpus_id": "BES-1824",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "election"
+      ],
+      "title": "Tutorial: Building Secure and Trustworthy Blockchain Applications",
+      "data_sources": [
+        "openalex",
+        "semantic_scholar"
+      ],
+      "year": 2018
+    },
+    {
+      "gs_id": "GS-105",
+      "corpus_id": "BES-1259",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "e-voting",
+        "election",
+        "votes",
+        "elections"
+      ],
+      "title": "An Online E-voting System based on an Adaptive Ledger with Singular Value Decomposition Technique",
+      "data_sources": [
+        "openalex",
+        "semantic_scholar"
+      ],
+      "year": 2021
+    },
+    {
+      "gs_id": "GS-106",
+      "corpus_id": "BES-0465",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "ballot",
+        "e-voting",
+        "voting",
+        "votes",
+        "voter"
+      ],
+      "title": "Neural-Based Secured Decentralized E-Voting Framework using Blur Image Broadcasting",
+      "data_sources": [
+        "semantic_scholar"
+      ],
+      "year": 2024
+    },
+    {
+      "gs_id": "GS-107",
+      "corpus_id": "BES-0437",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "vote",
+        "voting",
+        "elections"
+      ],
+      "title": "Design and Implementation of a Decentralized Voting System Using Volta Blockchain",
+      "data_sources": [
+        "semantic_scholar",
+        "core"
+      ],
+      "year": 2024
+    },
+    {
+      "gs_id": "GS-108",
+      "corpus_id": "BES-0966",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "e-voting"
+      ],
+      "title": "A Survey of Applications using Blockchain Technology",
+      "data_sources": [
+        "openalex"
+      ],
+      "year": 2022
+    },
+    {
+      "gs_id": "GS-109",
+      "corpus_id": "BES-0682",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "ballot",
+        "election",
+        "voting",
+        "ballots",
+        "voters",
+        "voter"
+      ],
+      "title": "An electronic voting scheme based on homomorphic encryption and decentralization",
+      "data_sources": [
+        "openalex"
+      ],
+      "year": 2023
+    },
+    {
+      "gs_id": "GS-110",
+      "corpus_id": "BES-0440",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "electoral",
+        "polling",
+        "election",
+        "polls"
+      ],
+      "title": "Constructing a Blockchain-based Framework for Enhancing the Reliability of Election Polls",
+      "data_sources": [
+        "semantic_scholar"
+      ],
+      "year": 2024
+    },
+    {
+      "gs_id": "GS-111",
+      "corpus_id": "BES-0555",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "e-voting",
+        "voting"
+      ],
+      "title": "Blockchain-Based E-Voting Systems: A Technology Review",
+      "data_sources": [
+        "semantic_scholar",
+        "mdpi"
+      ],
+      "year": 2023
+    },
+    {
+      "gs_id": "GS-112",
+      "corpus_id": "BES-0557",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "election"
+      ],
+      "title": "A Fast and Secured Vehicle-to-Vehicle Energy Trading Based on Blockchain Consensus in the Internet o",
+      "data_sources": [
+        "openalex"
+      ],
+      "year": 2023
+    },
+    {
+      "gs_id": "GS-113",
+      "corpus_id": "BES-0662",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "voting"
+      ],
+      "title": "Innovative Application of Blockchain Technology for Digital Recipe Copyright Protection",
+      "data_sources": [
+        "openalex"
+      ],
+      "year": 2023
+    },
+    {
+      "gs_id": "GS-114",
+      "corpus_id": "BES-0457",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "electoral",
+        "e-voting",
+        "voting",
+        "elections",
+        "vote",
+        "voter"
+      ],
+      "title": "E-Voting 2.0: A Blockchain Blueprint for Secure Elections",
+      "data_sources": [
+        "semantic_scholar"
+      ],
+      "year": 2024
+    },
+    {
+      "gs_id": "GS-115",
+      "corpus_id": "BES-1904",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "polling",
+        "electoral",
+        "voting",
+        "votes"
+      ],
+      "title": "Temper proof data distribution for universal verifiability and accuracy in electoral process using b",
+      "data_sources": [
+        "openalex"
+      ],
+      "year": 2017
+    },
+    {
+      "gs_id": "GS-116",
+      "corpus_id": "BES-0055",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "electoral",
+        "voting",
+        "elections",
+        "vote",
+        "voter"
+      ],
+      "title": "The use of modern information technologies during elections in developed countries",
+      "data_sources": [
+        "semantic_scholar"
+      ],
+      "year": 2025
+    },
+    {
+      "gs_id": "GS-117",
+      "corpus_id": "BES-1808",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "electoral",
+        "election",
+        "voting",
+        "elections",
+        "votes",
+        "vote",
+        "voter"
+      ],
+      "title": "Blockchain for Democratic Voting: How Blockchain Could Cast oﬀ Voter Fraud",
+      "data_sources": [
+        "semantic_scholar"
+      ],
+      "year": 2018
+    },
+    {
+      "gs_id": "GS-118",
+      "corpus_id": "BES-0357",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "election"
+      ],
+      "title": "SG-FCB: A Stackelberg Game-Driven Fair Committee-Based Blockchain Consensus Protocol",
+      "data_sources": [
+        "semantic_scholar"
+      ],
+      "year": 2024
+    },
+    {
+      "gs_id": "GS-119",
+      "corpus_id": "BES-1325",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "ballot",
+        "e-voting",
+        "voting",
+        "votes",
+        "voters"
+      ],
+      "title": "BBB-Voting: 1-out-of-k Blockchain-Based Boardroom Voting",
+      "data_sources": [
+        "core",
+        "arxiv"
+      ],
+      "year": 2021
+    },
+    {
+      "gs_id": "GS-120",
+      "corpus_id": "BES-0148",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "ballots",
+        "election",
+        "voting",
+        "voter"
+      ],
+      "title": "Enhancing Fairness and Transparency in Electronic Voting with Blockchain-Based Identity Management",
+      "data_sources": [
+        "semantic_scholar"
+      ],
+      "year": 2025
+    },
+    {
+      "gs_id": "GS-121",
+      "corpus_id": "BES-0459",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "e-voting",
+        "voting",
+        "votes",
+        "ballots",
+        "voter"
+      ],
+      "title": "Empowering Democracy: Unveiling the Brilliance of Blockchain Technology in Smart and Safe E-Voting S",
+      "data_sources": [
+        "semantic_scholar"
+      ],
+      "year": 2024
+    },
+    {
+      "gs_id": "GS-122",
+      "corpus_id": "BES-0901",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "election",
+        "e-voting",
+        "voting",
+        "elections",
+        "voter"
+      ],
+      "title": "Utilization of Blockchain in E-Voting System",
+      "data_sources": [
+        "openalex",
+        "semantic_scholar"
+      ],
+      "year": 2022
+    },
+    {
+      "gs_id": "GS-123",
+      "corpus_id": "BES-1711",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "ballot",
+        "vote",
+        "election",
+        "voters"
+      ],
+      "title": "Ballot Mechanism Design Based on Blockchain Methodologies",
+      "data_sources": [
+        "openalex",
+        "semantic_scholar"
+      ],
+      "year": 2019
+    },
+    {
+      "gs_id": "GS-124",
+      "corpus_id": "BES-1221",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "ballot",
+        "voting",
+        "voters",
+        "votes"
+      ],
+      "title": "Æternum: A Decentralized Voting System with Unconditional Privacy",
+      "data_sources": [
+        "openalex",
+        "semantic_scholar"
+      ],
+      "year": 2021
+    },
+    {
+      "gs_id": "GS-125",
+      "corpus_id": "BES-1915",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "elections"
+      ],
+      "title": "Effects of Institutional Reforms on Women's Representation in Colombia, 1960–2014",
+      "data_sources": [
+        "openalex"
+      ],
+      "year": 2017
+    },
+    {
+      "gs_id": "GS-126",
+      "corpus_id": "BES-1651",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "vote",
+        "votes"
+      ],
+      "title": "Citizens Vote to Act: smart contracts for the management of water resources in smart cities",
+      "data_sources": [
+        "openalex"
+      ],
+      "year": 2019
+    },
+    {
+      "gs_id": "GS-127",
+      "corpus_id": "BES-1835",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "electoral",
+        "election",
+        "elections"
+      ],
+      "title": "Decentralised Institutions and Electoral Authoritarianism: The Case of Town Councils in Singapore",
+      "data_sources": [
+        "openalex"
+      ],
+      "year": 2018
+    },
+    {
+      "gs_id": "GS-128",
+      "corpus_id": "BES-1245",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "voting",
+        "elections"
+      ],
+      "title": "Research on the Application of Blockchain Technology in the Field of Corporate Governance",
+      "data_sources": [
+        "openalex"
+      ],
+      "year": 2021
+    },
+    {
+      "gs_id": "GS-129",
+      "corpus_id": "BES-1036",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "electoral",
+        "election",
+        "voting",
+        "elections",
+        "votes",
+        "vote"
+      ],
+      "title": "E-Vote System Using Blockchain and Artificial Intelligence",
+      "data_sources": [
+        "openalex",
+        "semantic_scholar"
+      ],
+      "year": 2022
+    },
+    {
+      "gs_id": "GS-130",
+      "corpus_id": "BES-0132",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "election",
+        "electoral",
+        "voting",
+        "votes",
+        "elections",
+        "voters",
+        "vote"
+      ],
+      "title": "Secure Vote: Revolutionising Democracy Through Blockchain Technology",
+      "data_sources": [
+        "semantic_scholar"
+      ],
+      "year": 2025
+    },
+    {
+      "gs_id": "GS-131",
+      "corpus_id": "BES-1837",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "voting",
+        "votes",
+        "polls"
+      ],
+      "title": "Blockchain in Voting System Application",
+      "data_sources": [
+        "openalex"
+      ],
+      "year": 2018
+    },
+    {
+      "gs_id": "GS-132",
+      "corpus_id": "BES-1133",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "ballot",
+        "election",
+        "voting",
+        "polling",
+        "voters",
+        "vote",
+        "voter"
+      ],
+      "title": "Blockchain based Voting system in Local Network",
+      "data_sources": [
+        "openalex",
+        "semantic_scholar"
+      ],
+      "year": 2021
+    },
+    {
+      "gs_id": "GS-133",
+      "corpus_id": "BES-1200",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "vote",
+        "voting",
+        "voters"
+      ],
+      "title": "DNSonChain: Delegating Privacy-Preserved DNS Resolution to Blockchain",
+      "data_sources": [
+        "openalex"
+      ],
+      "year": 2021
+    },
+    {
+      "gs_id": "GS-134",
+      "corpus_id": "BES-1888",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "elections"
+      ],
+      "title": "Competing populisms in post-authoritarian Indonesia",
+      "data_sources": [
+        "openalex"
+      ],
+      "year": 2017
+    },
+    {
+      "gs_id": "GS-135",
+      "corpus_id": "BES-1847",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "e-voting",
+        "election",
+        "elections",
+        "votes"
+      ],
+      "title": "Block-Chain Based E-Voting For Indonesia",
+      "data_sources": [
+        "openalex",
+        "semantic_scholar"
+      ],
+      "year": 2018
+    },
+    {
+      "gs_id": "GS-136",
+      "corpus_id": "BES-1561",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "electoral",
+        "election",
+        "voting",
+        "elections",
+        "vote",
+        "voter"
+      ],
+      "title": "KawalPilkada: A Conceptual Secure ElectronicVote System Based Blockchain Technology",
+      "data_sources": [
+        "core"
+      ],
+      "year": 2020
+    },
+    {
+      "gs_id": "GS-137",
+      "corpus_id": "BES-1260",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "e-voting",
+        "voting"
+      ],
+      "title": "Towards Secure and Auditable E-Voting System with Go Ethereum",
+      "data_sources": [
+        "openalex",
+        "core"
+      ],
+      "year": 2021
+    },
+    {
+      "gs_id": "GS-138",
+      "corpus_id": "BES-0965",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "electoral",
+        "election",
+        "e-voting",
+        "voting",
+        "votes",
+        "voters",
+        "vote",
+        "voter"
+      ],
+      "title": "Blockvoting:An Online Voting System Using Block Chain",
+      "data_sources": [
+        "openalex",
+        "semantic_scholar"
+      ],
+      "year": 2022
+    },
+    {
+      "gs_id": "GS-139",
+      "corpus_id": "BES-1248",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "election"
+      ],
+      "title": "Achieve Better Endorsement Balance on Blockchain Systems",
+      "data_sources": [
+        "semantic_scholar"
+      ],
+      "year": 2021
+    },
+    {
+      "gs_id": "GS-140",
+      "corpus_id": "BES-0063",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "ballot",
+        "e-voting",
+        "voting",
+        "votes",
+        "elections",
+        "voters",
+        "vote"
+      ],
+      "title": "Beyond the Ballot Box: Decentralized Voting on the Ethereum Blockchain",
+      "data_sources": [
+        "openalex",
+        "semantic_scholar"
+      ],
+      "year": 2025
+    },
+    {
+      "gs_id": "GS-141",
+      "corpus_id": "BES-0232",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "ballot",
+        "election",
+        "e-voting",
+        "voting",
+        "votes",
+        "elections",
+        "ballots",
+        "vote",
+        "voter"
+      ],
+      "title": "Privacy Preserving E-Voting System Using Homomorphic Encryption",
+      "data_sources": [
+        "core"
+      ],
+      "year": 2025
+    },
+    {
+      "gs_id": "GS-142",
+      "corpus_id": "BES-1715",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "election",
+        "voting",
+        "elections"
+      ],
+      "title": "The Concept of Electronic Voting Based on Blockchain",
+      "data_sources": [
+        "semantic_scholar"
+      ],
+      "year": 2019
+    },
+    {
+      "gs_id": "GS-143",
+      "corpus_id": "BES-1546",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "ballot",
+        "electoral",
+        "election",
+        "poll",
+        "e-voting",
+        "voting",
+        "elections",
+        "votes",
+        "voters",
+        "vote",
+        "voter"
+      ],
+      "title": "Role of Technology in the Development of Smart and Secure Public Voting Systems – a Review of Litera",
+      "data_sources": [
+        "semantic_scholar"
+      ],
+      "year": 2020
+    },
+    {
+      "gs_id": "GS-144",
+      "corpus_id": "BES-1359",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "election"
+      ],
+      "title": "PAC Mode Estimation using PPR Martingale Confidence Sequences",
+      "data_sources": [
+        "arxiv"
+      ],
+      "year": 2021
+    },
+    {
+      "gs_id": "GS-145",
+      "corpus_id": "BES-0509",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "e-voting",
+        "voting"
+      ],
+      "title": "PERANCANGAN E-VOTING  BERBASIS SMART CONTRACT MENGGUNAKAN KEAMANAN ALGORITMA KONSENSUS PROOF-OF-STAK",
+      "data_sources": [
+        "core"
+      ],
+      "year": 2024
+    },
+    {
+      "gs_id": "GS-146",
+      "corpus_id": "BES-0954",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "voting",
+        "elections"
+      ],
+      "title": "Anonymous voting scheme using quantum assisted blockchain",
+      "data_sources": [
+        "semantic_scholar",
+        "arxiv"
+      ],
+      "year": 2022
+    },
+    {
+      "gs_id": "GS-147",
+      "corpus_id": "BES-0888",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "vote",
+        "voting",
+        "voters",
+        "elections"
+      ],
+      "title": "Low Power Blockchained E-Vote Platform for University Environment",
+      "data_sources": [
+        "openalex",
+        "mdpi"
+      ],
+      "year": 2022
+    },
+    {
+      "gs_id": "GS-148",
+      "corpus_id": "BES-0090",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "e-voting",
+        "voting"
+      ],
+      "title": "Blockchain Based E-Voting System Hosted on Cloud",
+      "data_sources": [
+        "semantic_scholar"
+      ],
+      "year": 2025
+    },
+    {
+      "gs_id": "GS-149",
+      "corpus_id": "BES-0793",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "polling",
+        "electoral",
+        "voting",
+        "elections"
+      ],
+      "title": "Utilizing Blockchain Technology and Fingerprint Authentication for an Electronic Voting System.",
+      "data_sources": [
+        "semantic_scholar"
+      ],
+      "year": 2023
+    },
+    {
+      "gs_id": "GS-150",
+      "corpus_id": "BES-0883",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "election",
+        "voting"
+      ],
+      "title": "Primary node election based on probabilistic linguistic term set with confidence interval in the PBF",
+      "data_sources": [
+        "openalex",
+        "semantic_scholar"
+      ],
+      "year": 2022
+    },
+    {
+      "gs_id": "GS-151",
+      "corpus_id": "BES-1454",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "voting"
+      ],
+      "title": "Decentralized electronic voting system based on blockchain technology developing principals",
+      "data_sources": [
+        "openalex",
+        "semantic_scholar"
+      ],
+      "year": 2020
+    },
+    {
+      "gs_id": "GS-152",
+      "corpus_id": "BES-1867",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "electoral",
+        "election",
+        "voting",
+        "votes",
+        "elections",
+        "voter"
+      ],
+      "title": "Smart democracies in Africa: legitimizing Kenyan elections through block-chain technology",
+      "data_sources": [
+        "core"
+      ],
+      "year": 2018
+    },
+    {
+      "gs_id": "GS-153",
+      "corpus_id": "BES-1461",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "elections"
+      ],
+      "title": "Less democracy, more centralism: the selection of Candidates by Golkar and PDIP in Indonesian subnat",
+      "data_sources": [
+        "openalex"
+      ],
+      "year": 2020
+    },
+    {
+      "gs_id": "GS-154",
+      "corpus_id": "BES-1355",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "vote",
+        "voting",
+        "voters"
+      ],
+      "title": "Vote Delegation and Misbehavior",
+      "data_sources": [
+        "arxiv"
+      ],
+      "year": 2021
+    },
+    {
+      "gs_id": "GS-155",
+      "corpus_id": "BES-1340",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "elections",
+        "referendum"
+      ],
+      "title": "The citizens' initiative referendum: a tool to fight against inequality and the absence of counter-p",
+      "data_sources": [
+        "core"
+      ],
+      "year": 2021
+    },
+    {
+      "gs_id": "GS-156",
+      "corpus_id": "BES-0474",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "e-voting",
+        "electoral",
+        "voting"
+      ],
+      "title": "Elegant Techniques and Methods for Blockchain-Powered Electronic Voting Systems",
+      "data_sources": [
+        "semantic_scholar"
+      ],
+      "year": 2024
+    },
+    {
+      "gs_id": "GS-157",
+      "corpus_id": "BES-0753",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "e-voting",
+        "voting",
+        "votes",
+        "voters",
+        "vote",
+        "voter"
+      ],
+      "title": "An Overview of Joint Biometric Identification for Secure Online Voting with Blockchain Technology",
+      "data_sources": [
+        "openalex"
+      ],
+      "year": 2023
+    },
+    {
+      "gs_id": "GS-158",
+      "corpus_id": "BES-1594",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "voting",
+        "voter"
+      ],
+      "title": "Rule by Violence, Rule by Law: Lynching, Jim Crow, and the Continuing Evolution of Voter Suppression",
+      "data_sources": [
+        "openalex"
+      ],
+      "year": 2019
+    },
+    {
+      "gs_id": "GS-159",
+      "corpus_id": "BES-1275",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "e-voting",
+        "voting"
+      ],
+      "title": "A close scrutiny of dApps and developing an e-voting dApp using Ethereum Blockchain",
+      "data_sources": [
+        "openalex",
+        "semantic_scholar"
+      ],
+      "year": 2021
+    },
+    {
+      "gs_id": "GS-160",
+      "corpus_id": "BES-0795",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "electoral",
+        "elections",
+        "voting",
+        "voter"
+      ],
+      "title": "Using Blockchain Technology to Curb Voter Fraud in Nigeria",
+      "data_sources": [
+        "semantic_scholar",
+        "core"
+      ],
+      "year": 2023
+    },
+    {
+      "gs_id": "GS-161",
+      "corpus_id": "BES-0330",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "voting",
+        "votes"
+      ],
+      "title": "Invited Paper: Blockchain Governance and Liquid Democracy -- Quantifying Decentralization in Gitcoin",
+      "data_sources": [
+        "openalex"
+      ],
+      "year": 2024
+    },
+    {
+      "gs_id": "GS-162",
+      "corpus_id": "BES-1134",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "vote",
+        "voting",
+        "voters",
+        "votes"
+      ],
+      "title": "Multi-Candidate Voting Model Based on Blockchain",
+      "data_sources": [
+        "openalex",
+        "semantic_scholar"
+      ],
+      "year": 2021
+    },
+    {
+      "gs_id": "GS-163",
+      "corpus_id": "BES-1770",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "e-voting"
+      ],
+      "title": "A Practical Solution to Yao's Millionaires' Problem and Its Application in Designing Secure Combinat",
+      "data_sources": [
+        "arxiv"
+      ],
+      "year": 2019
+    },
+    {
+      "gs_id": "GS-164",
+      "corpus_id": "BES-0889",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "election"
+      ],
+      "title": "Machine-Learning-Enhanced Blockchain Consensus With Transaction Prioritization for Smart Cities",
+      "data_sources": [
+        "openalex",
+        "semantic_scholar",
+        "arxiv"
+      ],
+      "year": 2022
+    },
+    {
+      "gs_id": "GS-165",
+      "corpus_id": "BES-1951",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "electoral"
+      ],
+      "title": "Democratic transitions, health institutions, and financial protection in the emerging economies: ins",
+      "data_sources": [
+        "openalex"
+      ],
+      "year": 2016
+    },
+    {
+      "gs_id": "GS-166",
+      "corpus_id": "BES-0477",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "ballot",
+        "electoral",
+        "e-voting",
+        "voting",
+        "vote",
+        "voter"
+      ],
+      "title": "SECURING THE VOTE: LEVERAGING ANOMALY DETECTION IN BLOCKCHAIN SYSTEMS",
+      "data_sources": [
+        "semantic_scholar"
+      ],
+      "year": 2024
+    },
+    {
+      "gs_id": "GS-167",
+      "corpus_id": "BES-1684",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "election"
+      ],
+      "title": "MPC-DPOS",
+      "data_sources": [
+        "openalex",
+        "semantic_scholar"
+      ],
+      "year": 2019
+    },
+    {
+      "gs_id": "GS-168",
+      "corpus_id": "BES-0945",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "ballot",
+        "e-voting",
+        "voting",
+        "elections"
+      ],
+      "title": "Development of Blockchain-based e-Voting System: Requirements, Design and Security Perspective",
+      "data_sources": [
+        "openalex",
+        "semantic_scholar"
+      ],
+      "year": 2022
+    },
+    {
+      "gs_id": "GS-169",
+      "corpus_id": "BES-1392",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "vote",
+        "electoral",
+        "voting",
+        "voters"
+      ],
+      "title": "How Weakly Institutionalized Parties Monitor Brokers in Developing Democracies: Evidence from Postco",
+      "data_sources": [
+        "openalex"
+      ],
+      "year": 2020
+    },
+    {
+      "gs_id": "GS-170",
+      "corpus_id": "BES-0067",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "election"
+      ],
+      "title": "Optimizing Notary Election for Cross-Chain Blockchain Transactions Using SVM",
+      "data_sources": [
+        "semantic_scholar"
+      ],
+      "year": 2025
+    },
+    {
+      "gs_id": "GS-171",
+      "corpus_id": "BES-0664",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "electoral",
+        "elections"
+      ],
+      "title": "Mayoral elections and partisan dynamics in Africa’s local governments",
+      "data_sources": [
+        "openalex"
+      ],
+      "year": 2023
+    },
+    {
+      "gs_id": "GS-172",
+      "corpus_id": "BES-0484",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "electoral",
+        "election",
+        "e-voting",
+        "voting",
+        "vote"
+      ],
+      "title": "B Vote: Block chain Based Voting System",
+      "data_sources": [
+        "semantic_scholar"
+      ],
+      "year": 2024
+    },
+    {
+      "gs_id": "GS-173",
+      "corpus_id": "BES-0455",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "electoral",
+        "election",
+        "e-voting",
+        "voting",
+        "elections",
+        "voters",
+        "voter"
+      ],
+      "title": "Blockchain-Powered E-Voting: A Pathway to SDG 16 Transparent and Inclusive Elections",
+      "data_sources": [
+        "semantic_scholar"
+      ],
+      "year": 2024
+    },
+    {
+      "gs_id": "GS-174",
+      "corpus_id": "BES-0513",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "electoral",
+        "election",
+        "voting",
+        "voter"
+      ],
+      "title": "Examining the Role of ICT in Addressing Potential Issues in Indonesian Absentee Voting in Malaysia",
+      "data_sources": [
+        "core"
+      ],
+      "year": 2024
+    },
+    {
+      "gs_id": "GS-175",
+      "corpus_id": "BES-0523",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "elections"
+      ],
+      "title": "STUDENTS’ PERCEPTIONS OF MONEY POLITICS IN THE 2024 ELECTIONS : ANALYSIS OF MORAL VALUE AND INTEGRIT",
+      "data_sources": [
+        "core"
+      ],
+      "year": 2024
+    },
+    {
+      "gs_id": "GS-176",
+      "corpus_id": "BES-0181",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "vote",
+        "electoral",
+        "voting",
+        "voter"
+      ],
+      "title": "AuraVote: A Secure, Decentralized Voting System with AI-Powered Liveness and Identity Verification",
+      "data_sources": [
+        "semantic_scholar"
+      ],
+      "year": 2025
+    },
+    {
+      "gs_id": "GS-177",
+      "corpus_id": "BES-0261",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "election",
+        "voting",
+        "voters",
+        "vote",
+        "voter"
+      ],
+      "title": "Fair Compromises in Participatory Budgeting: a Multi-Agent Deep Reinforcement Learning Approach",
+      "data_sources": [
+        "arxiv"
+      ],
+      "year": 2025
+    },
+    {
+      "gs_id": "GS-178",
+      "corpus_id": "BES-1404",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "voting"
+      ],
+      "title": "QPBFT: Practical Byzantine Fault Tolerance Consensus Algorithm Based on Quantified-Role",
+      "data_sources": [
+        "openalex"
+      ],
+      "year": 2020
+    },
+    {
+      "gs_id": "GS-179",
+      "corpus_id": "BES-0745",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "e-voting",
+        "election",
+        "vote",
+        "voting"
+      ],
+      "title": "E-Voting System Improvised by Blockchain Technology: A Case Study",
+      "data_sources": [
+        "openalex",
+        "semantic_scholar"
+      ],
+      "year": 2023
+    },
+    {
+      "gs_id": "GS-180",
+      "corpus_id": "BES-1377",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "e-voting",
+        "voting",
+        "votes",
+        "voters",
+        "vote"
+      ],
+      "title": "Electronic Voting based on Virtual ID of Aadhar using Blockchain Technology",
+      "data_sources": [
+        "openalex",
+        "semantic_scholar"
+      ],
+      "year": 2020
+    },
+    {
+      "gs_id": "GS-181",
+      "corpus_id": "BES-0580",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "ballot",
+        "election",
+        "voting",
+        "elections",
+        "votes",
+        "voters",
+        "vote",
+        "voter"
+      ],
+      "title": "ElectAnon: A Blockchain-based, Anonymous, Robust, and Scalable Ranked-choice Voting Protocol",
+      "data_sources": [
+        "openalex",
+        "semantic_scholar",
+        "arxiv"
+      ],
+      "year": 2023
+    },
+    {
+      "gs_id": "GS-182",
+      "corpus_id": "BES-0840",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "election",
+        "voting",
+        "voters",
+        "votes"
+      ],
+      "title": "Proof of the possibility for a public audit of a secret internet voting system",
+      "data_sources": [
+        "core"
+      ],
+      "year": 2023
+    },
+    {
+      "gs_id": "GS-183",
+      "corpus_id": "BES-0165",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "election"
+      ],
+      "title": "A Space-Time Trade-off for Fast Self-Stabilizing Leader Election in Population Protocols",
+      "data_sources": [
+        "semantic_scholar"
+      ],
+      "year": 2025
+    },
+    {
+      "gs_id": "GS-184",
+      "corpus_id": "BES-1234",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "voting"
+      ],
+      "title": "Controllable anonymous authentication scheme based on blockchain and decentralized traceable attribu",
+      "data_sources": [
+        "openalex"
+      ],
+      "year": 2021
+    },
+    {
+      "gs_id": "GS-185",
+      "corpus_id": "BES-1351",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "voting",
+        "voters",
+        "elections",
+        "voter"
+      ],
+      "title": "The Applicability of Internet Voting in Africa",
+      "data_sources": [
+        "core"
+      ],
+      "year": 2021
+    },
+    {
+      "gs_id": "GS-186",
+      "corpus_id": "BES-0443",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "election",
+        "electoral",
+        "voting",
+        "elections",
+        "voters",
+        "vote"
+      ],
+      "title": "Success Factors for Conceptual Digital Voting Model",
+      "data_sources": [
+        "semantic_scholar"
+      ],
+      "year": 2024
+    },
+    {
+      "gs_id": "GS-187",
+      "corpus_id": "BES-0829",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "ballot",
+        "e-voting",
+        "voting",
+        "elections",
+        "ballots",
+        "voter"
+      ],
+      "title": "VeriVoting: A decentralized, verifiable and privacy-preserving scheme for weighted voting",
+      "data_sources": [
+        "core"
+      ],
+      "year": 2023
+    },
+    {
+      "gs_id": "GS-188",
+      "corpus_id": "BES-1481",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "e-voting",
+        "voting",
+        "votes"
+      ],
+      "title": "A Competent and Accurate BlockChain based E-Voting System on Liquid Democracy",
+      "data_sources": [
+        "openalex",
+        "semantic_scholar"
+      ],
+      "year": 2020
+    },
+    {
+      "gs_id": "GS-189",
+      "corpus_id": "BES-0562",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "vote",
+        "voting",
+        "voters",
+        "votes"
+      ],
+      "title": "Understanding Blockchain Governance: Analyzing Decentralized Voting to Amend DeFi Smart Contracts",
+      "data_sources": [
+        "semantic_scholar",
+        "core",
+        "arxiv"
+      ],
+      "year": 2023
+    },
+    {
+      "gs_id": "GS-190",
+      "corpus_id": "BES-1713",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "ballot",
+        "voting",
+        "votes",
+        "voter"
+      ],
+      "title": "Electronic voting through DE-PBFT consensus and DAG data structure",
+      "data_sources": [
+        "openalex"
+      ],
+      "year": 2019
+    },
+    {
+      "gs_id": "GS-191",
+      "corpus_id": "BES-0201",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "electoral",
+        "election",
+        "voting",
+        "votes",
+        "vote",
+        "voter"
+      ],
+      "title": "Blockchain Voting Systems: A Leap Towards Electoral Security and Clarity",
+      "data_sources": [
+        "semantic_scholar"
+      ],
+      "year": 2025
+    },
+    {
+      "gs_id": "GS-192",
+      "corpus_id": "BES-0759",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "voting"
+      ],
+      "title": "Audit model using controls from ISO/IEC 27002 for the information security of electronic voting base",
+      "data_sources": [
+        "openalex"
+      ],
+      "year": 2023
+    },
+    {
+      "gs_id": "GS-193",
+      "corpus_id": "BES-1525",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "electoral",
+        "elections"
+      ],
+      "title": "Small versus Statewide Parties: How Subnational Contestation and Decentralisation Influence Presiden",
+      "data_sources": [
+        "openalex"
+      ],
+      "year": 2020
+    },
+    {
+      "gs_id": "GS-194",
+      "corpus_id": "BES-0228",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "electoral"
+      ],
+      "title": "Electorial Account Applications: Paradoks Transformasional dan Kerentanan Elektoral pada Pemilu di I",
+      "data_sources": [
+        "core"
+      ],
+      "year": 2025
+    },
+    {
+      "gs_id": "GS-195",
+      "corpus_id": "BES-0144",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "electoral",
+        "e-voting",
+        "voting",
+        "elections",
+        "ballots",
+        "voters",
+        "voter"
+      ],
+      "title": "Blockchain in Electronic Voting Systems: Trust and Security Challenges",
+      "data_sources": [
+        "semantic_scholar"
+      ],
+      "year": 2025
+    },
+    {
+      "gs_id": "GS-196",
+      "corpus_id": "BES-1606",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "electoral",
+        "elections"
+      ],
+      "title": "Islamic Defenders Front Militia (Front Pembela Islam) and its Impact on Growing Religious Intoleranc",
+      "data_sources": [
+        "openalex"
+      ],
+      "year": 2019
+    },
+    {
+      "gs_id": "GS-197",
+      "corpus_id": "BES-1518",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "election"
+      ],
+      "title": "Brief Announcement: Optimal Time and Space Leader Election in Population Protocols",
+      "data_sources": [
+        "semantic_scholar"
+      ],
+      "year": 2020
+    },
+    {
+      "gs_id": "GS-198",
+      "corpus_id": "BES-1949",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "electoral",
+        "voting",
+        "votes",
+        "voters",
+        "vote"
+      ],
+      "title": "Centralized personalization at the expense of decentralized personalization. The decline of preferen",
+      "data_sources": [
+        "openalex"
+      ],
+      "year": 2016
+    },
+    {
+      "gs_id": "GS-199",
+      "corpus_id": "BES-0448",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "electoral",
+        "e-voting",
+        "elections",
+        "votes",
+        "ballots",
+        "voters"
+      ],
+      "title": "Implementasi Sistem E-Voting Berbasis Blockchain: Mendefinisikan Masa Depan Demokrasi yang Lebih Ink",
+      "data_sources": [
+        "semantic_scholar",
+        "core"
+      ],
+      "year": 2024
+    },
+    {
+      "gs_id": "GS-200",
+      "corpus_id": "BES-1530",
+      "pool": "A",
+      "pool_description": "with_electoral_keywords",
+      "matched_keywords": [
+        "e-voting",
+        "voting"
+      ],
+      "title": "A New Perceptive of E Voting with Blockchain",
+      "data_sources": [
+        "openalex",
+        "semantic_scholar"
+      ],
+      "year": 2020
+    }
+  ]
+}
