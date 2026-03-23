@@ -1,0 +1,1557 @@
+/**
+ * Screening.css (v4.0 with Blockchain Audit)
+ * ===========================================
+ * Styles for Human Screening Module component
+ * 
+ * Author: PaSSER-SR Team
+ * Date: January 2026
+ * Version: 4.0
+ */
+
+/* Container */
+.screening-container {
+    padding: 1.5rem;
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+/* Header */
+.screening-header {
+    margin-bottom: 1.5rem;
+}
+
+.header-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+.header-info h2 {
+    margin: 0 0 0.5rem 0;
+    color: #1e3a5f;
+}
+
+.user-info {
+    color: #6c757d;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+}
+
+.role-tag { margin-left: 0.25rem; }
+
+.header-project {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    gap: 0.5rem;
+}
+
+.project-selector {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.5rem 1rem;
+    background: #f8f9fa;
+    border: 1px solid #e9ecef;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.project-selector:hover {
+    background: #e9ecef;
+    border-color: #dee2e6;
+}
+
+.project-label {
+    color: #6c757d;
+    font-size: 0.875rem;
+}
+
+.project-name {
+    font-weight: 600;
+    color: #1e3a5f;
+}
+
+/* Project Counts */
+.project-counts {
+    display: flex;
+    gap: 1rem;
+    font-size: 0.85rem;
+    color: #6c757d;
+}
+
+.count-item {
+    display: flex;
+    align-items: center;
+    gap: 0.35rem;
+}
+
+.count-item i {
+    font-size: 0.8rem;
+    color: #3B82F6;
+}
+
+.header-stats {
+    text-align: right;
+}
+
+.stats-number {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: #3B82F6;
+}
+
+.stats-label {
+    color: #6c757d;
+    font-size: 0.75rem;
+}
+
+.progress-bar {
+    margin-top: 1rem;
+    height: 8px;
+}
+
+/* Project Sidebar */
+.project-sidebar {
+    width: 380px !important;
+}
+
+.project-sidebar h3 {
+    margin: 0 0 1.5rem 0;
+    color: #1e3a5f;
+}
+
+.project-list {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+}
+
+.project-item {
+    padding: 1rem;
+    border: 1px solid #e9ecef;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.project-item:hover {
+    border-color: #3B82F6;
+    background: #f8f9fa;
+}
+
+.project-item.selected {
+    border-color: #3B82F6;
+    background: #eff6ff;
+}
+
+.project-item-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 0.25rem;
+}
+
+.project-item-id {
+    font-size: 0.75rem;
+    color: #6c757d;
+    font-family: monospace;
+}
+
+.project-item-counts {
+    display: flex;
+    gap: 1rem;
+    font-size: 0.8rem;
+    color: #6c757d;
+    margin-top: 0.5rem;
+}
+
+/* Project Selection Card */
+.project-selection-card {
+    text-align: center;
+    padding: 2rem;
+}
+
+.project-selection-card h3 {
+    color: #1e3a5f;
+}
+
+/* Toolbar */
+.toolbar {
+    margin-bottom: 1rem;
+    padding: 0.75rem;
+    background: #f8f9fa;
+    border-radius: 6px;
+}
+
+.corpus-total {
+    color: #6c757d;
+    font-size: 0.9rem;
+}
+
+/* Tables */
+.papers-table {
+    font-size: 0.9rem;
+}
+
+.papers-table .p-datatable-tbody > tr:hover {
+    background: #f1f5f9;
+}
+
+/* Decisions List */
+.decisions-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.25rem;
+}
+
+.decision-tag {
+    margin-right: 0.25rem;
+}
+
+/* Statistics */
+.statistics-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 1rem;
+}
+
+.stats-panel {
+    min-width: 0;
+}
+
+.stats-panel.full-width {
+    grid-column: 1 / -1;
+}
+
+.stats-list {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.stats-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.25rem 0;
+}
+
+.screener-stats {
+    margin-bottom: 1rem;
+    padding-bottom: 0.75rem;
+    border-bottom: 1px solid #e9ecef;
+}
+
+.screener-stats:last-child {
+    border-bottom: none;
+    margin-bottom: 0;
+}
+
+.screener-details {
+    color: #6c757d;
+    font-size: 0.875rem;
+    margin-top: 0.25rem;
+}
+
+/* Dialogs */
+.screening-dialog {
+    width: 90vw;
+    max-width: 900px;
+}
+
+.resolution-dialog {
+    width: 90vw;
+    max-width: 800px;
+}
+
+.verify-dialog {
+    width: 90vw;
+    max-width: 500px;
+}
+
+.dialog-footer {
+    display: flex;
+    justify-content: flex-end;
+    gap: 0.5rem;
+}
+
+/* Paper Details */
+.paper-details {
+    padding: 0.5rem 0;
+}
+
+.paper-metadata {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    color: #6c757d;
+    margin-bottom: 1rem;
+}
+
+.paper-metadata span {
+    display: flex;
+    align-items: center;
+    gap: 0.35rem;
+}
+
+.paper-metadata i {
+    font-size: 0.875rem;
+}
+
+.paper-metadata a {
+    color: #3B82F6;
+    text-decoration: none;
+}
+
+.paper-metadata a:hover {
+    text-decoration: underline;
+}
+
+.paper-authors {
+    color: #6c757d;
+    margin-bottom: 1rem;
+    font-size: 0.9rem;
+}
+
+.abstract-panel {
+    margin-bottom: 1.5rem;
+}
+
+.abstract-text {
+    white-space: pre-wrap;
+    line-height: 1.6;
+    margin: 0;
+    color: #333;
+}
+
+/* Form Fields */
+.form-field {
+    margin-bottom: 1.25rem;
+}
+
+.form-field label {
+    display: block;
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+    color: #333;
+}
+
+.form-field small {
+    display: block;
+    margin-top: 0.25rem;
+    color: #6c757d;
+    font-size: 0.8rem;
+}
+
+.radio-group {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+.radio-item {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.radio-item label {
+    font-weight: normal;
+    margin-bottom: 0;
+    cursor: pointer;
+}
+
+.reason-textarea {
+    width: 100%;
+}
+
+/* Criteria Panel */
+.criteria-panel {
+    margin-top: 1rem;
+}
+
+.criteria-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 1.5rem;
+}
+
+.criteria-column ul {
+    margin: 0;
+    padding-left: 1.25rem;
+}
+
+.criteria-column li {
+    margin-bottom: 0.5rem;
+    font-size: 0.875rem;
+    color: #555;
+}
+
+.include-header {
+    color: #22c55e;
+    margin: 0 0 0.75rem 0;
+}
+
+.exclude-header {
+    color: #ef4444;
+    margin: 0 0 0.75rem 0;
+}
+
+/* Resolution Content */
+.resolution-content h4 {
+    margin: 0 0 1rem 0;
+    color: #1e3a5f;
+}
+
+.decisions-panel {
+    margin-bottom: 1rem;
+}
+
+.screener-decision {
+    padding: 0.75rem;
+    background: #f8f9fa;
+    border-radius: 6px;
+    margin-bottom: 0.5rem;
+}
+
+.screener-decision:last-child {
+    margin-bottom: 0;
+}
+
+.screener-decision .confidence {
+    margin-left: 0.5rem;
+    color: #6c757d;
+}
+
+.decision-reason {
+    margin: 0.5rem 0 0 0;
+    color: #6c757d;
+    font-size: 0.9rem;
+}
+
+/* =============================================================================
+   BLOCKCHAIN AUDIT STYLES
+   ============================================================================= */
+
+.audit-container {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+}
+
+/* Audit Header Section */
+.audit-header-section {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.audit-title-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+.audit-title {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+}
+
+.audit-title i {
+    font-size: 1.5rem;
+    color: #f59e0b;
+}
+
+.audit-title h3 {
+    margin: 0;
+    color: #1e3a5f;
+}
+
+.audit-actions {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+}
+
+.milestone-dropdown {
+    min-width: 200px;
+}
+
+.audit-info-message {
+    width: 100%;
+}
+
+/* Audit Status Section */
+.audit-status-section {
+    margin-bottom: 0.5rem;
+}
+
+.audit-stats-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 1rem;
+}
+
+.audit-stat-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 1rem;
+    background: #f8f9fa;
+    border-radius: 8px;
+    text-align: center;
+}
+
+.audit-stat-label {
+    font-size: 0.85rem;
+    color: #6c757d;
+    margin-bottom: 0.25rem;
+}
+
+.audit-stat-value {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: #1e3a5f;
+}
+
+/* Audit Exports Panel */
+.audit-exports-panel {
+    margin-top: 0.5rem;
+}
+
+.audit-table {
+    font-size: 0.9rem;
+}
+
+.audit-table .p-datatable-tbody > tr:hover {
+    background: #f1f5f9;
+}
+
+/* Milestone Cell */
+.milestone-cell {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.milestone-cell i {
+    font-size: 1rem;
+    color: #3B82F6;
+}
+
+/* Filename Cell */
+.filename-cell {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+}
+
+.filename-cell code {
+    font-size: 0.85rem;
+    color: #1e3a5f;
+    background: #f1f5f9;
+    padding: 0.2rem 0.4rem;
+    border-radius: 4px;
+}
+
+.filename-cell small {
+    color: #6c757d;
+    font-size: 0.75rem;
+}
+
+/* Merkle Root */
+.merkle-root {
+    font-size: 0.8rem;
+    background: #fef3c7;
+    color: #92400e;
+    padding: 0.25rem 0.5rem;
+    border-radius: 4px;
+    font-family: monospace;
+    cursor: help;
+}
+
+/* Audit Status Tag */
+.audit-status-tag {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.25rem;
+}
+
+/* Audit Action Buttons */
+.audit-action-buttons {
+    display: flex;
+    gap: 0.25rem;
+}
+
+/* Audit Empty State */
+.audit-empty {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 3rem 2rem;
+    color: #6c757d;
+    text-align: center;
+}
+
+.audit-empty i {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+    opacity: 0.5;
+}
+
+.audit-empty p {
+    margin: 0;
+    font-size: 0.95rem;
+}
+
+/* Audit Instructions Panel */
+.audit-instructions-panel {
+    margin-top: 0.5rem;
+}
+
+.instructions-content {
+    color: #333;
+    line-height: 1.6;
+}
+
+.instructions-content h4 {
+    color: #1e3a5f;
+    margin: 1.5rem 0 0.75rem 0;
+}
+
+.instructions-content h4:first-child {
+    margin-top: 0;
+}
+
+.instructions-content ol {
+    margin: 0;
+    padding-left: 1.5rem;
+}
+
+.instructions-content li {
+    margin-bottom: 0.75rem;
+}
+
+.instructions-content li strong {
+    color: #1e3a5f;
+}
+
+.instructions-content li p {
+    margin: 0.25rem 0 0 0;
+    color: #6c757d;
+    font-size: 0.9rem;
+}
+
+.instructions-content code {
+    background: #f1f5f9;
+    padding: 0.2rem 0.4rem;
+    border-radius: 4px;
+    font-size: 0.85rem;
+    color: #e11d48;
+}
+
+/* Verify Dialog */
+.verify-content {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.verify-content p {
+    margin: 0;
+    color: #6c757d;
+}
+
+.verify-upload {
+    width: 100%;
+}
+
+.selected-file {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.75rem 1rem;
+    background: #f8f9fa;
+    border-radius: 6px;
+    color: #1e3a5f;
+}
+
+.selected-file i {
+    color: #3B82F6;
+}
+
+.verify-result {
+    display: flex;
+    align-items: flex-start;
+    gap: 0.75rem;
+    padding: 1rem;
+    border-radius: 8px;
+}
+
+.verify-result.valid {
+    background: #dcfce7;
+    border: 1px solid #86efac;
+}
+
+.verify-result.invalid {
+    background: #fee2e2;
+    border: 1px solid #fca5a5;
+}
+
+.verify-result i {
+    font-size: 1.5rem;
+}
+
+.verify-result.valid i {
+    color: #22c55e;
+}
+
+.verify-result.invalid i {
+    color: #ef4444;
+}
+
+.verify-result-content {
+    flex: 1;
+}
+
+.verify-result-content strong {
+    display: block;
+    margin-bottom: 0.25rem;
+}
+
+.verify-result-content p {
+    margin: 0;
+    font-size: 0.9rem;
+}
+
+.verify-result-content small {
+    display: block;
+    margin-top: 0.5rem;
+    color: #6c757d;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .screening-container {
+        padding: 1rem;
+    }
+
+    .header-content {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .header-project {
+        align-items: flex-start;
+        width: 100%;
+    }
+
+    .project-selector {
+        width: 100%;
+        justify-content: space-between;
+    }
+
+    .project-counts {
+        flex-wrap: wrap;
+    }
+
+    .header-stats {
+        text-align: left;
+    }
+
+    .stats-number {
+        font-size: 1.25rem;
+    }
+
+    .screening-dialog,
+    .resolution-dialog {
+        width: 95vw;
+    }
+
+    .project-sidebar {
+        width: 100% !important;
+    }
+
+    .criteria-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .radio-group {
+        flex-direction: column;
+        gap: 0.75rem;
+    }
+
+    /* Audit responsive */
+    .audit-title-row {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .audit-actions {
+        width: 100%;
+        flex-direction: column;
+    }
+
+    .audit-actions .p-button,
+    .audit-actions .p-dropdown {
+        width: 100%;
+    }
+
+    .audit-stats-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .audit-stat-item {
+        padding: 0.75rem;
+    }
+
+    .audit-stat-value {
+        font-size: 1.25rem;
+    }
+
+    .milestone-dropdown {
+        min-width: 100%;
+    }
+}
+
+/* PrimeReact Overrides */
+.p-tabview .p-tabview-nav {
+    background: transparent;
+}
+
+.p-tabview .p-tabview-panels {
+    padding: 1rem 0;
+}
+
+.p-panel .p-panel-header {
+    background: #f8f9fa;
+    border-color: #e9ecef;
+}
+
+.p-panel .p-panel-content {
+    border-color: #e9ecef;
+}
+
+.p-tag {
+    font-size: 0.8rem;
+}
+
+.p-dialog .p-dialog-header {
+    background: #f8f9fa;
+    border-bottom: 1px solid #e9ecef;
+}
+
+.p-dialog .p-dialog-footer {
+    border-top: 1px solid #e9ecef;
+    padding: 1rem 1.5rem;
+}
+
+.p-sidebar .p-sidebar-header {
+    padding: 1.25rem;
+}
+
+.p-sidebar .p-sidebar-content {
+    padding: 0 1.25rem 1.25rem;
+}
+
+.p-paginator {
+    background: transparent;
+    border: none;
+    padding: 1rem 0;
+}
+
+/* Confirm Dialog Override */
+.p-confirm-dialog .p-dialog-content {
+    padding: 1.5rem;
+}
+
+.p-confirm-dialog .p-confirm-dialog-message {
+    margin-left: 1rem;
+}
+
+/* Tooltip for Merkle Root */
+.p-tooltip .p-tooltip-text {
+    font-family: monospace;
+    font-size: 0.8rem;
+    word-break: break-all;
+    max-width: 400px;
+}
+
+/* Timeline for audit history */
+.p-timeline .p-timeline-event-content {
+    line-height: 1.4;
+}
+
+.p-timeline .p-timeline-event-marker {
+    background-color: #3B82F6;
+    border-color: #3B82F6;
+}
+
+/* File Upload Override */
+.p-fileupload .p-fileupload-buttonbar {
+    background: #f8f9fa;
+    border-color: #e9ecef;
+}
+
+.p-fileupload .p-fileupload-content {
+    border-color: #e9ecef;
+}
+
+/* ========================================================================== */
+/* BLOCKCHAIN TRANSACTION DIALOG */
+/* ========================================================================== */
+
+.tx-dialog .p-dialog-content {
+    padding: 0;
+}
+
+.tx-loading {
+    text-align: center;
+    padding: 3rem;
+    color: #6c757d;
+}
+
+.tx-loading i {
+    display: block;
+    margin-bottom: 1rem;
+    color: #3B82F6;
+}
+
+.tx-details {
+    padding: 1.5rem;
+}
+
+.tx-status-section {
+    display: flex;
+    justify-content: center;
+    gap: 0.5rem;
+    margin-bottom: 1rem;
+}
+
+.tx-panel {
+    margin-bottom: 1rem;
+}
+
+.tx-panel:last-child {
+    margin-bottom: 0;
+}
+
+.tx-info-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 1rem;
+}
+
+.tx-info-item {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+}
+
+.tx-info-item strong {
+    color: #495057;
+    font-size: 0.85rem;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.tx-info-item span,
+.tx-info-item code {
+    color: #212529;
+    font-size: 0.95rem;
+}
+
+.tx-id {
+    font-family: 'Courier New', monospace;
+    background: #f8f9fa;
+    padding: 0.25rem 0.5rem;
+    border-radius: 4px;
+    font-size: 0.85rem;
+    word-break: break-all;
+    display: block;
+    margin-top: 0.25rem;
+}
+
+.tx-data-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 0.75rem;
+    margin-top: 1rem;
+}
+
+.tx-data-item {
+    display: flex;
+    gap: 0.5rem;
+    padding: 0.5rem;
+    background: #f8f9fa;
+    border-radius: 4px;
+    align-items: baseline;
+}
+
+.tx-data-item strong {
+    color: #495057;
+    min-width: 120px;
+    font-size: 0.9rem;
+}
+
+.tx-data-item span {
+    color: #212529;
+    font-family: 'Courier New', monospace;
+    font-size: 0.9rem;
+    word-break: break-all;
+}
+
+.tx-json {
+    background: #1e1e1e;
+    color: #d4d4d4;
+    padding: 1rem;
+    border-radius: 4px;
+    font-family: 'Courier New', monospace;
+    font-size: 0.85rem;
+    max-height: 400px;
+    overflow: auto;
+    margin: 0;
+}
+
+.tx-json::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+}
+
+.tx-json::-webkit-scrollbar-track {
+    background: #2d2d2d;
+}
+
+.tx-json::-webkit-scrollbar-thumb {
+    background: #555;
+    border-radius: 4px;
+}
+
+.tx-json::-webkit-scrollbar-thumb:hover {
+    background: #666;
+}
+
+/* Force white text/icons for info-style buttons */
+.p-button-info,
+.p-button-info .p-button-label,
+.p-button-info .p-button-icon,
+.p-button-info.p-button-text,
+.p-button-rounded.p-button-text.p-button-info {
+  color: #ffffff !important;
+  fill: #ffffff !important;
+}
+.p-button-rounded.p-button-success.p-button-text {
+  color: #ffffff !important;
+  fill: #ffffff !important;
+}
+
+/**
+ * Screening_criteria.css
+ * ======================
+ * CSS for criteria checkboxes
+ */
+
+/* =============================================================================
+   CRITERIA CHECKBOXES
+   ============================================================================= */
+
+.criteria-checkboxes {
+    margin-top: 1rem;
+}
+
+.criteria-checkboxes > label {
+    display: block;
+    margin-bottom: 0.75rem;
+    font-weight: 600;
+}
+
+.criteria-checkboxes > label small {
+    font-weight: normal;
+    color: var(--text-color-secondary);
+}
+
+.criteria-group {
+    background: var(--surface-ground);
+    border-radius: 8px;
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
+
+.criteria-group.include-criteria {
+    border-left: 4px solid var(--green-500);
+}
+
+.criteria-group.exclude-criteria {
+    border-left: 4px solid var(--red-500);
+}
+
+.criteria-header {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    margin: 0 0 0.75rem 0;
+    font-size: 1rem;
+}
+
+.criteria-header.include-header {
+    color: var(--green-600);
+}
+
+.criteria-header.include-header i {
+    color: var(--green-500);
+}
+
+.criteria-header.exclude-header {
+    color: var(--red-600);
+}
+
+.criteria-header.exclude-header i {
+    color: var(--red-500);
+}
+
+.criteria-list {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.criteria-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 0.5rem;
+    padding: 0.5rem;
+    border-radius: 4px;
+    transition: background-color 0.2s;
+}
+
+.criteria-item:hover {
+    background: var(--surface-hover);
+}
+
+.criteria-item label {
+    cursor: pointer;
+    line-height: 1.4;
+    flex: 1;
+}
+
+.criteria-item label strong {
+    color: var(--primary-color);
+    margin-right: 0.25rem;
+}
+
+.criteria-item .p-checkbox {
+    margin-top: 2px;
+}
+
+/* Checked state styling */
+.criteria-item:has(.p-checkbox-checked) {
+    background: var(--primary-50);
+}
+
+.include-criteria .criteria-item:has(.p-checkbox-checked) {
+    background: var(--green-50);
+}
+
+.exclude-criteria .criteria-item:has(.p-checkbox-checked) {
+    background: var(--red-50);
+}
+
+/* Criteria chips display */
+.criteria-chips {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.25rem;
+    margin-top: 0.25rem;
+}
+
+.criteria-chip {
+    font-size: 0.7rem !important;
+    padding: 0.1rem 0.4rem !important;
+}
+
+.criteria-chip.include-chip {
+    background: var(--green-100) !important;
+    color: var(--green-700) !important;
+}
+
+.criteria-chip.exclude-chip {
+    background: var(--red-100) !important;
+    color: var(--red-700) !important;
+}
+
+/* Screener decision with criteria */
+.screener-decision {
+    margin-bottom: 1rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid var(--surface-border);
+}
+
+.screener-decision:last-child {
+    margin-bottom: 0;
+    padding-bottom: 0;
+    border-bottom: none;
+}
+
+.screener-decision .decision-criteria {
+    margin-top: 0.5rem;
+}
+
+/* Decision item in disagreements */
+.decision-item {
+    margin-bottom: 0.5rem;
+}
+
+/* Calibration tag */
+.calibration-tag {
+    font-size: 0.7rem;
+}
+
+/* Dialog width adjustments for criteria */
+.screening-dialog .p-dialog-content {
+    min-height: 400px;
+}
+
+.resolution-dialog .p-dialog-content {
+    min-height: 500px;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .criteria-group {
+        padding: 0.75rem;
+    }
+    
+    .criteria-item {
+        padding: 0.375rem;
+    }
+    
+    .criteria-item label {
+        font-size: 0.9rem;
+    }
+}
+
+/* Animation for selection */
+.criteria-item .p-checkbox-box {
+    transition: all 0.2s ease;
+}
+
+.criteria-item:hover .p-checkbox-box {
+    border-color: var(--primary-color);
+}
+
+/**
+ * Screening_criteria.css
+ * ======================
+ * Additional styles for criteria checkboxes in Screening v5.0
+ * Add this to your Screening.css or import separately
+ */
+
+/* =============================================================================
+   CRITERIA SELECTION SECTION
+   ============================================================================= */
+
+.criteria-selection {
+    margin-top: 1.5rem;
+    padding-top: 1rem;
+    border-top: 1px solid var(--surface-border, #dee2e6);
+}
+
+.criteria-group {
+    margin-bottom: 1.5rem;
+    padding: 1rem;
+    border-radius: 8px;
+    background: var(--surface-ground, #f8f9fa);
+}
+
+.criteria-group.inclusion-group {
+    border-left: 4px solid #22c55e;
+}
+
+.criteria-group.exclusion-group {
+    border-left: 4px solid #ef4444;
+}
+
+.criteria-header {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    margin-bottom: 1rem;
+    font-size: 1rem;
+    font-weight: 600;
+}
+
+.criteria-header.include-header {
+    color: #16a34a;
+}
+
+.criteria-header.include-header i {
+    color: #22c55e;
+}
+
+.criteria-header.exclude-header {
+    color: #dc2626;
+}
+
+.criteria-header.exclude-header i {
+    color: #ef4444;
+}
+
+.required-badge {
+    font-size: 0.75rem;
+    font-weight: normal;
+    color: #f97316;
+    margin-left: auto;
+}
+
+/* =============================================================================
+   CHECKBOXES
+   ============================================================================= */
+
+.criteria-checkboxes {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+}
+
+.criteria-checkbox-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 0.75rem;
+    padding: 0.5rem;
+    border-radius: 4px;
+    transition: background-color 0.2s;
+}
+
+.criteria-checkbox-item:hover {
+    background: var(--surface-hover, #e9ecef);
+}
+
+.criteria-checkbox-item .p-checkbox {
+    margin-top: 2px;
+}
+
+.criteria-label {
+    cursor: pointer;
+    line-height: 1.4;
+    font-size: 0.9rem;
+}
+
+.criteria-label strong {
+    color: var(--primary-color, #6366f1);
+    margin-right: 0.25rem;
+}
+
+/* Checked state styling */
+.criteria-checkbox-item:has(.p-checkbox-checked) {
+    background: rgba(99, 102, 241, 0.1);
+}
+
+.inclusion-group .criteria-checkbox-item:has(.p-checkbox-checked) {
+    background: rgba(34, 197, 94, 0.1);
+}
+
+.exclusion-group .criteria-checkbox-item:has(.p-checkbox-checked) {
+    background: rgba(239, 68, 68, 0.1);
+}
+
+/* =============================================================================
+   ADDITIONAL NOTES
+   ============================================================================= */
+
+.additional-notes {
+    margin-top: 1rem;
+}
+
+.additional-notes label {
+    font-weight: 500;
+    color: var(--text-color-secondary, #6c757d);
+    margin-bottom: 0.5rem;
+    display: block;
+}
+
+.notes-textarea {
+    width: 100%;
+    font-size: 0.9rem;
+}
+
+/* =============================================================================
+   REASON PREVIEW
+   ============================================================================= */
+
+.reason-preview-panel {
+    margin-top: 1rem;
+}
+
+.reason-preview-panel .p-panel-header {
+    background: var(--surface-ground, #f8f9fa);
+    padding: 0.5rem 1rem;
+}
+
+.reason-preview {
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    font-family: 'Consolas', 'Monaco', monospace;
+    font-size: 0.85rem;
+    background: var(--surface-section, #ffffff);
+    padding: 0.75rem;
+    border-radius: 4px;
+    border: 1px solid var(--surface-border, #dee2e6);
+    margin: 0;
+    max-height: 150px;
+    overflow-y: auto;
+}
+
+/* =============================================================================
+   SCREENING DIALOG ADJUSTMENTS
+   ============================================================================= */
+
+.screening-dialog {
+    max-width: 90vw;
+}
+
+.screening-dialog .p-dialog-content {
+    padding: 1.5rem;
+}
+
+.screening-dialog .paper-details {
+    max-height: 70vh;
+    overflow-y: auto;
+}
+
+/* =============================================================================
+   RESPONSIVE
+   ============================================================================= */
+
+@media (max-width: 768px) {
+    .criteria-selection {
+        margin-top: 1rem;
+    }
+
+    .criteria-group {
+        padding: 0.75rem;
+    }
+
+    .criteria-header {
+        flex-wrap: wrap;
+    }
+
+    .required-badge {
+        width: 100%;
+        margin-left: 0;
+        margin-top: 0.25rem;
+    }
+
+    .criteria-checkbox-item {
+        padding: 0.375rem;
+    }
+
+    .criteria-label {
+        font-size: 0.85rem;
+    }
+
+    .screening-dialog {
+        width: 95vw !important;
+    }
+}
+
+/* =============================================================================
+   DARK MODE SUPPORT
+   ============================================================================= */
+
+@media (prefers-color-scheme: dark) {
+    .criteria-group {
+        background: var(--surface-card, #1e1e1e);
+    }
+
+    .criteria-checkbox-item:hover {
+        background: var(--surface-hover, #2d2d2d);
+    }
+
+    .reason-preview {
+        background: var(--surface-ground, #121212);
+        border-color: var(--surface-border, #404040);
+    }
+}
+
+/* =============================================================================
+   FEW-SHOT SELECTION DIALOG
+   ============================================================================= */
+
+.fewshot-dialog .p-dialog-content {
+    padding: 1.5rem;
+}
+
+.fewshot-selection-content {
+    min-height: 400px;
+}
+
+.fewshot-selection-table {
+    margin-top: 1rem;
+}
+
+.fewshot-selection-table .p-datatable-tbody > tr.p-highlight {
+    background: rgba(255, 193, 7, 0.1) !important;
+    border-left: 3px solid #ffc107;
+}
+
+.fewshot-selection-table .p-checkbox {
+    width: 1.25rem;
+    height: 1.25rem;
+}
+
+.fewshot-selection-table .title-cell {
+    display: block;
+    max-width: 400px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.fewshot-dialog .p-message {
+    margin-bottom: 1rem;
+}
+
+/* Filter bar buttons for FEW-SHOT */
+.filter-bar {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+}
+
+/* FEW-SHOT status in table */
+.papers-table .p-tag.p-tag-warning {
+    font-weight: 600;
+}
+
+/* =============================================================================
+   RESPONSIVE - FEW-SHOT DIALOG
+   ============================================================================= */
+
+@media (max-width: 768px) {
+    .fewshot-dialog {
+        width: 95vw !important;
+    }
+    
+    .filter-bar {
+        flex-direction: column;
+        align-items: stretch;
+    }
+    
+    .filter-bar .p-button,
+    .filter-bar .p-dropdown {
+        width: 100%;
+    }
+}

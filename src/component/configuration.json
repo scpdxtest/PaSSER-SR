@@ -1,0 +1,82 @@
+{
+    "passer": {
+        "Ollama": [
+            {
+                "name": "OllamaEndPoint1",
+                "url": "http://127.0.0.1:11434"
+            },
+            {
+                "name": "OllamaEndPoint2",
+                "url": "http://<REMOTE_OLLAMA_HOST_1>:<PORT>"
+            },
+            {
+                "name": "OllamaEndPoint3",
+                "url": "http://<REMOTE_OLLAMA_HOST_2>:<PORT>"
+            }
+        ],
+        "Chroma": [
+            {
+                "name": "ChromaEndPoint1",
+                "url": "http://127.0.0.1:8000"
+            },
+            {
+                "name": "ChromaEndPoint2",
+                "url": "http://<REMOTE_CHROMA_HOST>:<PORT>"
+            }
+        ],
+        "MultiAgent": [
+            {
+                "name": "Local MultiAgent",
+                "url": "http://127.0.0.1:8004"
+            },
+            {
+                "name": "Local Mistral MultiAgent 1",
+                "url": "http://127.0.0.1:8005"
+            },
+            {
+                "name": "Remote MultiAgent 2",
+                "url": "http://<REMOTE_MULTIAGENT_HOST>:<PORT>"
+            }
+        ],
+        "PythonNames": "http://<BACKEND_HOST>:<PORT>/getnames",
+        "PythonTestData": "http://<BACKEND_HOST>:<PORT>/gettestdata",
+        "PythonScore": "http://<BACKEND_HOST>:<PORT>/metrics",
+        "PythonMAScore": "http://<BACKEND_HOST>:<PORT>/metrics",
+        "PythonTimes": "http://<BACKEND_HOST>:<PORT>/metrics",
+        "ScreeningAPI": "http://<SCREENING_API_HOST>:9901",
+        "LLMScreeningAPI": "http://127.0.0.1:9902",
+        "MementoAPI": "http://<BLOCKCHAIN_MEMENTO_HOST>:<PORT>/wax/get_transaction",
+        "BCEndPoints": [
+            {
+                "name": "BCEndPoint1",
+                "url": "http://<BLOCKCHAIN_NODE_1>:<PORT>"
+            },
+            {
+                "name": "BCEndPoint2",
+                "url": "http://<BLOCKCHAIN_NODE_2>:<PORT>"
+            },
+            {
+                "name": "BCEndPoint3",
+                "url": "http://<BLOCKCHAIN_NODE_3>:<PORT>"
+            }
+        ],
+        "BCid": "<BLOCKCHAIN_CHAIN_ID>",
+        "IPFSEndPoints": [
+            {
+                "name": "IPFSEndPoint1",
+                "host": "<IPFS_HOST_1>",
+                "port": "5001"
+            },
+            {
+                "name": "IPFSEndPoint2",
+                "host": "<IPFS_HOST_2>",
+                "port": "5001"
+            },
+            {
+                "name": "IPFSEndPoint3",
+                "host": "<IPFS_HOST_3>",
+                "port": "5001"
+            }
+        ]
+    }
+}
