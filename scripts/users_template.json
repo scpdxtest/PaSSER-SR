@@ -1,0 +1,32 @@
+{
+  "description": "PaSSER-SR Users Configuration - Multiple Roles Supported",
+  "roles_description": {
+    "screener": "Can view and screen papers (submit INCLUDE/EXCLUDE/UNCERTAIN decisions)",
+    "resolver": "Can view disagreements and submit final resolutions",
+    "admin": "Full access: statistics, export, user management"
+  },
+  "note": "One user can have multiple roles. Use array format for 'roles' field.",
+  "users": [
+    {
+      "antelope_account": "screener1",
+      "display_name": "Screener One",
+      "email": "screener1@example.com",
+      "roles": ["screener"],
+      "active": true
+    },
+    {
+      "antelope_account": "screener2",
+      "display_name": "Screener Two",
+      "email": "screener2@example.com",
+      "roles": ["screener", "resolver"],
+      "active": true
+    },
+    {
+      "antelope_account": "admin1",
+      "display_name": "Administrator",
+      "email": "admin@example.com",
+      "roles": ["screener", "resolver", "admin"],
+      "active": true
+    }
+  ]
+}
