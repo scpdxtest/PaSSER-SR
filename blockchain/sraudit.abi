@@ -1,0 +1,588 @@
+{
+    "____comment": "This file was generated with eosio-abigen. DO NOT EDIT ",
+    "version": "eosio::abi/1.2",
+    "types": [],
+    "structs": [
+        {
+            "name": "audit_row",
+            "base": "",
+            "fields": [
+                {
+                    "name": "id",
+                    "type": "uint64"
+                },
+                {
+                    "name": "admin",
+                    "type": "name"
+                },
+                {
+                    "name": "projectid",
+                    "type": "string"
+                },
+                {
+                    "name": "milestone",
+                    "type": "string"
+                },
+                {
+                    "name": "merkleroot",
+                    "type": "string"
+                },
+                {
+                    "name": "filehash",
+                    "type": "string"
+                },
+                {
+                    "name": "leafcount",
+                    "type": "uint32"
+                },
+                {
+                    "name": "created_at",
+                    "type": "time_point_sec"
+                }
+            ]
+        },
+        {
+            "name": "cleardata",
+            "base": "",
+            "fields": [
+                {
+                    "name": "confirm",
+                    "type": "string"
+                }
+            ]
+        },
+        {
+            "name": "clearproject",
+            "base": "",
+            "fields": [
+                {
+                    "name": "projectid",
+                    "type": "string"
+                },
+                {
+                    "name": "confirm",
+                    "type": "string"
+                }
+            ]
+        },
+        {
+            "name": "decision_row",
+            "base": "",
+            "fields": [
+                {
+                    "name": "id",
+                    "type": "uint64"
+                },
+                {
+                    "name": "screener",
+                    "type": "name"
+                },
+                {
+                    "name": "projectid",
+                    "type": "string"
+                },
+                {
+                    "name": "gsid",
+                    "type": "string"
+                },
+                {
+                    "name": "decision",
+                    "type": "string"
+                },
+                {
+                    "name": "confidence",
+                    "type": "string"
+                },
+                {
+                    "name": "datahash",
+                    "type": "string"
+                },
+                {
+                    "name": "created_at",
+                    "type": "time_point_sec"
+                }
+            ]
+        },
+        {
+            "name": "import_row",
+            "base": "",
+            "fields": [
+                {
+                    "name": "id",
+                    "type": "uint64"
+                },
+                {
+                    "name": "admin",
+                    "type": "name"
+                },
+                {
+                    "name": "projectid",
+                    "type": "string"
+                },
+                {
+                    "name": "event_type",
+                    "type": "string"
+                },
+                {
+                    "name": "source",
+                    "type": "string"
+                },
+                {
+                    "name": "count",
+                    "type": "uint32"
+                },
+                {
+                    "name": "datahash",
+                    "type": "string"
+                },
+                {
+                    "name": "created_at",
+                    "type": "time_point_sec"
+                }
+            ]
+        },
+        {
+            "name": "llmdecision_row",
+            "base": "",
+            "fields": [
+                {
+                    "name": "id",
+                    "type": "uint64"
+                },
+                {
+                    "name": "screener",
+                    "type": "name"
+                },
+                {
+                    "name": "projectid",
+                    "type": "string"
+                },
+                {
+                    "name": "gsid",
+                    "type": "string"
+                },
+                {
+                    "name": "decision",
+                    "type": "string"
+                },
+                {
+                    "name": "confidence",
+                    "type": "string"
+                },
+                {
+                    "name": "model",
+                    "type": "string"
+                },
+                {
+                    "name": "strategy",
+                    "type": "string"
+                },
+                {
+                    "name": "jobid",
+                    "type": "string"
+                },
+                {
+                    "name": "datahash",
+                    "type": "string"
+                },
+                {
+                    "name": "created_at",
+                    "type": "time_point_sec"
+                }
+            ]
+        },
+        {
+            "name": "llmjob_row",
+            "base": "",
+            "fields": [
+                {
+                    "name": "id",
+                    "type": "uint64"
+                },
+                {
+                    "name": "username",
+                    "type": "name"
+                },
+                {
+                    "name": "projectid",
+                    "type": "string"
+                },
+                {
+                    "name": "jobid",
+                    "type": "string"
+                },
+                {
+                    "name": "strategy",
+                    "type": "string"
+                },
+                {
+                    "name": "models",
+                    "type": "string"
+                },
+                {
+                    "name": "promptmode",
+                    "type": "string"
+                },
+                {
+                    "name": "papercount",
+                    "type": "uint32"
+                },
+                {
+                    "name": "datahash",
+                    "type": "string"
+                },
+                {
+                    "name": "created_at",
+                    "type": "time_point_sec"
+                }
+            ]
+        },
+        {
+            "name": "logaudit",
+            "base": "",
+            "fields": [
+                {
+                    "name": "admin",
+                    "type": "name"
+                },
+                {
+                    "name": "projectid",
+                    "type": "string"
+                },
+                {
+                    "name": "milestone",
+                    "type": "string"
+                },
+                {
+                    "name": "merkleroot",
+                    "type": "string"
+                },
+                {
+                    "name": "filehash",
+                    "type": "string"
+                },
+                {
+                    "name": "leafcount",
+                    "type": "uint32"
+                }
+            ]
+        },
+        {
+            "name": "logdecision",
+            "base": "",
+            "fields": [
+                {
+                    "name": "screener",
+                    "type": "name"
+                },
+                {
+                    "name": "projectid",
+                    "type": "string"
+                },
+                {
+                    "name": "gsid",
+                    "type": "string"
+                },
+                {
+                    "name": "decision",
+                    "type": "string"
+                },
+                {
+                    "name": "confidence",
+                    "type": "string"
+                },
+                {
+                    "name": "datahash",
+                    "type": "string"
+                }
+            ]
+        },
+        {
+            "name": "logexport",
+            "base": "",
+            "fields": [
+                {
+                    "name": "admin",
+                    "type": "name"
+                },
+                {
+                    "name": "projectid",
+                    "type": "string"
+                },
+                {
+                    "name": "destination",
+                    "type": "string"
+                },
+                {
+                    "name": "count",
+                    "type": "uint32"
+                },
+                {
+                    "name": "datahash",
+                    "type": "string"
+                }
+            ]
+        },
+        {
+            "name": "logimport",
+            "base": "",
+            "fields": [
+                {
+                    "name": "admin",
+                    "type": "name"
+                },
+                {
+                    "name": "projectid",
+                    "type": "string"
+                },
+                {
+                    "name": "source",
+                    "type": "string"
+                },
+                {
+                    "name": "count",
+                    "type": "uint32"
+                },
+                {
+                    "name": "datahash",
+                    "type": "string"
+                }
+            ]
+        },
+        {
+            "name": "logllmdec",
+            "base": "",
+            "fields": [
+                {
+                    "name": "screener",
+                    "type": "name"
+                },
+                {
+                    "name": "projectid",
+                    "type": "string"
+                },
+                {
+                    "name": "gsid",
+                    "type": "string"
+                },
+                {
+                    "name": "decision",
+                    "type": "string"
+                },
+                {
+                    "name": "confidence",
+                    "type": "string"
+                },
+                {
+                    "name": "model",
+                    "type": "string"
+                },
+                {
+                    "name": "strategy",
+                    "type": "string"
+                },
+                {
+                    "name": "jobid",
+                    "type": "string"
+                },
+                {
+                    "name": "datahash",
+                    "type": "string"
+                }
+            ]
+        },
+        {
+            "name": "logllmjob",
+            "base": "",
+            "fields": [
+                {
+                    "name": "username",
+                    "type": "name"
+                },
+                {
+                    "name": "projectid",
+                    "type": "string"
+                },
+                {
+                    "name": "jobid",
+                    "type": "string"
+                },
+                {
+                    "name": "strategy",
+                    "type": "string"
+                },
+                {
+                    "name": "models",
+                    "type": "string"
+                },
+                {
+                    "name": "promptmode",
+                    "type": "string"
+                },
+                {
+                    "name": "papercount",
+                    "type": "uint32"
+                },
+                {
+                    "name": "datahash",
+                    "type": "string"
+                }
+            ]
+        },
+        {
+            "name": "logres",
+            "base": "",
+            "fields": [
+                {
+                    "name": "resolver",
+                    "type": "name"
+                },
+                {
+                    "name": "projectid",
+                    "type": "string"
+                },
+                {
+                    "name": "gsid",
+                    "type": "string"
+                },
+                {
+                    "name": "decision",
+                    "type": "string"
+                },
+                {
+                    "name": "datahash",
+                    "type": "string"
+                }
+            ]
+        },
+        {
+            "name": "resolution_row",
+            "base": "",
+            "fields": [
+                {
+                    "name": "id",
+                    "type": "uint64"
+                },
+                {
+                    "name": "resolver",
+                    "type": "name"
+                },
+                {
+                    "name": "projectid",
+                    "type": "string"
+                },
+                {
+                    "name": "gsid",
+                    "type": "string"
+                },
+                {
+                    "name": "decision",
+                    "type": "string"
+                },
+                {
+                    "name": "datahash",
+                    "type": "string"
+                },
+                {
+                    "name": "resolved_at",
+                    "type": "time_point_sec"
+                }
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "name": "cleardata",
+            "type": "cleardata",
+            "ricardian_contract": ""
+        },
+        {
+            "name": "clearproject",
+            "type": "clearproject",
+            "ricardian_contract": ""
+        },
+        {
+            "name": "logaudit",
+            "type": "logaudit",
+            "ricardian_contract": ""
+        },
+        {
+            "name": "logdecision",
+            "type": "logdecision",
+            "ricardian_contract": ""
+        },
+        {
+            "name": "logexport",
+            "type": "logexport",
+            "ricardian_contract": ""
+        },
+        {
+            "name": "logimport",
+            "type": "logimport",
+            "ricardian_contract": ""
+        },
+        {
+            "name": "logllmdec",
+            "type": "logllmdec",
+            "ricardian_contract": ""
+        },
+        {
+            "name": "logllmjob",
+            "type": "logllmjob",
+            "ricardian_contract": ""
+        },
+        {
+            "name": "logres",
+            "type": "logres",
+            "ricardian_contract": ""
+        }
+    ],
+    "tables": [
+        {
+            "name": "audits",
+            "type": "audit_row",
+            "index_type": "i64",
+            "key_names": [],
+            "key_types": []
+        },
+        {
+            "name": "decisions",
+            "type": "decision_row",
+            "index_type": "i64",
+            "key_names": [],
+            "key_types": []
+        },
+        {
+            "name": "imports",
+            "type": "import_row",
+            "index_type": "i64",
+            "key_names": [],
+            "key_types": []
+        },
+        {
+            "name": "llmdecisions",
+            "type": "llmdecision_row",
+            "index_type": "i64",
+            "key_names": [],
+            "key_types": []
+        },
+        {
+            "name": "llmjobs",
+            "type": "llmjob_row",
+            "index_type": "i64",
+            "key_names": [],
+            "key_types": []
+        },
+        {
+            "name": "resolutions",
+            "type": "resolution_row",
+            "index_type": "i64",
+            "key_names": [],
+            "key_types": []
+        }
+    ],
+    "kv_tables": {},
+    "ricardian_clauses": [],
+    "variants": [],
+    "action_results": []
+}

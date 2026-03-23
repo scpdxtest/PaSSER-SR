@@ -1,0 +1,88 @@
+{
+  "name": "passer",
+  "version": "0.7.0",
+  "private": true,
+  "homepage": ".",
+  "dependencies": {
+    "@google/generative-ai": "^0.1.3",
+    "@langchain/community": "^0.3.32",
+    "@langchain/core": "^0.3.40",
+    "@langchain/ollama": "^0.2.3",
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "@wharfkit/antelope": "^1.0.5",
+    "@wharfkit/contract": "^1.1.5",
+    "@wharfkit/session": "^1.2.7",
+    "@wharfkit/wallet-plugin-anchor": "^1.3.0",
+    "@wharfkit/web-renderer": "^1.2.2",
+    "@xenova/transformers": "^2.14.1",
+    "ajv": "^8.12.0",
+    "ajv-keywords": "^5.1.0",
+    "assert": "^2.1.0",
+    "axios": "^1.6.7",
+    "buffer": "^6.0.3",
+    "chart.js": "^4.4.2",
+    "chartjs-plugin-datalabels": "^2.2.0",
+    "cheerio": "^1.0.0-rc.12",
+    "chromadb": "^1.10.4",
+    "chromadb-default-embed": "^2.13.2",
+    "cohere-ai": "^7.7.3",
+    "crypto-browserify": "^3.12.0",
+    "docx": "^9.5.1",
+    "file-saver": "^2.0.5",
+    "https-browserify": "^1.0.0",
+    "ipfs-http-client": "^60.0.1",
+    "langchain": "^0.2.19",
+    "mammoth": "^1.8.0",
+    "ollama": "^0.5.8",
+    "os-browserify": "^0.3.0",
+    "path-browserify": "^1.0.1",
+    "pdf-table-extractor": "^1.0.3",
+    "pdfjs-dist": "^3.11.174",
+    "primeicons": "^6.0.1",
+    "primereact": "^10.3.3",
+    "process": "^0.11.10",
+    "react": "^18.2.0",
+    "react-chartjs-2": "^5.2.0",
+    "react-dom": "^18.2.0",
+    "react-pdf": "^7.7.0",
+    "react-router-dom": "^6.21.3",
+    "react-scripts": "5.0.1",
+    "stream-browserify": "^3.0.0",
+    "stream-http": "^3.2.0",
+    "url": "^0.11.4",
+    "util": "^0.12.5",
+    "vm-browserify": "^1.1.2",
+    "web-vitals": "^2.1.4",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@craco/craco": "^7.1.0",
+    "browserify-zlib": "^0.2.0"
+  },
+  "scripts": {
+    "start": "NODE_OPTIONS='--openssl-legacy-provider' craco start",
+    "build": "NODE_OPTIONS='--openssl-legacy-provider' craco build",
+    "test": "craco test",
+    "tag-version": "node scripts/tag-version.js"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
