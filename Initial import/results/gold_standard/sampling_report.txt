@@ -1,0 +1,109 @@
+
+================================================================================
+GOLD STANDARD SAMPLING REPORT
+================================================================================
+Generated: 2026-02-03 16:20:45
+Script Version: 2.0
+
+CONFIGURATION
+-------------
+Random Seed: 42
+Pool A Target Size: 200
+Pool B Target Size: 0
+Input Corpus: filtered_corpus.json
+Output Directory: results/gold_standard/
+
+CORPUS STATISTICS
+-----------------
+Total papers in corpus: 2,036
+Valid papers processed: 2,036
+
+Pool A (with electoral keywords): 1,954 papers (96.0%)
+Pool B (without electoral keywords): 82 papers (4.0%)
+
+SELECTION RESULTS
+-----------------
+Selected from Pool A: 200 papers
+Selected from Pool B: 0 papers
+Total Gold Standard: 200 papers
+
+Expected class distribution after screening:
+  - Pool A papers: likely ~70-90% INCLUDE
+  - Pool B papers: likely ~5-20% INCLUDE
+  - Overall: estimated ~30-50% INCLUDE
+
+KEYWORDS USED FOR POOL A CLASSIFICATION
+---------------------------------------
+election, elections, electoral, voting, vote, votes, voter, voters, e-voting, evoting, i-voting, ballot, ballots, poll, polls, polling, referendum, referenda, plebiscite
+
+Note: Keywords are matched as whole words, case-insensitive, 
+in both title and abstract.
+
+OUTPUT FILES
+------------
+1. gold_standard_100.json  - Papers for blind screening (NO pool info)
+   Checksum: 41f614692beb80915d41c6216a70ec7305dfb5146aae32f00c43944213fc460c
+
+2. gold_standard_100.csv   - Same data in CSV format (backup)
+
+3. sampling_mapping.json   - Pool membership (POST-HOC ANALYSIS ONLY)
+   Checksum: 7c8bff04eb3f28671f108287369d5f7cac355ee7a3418bd95d78958045adecf2
+   ⚠️  DO NOT share with reviewers until after screening!
+
+4. sampling_report.txt     - This file
+
+5. sampling_log.txt        - Detailed execution log
+
+REPRODUCIBILITY
+---------------
+To reproduce this exact selection:
+
+1. Ensure you have the same input corpus
+2. Run: python gold_standard_sampling.py \
+        --input filtered_corpus.json \
+        --output-dir results/gold_standard/ \
+        --seed 42
+3. Verify checksum of gold_standard_100.json matches:
+   41f614692beb80915d41c6216a70ec7305dfb5146aae32f00c43944213fc460c
+
+INSTRUCTIONS FOR HUMAN SCREENING MODULE
+---------------------------------------
+1. Load gold_standard_100.json into the screening interface
+2. Create two reviewer accounts (Screener1, Screener2)
+3. Enable blind mode (reviewers cannot see each other's decisions)
+4. Each reviewer screens all 100 papers independently
+5. After both complete, calculate Cohen's Kappa
+6. Resolve disagreements with a third resolver
+7. Export final decisions
+
+SCREENING DECISION OPTIONS
+--------------------------
+Decision values: INCLUDE / EXCLUDE / UNCERTAIN
+Confidence levels: HIGH / MEDIUM / LOW
+
+Inclusion criteria (all must be met):
+  IC1: Proposes blockchain-based model/framework/system
+  IC2: Addresses electoral process phase
+  IC3: Peer-reviewed publication
+  IC4: Published 2015-2025
+
+Exclusion criteria (any one excludes):
+  EC1: Only mentions blockchain without specific model
+  EC2: Focuses on cryptocurrency/finance only
+  EC3: Opinion piece without technical content
+  EC4: DAO/corporate governance (not public elections)
+  EC5: Duplicate or non-peer-reviewed
+
+NEXT STEPS
+----------
+[ ] 1. Load gold_standard_100.json into Human Screening Module
+[ ] 2. Calibration: Both reviewers screen 10 papers together
+[ ] 3. Blind screening: Each reviewer screens 100 papers independently  
+[ ] 4. Calculate Cohen's Kappa (target: κ ≥ 0.60)
+[ ] 5. Resolve disagreements
+[ ] 6. Export final Gold Standard
+[ ] 7. Use for LLM strategy evaluation
+
+================================================================================
+END OF REPORT
+================================================================================
