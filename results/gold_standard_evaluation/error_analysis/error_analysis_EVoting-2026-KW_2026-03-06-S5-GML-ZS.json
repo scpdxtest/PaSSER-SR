@@ -1,0 +1,158 @@
+{
+  "metadata": {
+    "project_id": "EVoting-2026-KW",
+    "strategy": "S5_TWO_STAGE",
+    "model": "granite-8b,mistral-7b,llama-8b",
+    "prompt_mode": "zero_shot",
+    "uncertain_treatment": "INCLUDE",
+    "total_compared": 190,
+    "ground_truth_count": 190,
+    "predictions_count": 200
+  },
+  "false_positives": {
+    "count": 63,
+    "description": "LLM said INCLUDE, Human said EXCLUDE",
+    "criteria_patterns": {},
+    "examples": [
+      {
+        "corpus_id": "BES-1327",
+        "title": "IMPLEMENTASI TEKNOLOGI BLOCKCHAIN MENGGUNAKAN SMART CONTRACT PADA E-VOTING",
+        "criteria_met": [],
+        "reasoning": "Notes: <|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assis"
+      },
+      {
+        "corpus_id": "BES-0474",
+        "title": "Elegant Techniques and Methods for Blockchain-Powered Electronic Voting Systems",
+        "criteria_met": [],
+        "reasoning": "Notes: Evaluate this paper for inclusion in a systematic review on blockchain-based electoral systems.\n\n<|end|>\n<|assistant|>\nEvaluate this paper for inclusion in a systematic review on blockchain-based elec"
+      },
+      {
+        "corpus_id": "BES-1545",
+        "title": "Blockchain-Enabled E-Governance: A Model for Enhancing Transparency in Developing Economies",
+        "criteria_met": [],
+        "reasoning": "Notes: Evaluate this paper for inclusion in a systematic review on blockchain-based electoral systems.\n\n<|end|>\n<|assistant|>\nEvaluate this paper for inclusion in a systematic review on blockchain-based elec"
+      },
+      {
+        "corpus_id": "BES-0232",
+        "title": "Privacy Preserving E-Voting System Using Homomorphic Encryption",
+        "criteria_met": [],
+        "reasoning": "Notes: Evaluate this paper for inclusion in a systematic review on blockchain-based electoral systems.\n\n<|end|>\n<|assistant|>\nEvaluate this paper for inclusion in a systematic review on blockchain-based elec"
+      },
+      {
+        "corpus_id": "BES-0564",
+        "title": "Delegated Proof of Stake Consensus Mechanism Based on Community Discovery and Credit Incentive",
+        "criteria_met": [],
+        "reasoning": "Notes: Evaluate this paper for inclusion in a systematic review on blockchain-based electoral systems.\n\n<|end|>\n<|assistant|>\nEvaluate this paper for inclusion in a systematic review on blockchain-based elec"
+      },
+      {
+        "corpus_id": "BES-0457",
+        "title": "E-Voting 2.0: A Blockchain Blueprint for Secure Elections",
+        "criteria_met": [],
+        "reasoning": "Notes: Evaluate this paper for inclusion in a systematic review on blockchain-based electoral systems.\n\n<|end|>\n<|assistant|>\nEvaluate this paper for inclusion in a systematic review on blockchain-based elec"
+      },
+      {
+        "corpus_id": "BES-1546",
+        "title": "Role of Technology in the Development of Smart and Secure Public Voting Systems – a Review of Litera",
+        "criteria_met": [],
+        "reasoning": "Notes: Evaluate this paper for inclusion in a systematic review on blockchain-based electoral systems.\n\n<|end|>\n<|assistant|>\nEvaluate this paper for inclusion in a systematic review on blockchain-based elec"
+      },
+      {
+        "corpus_id": "BES-1847",
+        "title": "Block-Chain Based E-Voting For Indonesia",
+        "criteria_met": [],
+        "reasoning": "Notes: Evaluate this paper for inclusion in a systematic review on blockchain-based electoral systems.\n\n<|end|>\n<|assistant|>\nEvaluate this paper for inclusion in a systematic review on blockchain-based elec"
+      },
+      {
+        "corpus_id": "BES-0261",
+        "title": "Fair Compromises in Participatory Budgeting: a Multi-Agent Deep Reinforcement Learning Approach",
+        "criteria_met": [],
+        "reasoning": "Notes: Evaluate this paper for inclusion in a systematic review on blockchain-based electoral systems.\n\n<|end|>\n<|assistant|>\nEvaluate this paper for inclusion in a systematic review on blockchain-based elec"
+      },
+      {
+        "corpus_id": "BES-1179",
+        "title": "A coercion-resistant blockchain-based E-voting protocol with receipts",
+        "criteria_met": [],
+        "reasoning": "Notes: Evaluate this paper for inclusion in a systematic review on blockchain-based electoral systems.\n\n<|end|>\n<|assistant|>\nEvaluate this paper for inclusion in a systematic review on blockchain-based elec"
+      },
+      {
+        "corpus_id": "BES-1353",
+        "title": "E-voting protocols in context of COVID19",
+        "criteria_met": [],
+        "reasoning": "Notes: Evaluate this paper for inclusion in a systematic review on blockchain-based electoral systems.\n\n<|end|>\n<|assistant|>\nEvaluate this paper for inclusion in a systematic review on blockchain-based elec"
+      },
+      {
+        "corpus_id": "BES-0340",
+        "title": "Disrupting the Ballot Box: Blockchain as a Catalyst for Innovation in Electoral Processes",
+        "criteria_met": [],
+        "reasoning": "Notes: Evaluate this paper for inclusion in a systematic review on blockchain-based electoral systems.\n\n<|end|>\n<|assistant|>\nEvaluate this paper for inclusion in a systematic review on blockchain-based elec"
+      },
+      {
+        "corpus_id": "BES-0776",
+        "title": "SoulBound E-Voting System",
+        "criteria_met": [],
+        "reasoning": "Notes: Evaluate this paper for inclusion in a systematic review on blockchain-based electoral systems.\n\n<|end|>\n<|assistant|>\nEvaluate this paper for inclusion in a systematic review on blockchain-based elec"
+      },
+      {
+        "corpus_id": "BES-1133",
+        "title": "Blockchain based Voting system in Local Network",
+        "criteria_met": [],
+        "reasoning": "Notes: Evaluate this paper for inclusion in a systematic review on blockchain-based electoral systems.\n\n<|end|>\n<|assistant|>\nEvaluate this paper for inclusion in a systematic review on blockchain-based elec"
+      },
+      {
+        "corpus_id": "BES-0459",
+        "title": "Empowering Democracy: Unveiling the Brilliance of Blockchain Technology in Smart and Safe E-Voting S",
+        "criteria_met": [],
+        "reasoning": "Notes: Evaluate this paper for inclusion in a systematic review on blockchain-based electoral systems.\n\n<|end|>\n<|assistant|>\nEvaluate this paper for inclusion in a systematic review on blockchain-based elec"
+      },
+      {
+        "corpus_id": "BES-0067",
+        "title": "Optimizing Notary Election for Cross-Chain Blockchain Transactions Using SVM",
+        "criteria_met": [],
+        "reasoning": "Notes: Evaluate this paper for inclusion in a systematic review on blockchain-based electoral systems.\n\n<|end|>\n<|assistant|>\nEvaluate this paper for inclusion in a systematic review on blockchain-based elec"
+      },
+      {
+        "corpus_id": "BES-0098",
+        "title": "Sistem E-Voting berbasis Blockchain dengan Autentikasi Biometrik Sidik Jari dan Protokol Zero-Knowle",
+        "criteria_met": [],
+        "reasoning": "Notes: Evaluate this paper for inclusion in a systematic review on blockchain-based electoral systems.\n\n<|end|>\n<|assistant|>\nEvaluate this paper for inclusion in a systematic review on blockchain-based elec"
+      },
+      {
+        "corpus_id": "BES-0806",
+        "title": "E-voting, Information Gap, and The Digital Divide in Zimbabwe",
+        "criteria_met": [],
+        "reasoning": "Notes: Evaluate this paper for inclusion in a systematic review on blockchain-based electoral systems.\n\n<|end|>\n<|assistant|>\nEvaluate this paper for inclusion in a systematic review on blockchain-based elec"
+      },
+      {
+        "corpus_id": "BES-0901",
+        "title": "Utilization of Blockchain in E-Voting System",
+        "criteria_met": [],
+        "reasoning": "Notes: Evaluate this paper for inclusion in a systematic review on blockchain-based electoral systems.\n\n<|end|>\n<|assistant|>\nEvaluate this paper for inclusion in a systematic review on blockchain-based elec"
+      },
+      {
+        "corpus_id": "BES-0840",
+        "title": "Proof of the possibility for a public audit of a secret internet voting system",
+        "criteria_met": [],
+        "reasoning": "Notes: Evaluate this paper for inclusion in a systematic review on blockchain-based electoral systems.\n\n<|end|>\n<|assistant|>\nEvaluate this paper for inclusion in a systematic review on blockchain-based elec"
+      }
+    ]
+  },
+  "false_negatives": {
+    "count": 0,
+    "description": "LLM said EXCLUDE, Human said INCLUDE (CRITICAL)",
+    "criteria_patterns": {},
+    "examples": []
+  },
+  "criteria_usage": {
+    "decisions": {
+      "EXCLUDE": 58,
+      "INCLUDE": 132
+    },
+    "criteria_met": {},
+    "criteria_violated": {}
+  },
+  "insights": [
+    "Warning: EC4 was rarely used (0 times). The model may struggle with this criterion.",
+    "Warning: EC5 was rarely used (0 times). The model may struggle with this criterion.",
+    "Warning: EC6 was rarely used (0 times). The model may struggle with this criterion."
+  ]
+}

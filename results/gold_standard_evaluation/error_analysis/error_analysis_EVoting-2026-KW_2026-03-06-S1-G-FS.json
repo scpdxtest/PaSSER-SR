@@ -1,0 +1,157 @@
+{
+  "metadata": {
+    "project_id": "EVoting-2026-KW",
+    "strategy": "S1_SINGLE",
+    "model": "granite-8b",
+    "prompt_mode": "few_shot",
+    "uncertain_treatment": "INCLUDE",
+    "total_compared": 190,
+    "ground_truth_count": 190,
+    "predictions_count": 190
+  },
+  "false_positives": {
+    "count": 121,
+    "description": "LLM said INCLUDE, Human said EXCLUDE",
+    "criteria_patterns": {},
+    "examples": [
+      {
+        "corpus_id": "BES-1866",
+        "title": "Russia Today, Cyberterrorists Tomorrow: U.S. Failure to Prepare Democracy for Cyberspace",
+        "criteria_met": [],
+        "reasoning": "Notes: <|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|as"
+      },
+      {
+        "corpus_id": "BES-1169",
+        "title": "Posting Bot Detection on Blockchain-based Social Media Platform using Machine Learning Techniques",
+        "criteria_met": [],
+        "reasoning": "Notes: <|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|as"
+      },
+      {
+        "corpus_id": "BES-1327",
+        "title": "IMPLEMENTASI TEKNOLOGI BLOCKCHAIN MENGGUNAKAN SMART CONTRACT PADA E-VOTING",
+        "criteria_met": [],
+        "reasoning": "Notes: <|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|as"
+      },
+      {
+        "corpus_id": "BES-2036",
+        "title": "Budgetary processes: a political economy perspective",
+        "criteria_met": [],
+        "reasoning": "Notes: \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+      },
+      {
+        "corpus_id": "BES-1286",
+        "title": "Byzantine Agreement and Leader Election: From Classical to the Modern",
+        "criteria_met": [],
+        "reasoning": "Notes: <|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|as"
+      },
+      {
+        "corpus_id": "BES-0474",
+        "title": "Elegant Techniques and Methods for Blockchain-Powered Electronic Voting Systems",
+        "criteria_met": [],
+        "reasoning": "Notes: <|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|as"
+      },
+      {
+        "corpus_id": "BES-0290",
+        "title": "The Spanish 2023 general elections: unexpected snap elections to survive in power",
+        "criteria_met": [],
+        "reasoning": "Notes: <|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|as"
+      },
+      {
+        "corpus_id": "BES-0414",
+        "title": "A Novel Federated Learning System with Privacy Protection and Blockchain Consensus Incentive Mechani",
+        "criteria_met": [],
+        "reasoning": "Notes: <|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|as"
+      },
+      {
+        "corpus_id": "BES-1951",
+        "title": "Democratic transitions, health institutions, and financial protection in the emerging economies: ins",
+        "criteria_met": [],
+        "reasoning": "Notes: <|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|as"
+      },
+      {
+        "corpus_id": "BES-1359",
+        "title": "PAC Mode Estimation using PPR Martingale Confidence Sequences",
+        "criteria_met": [],
+        "reasoning": "Notes: <|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|as"
+      },
+      {
+        "corpus_id": "BES-1545",
+        "title": "Blockchain-Enabled E-Governance: A Model for Enhancing Transparency in Developing Economies",
+        "criteria_met": [],
+        "reasoning": "Notes: \n| assistant |\n\n| assistant |\n\n| assistant |\n\n| assistant |\n\n| assistant |\n\n| assistant |\n\n| assistant |\n\n| assistant |\n\n| assistant |\n\n| assistant |\n\n| assistant |\n\n| assistant |\n\n| assistant |\n\n| as"
+      },
+      {
+        "corpus_id": "BES-0232",
+        "title": "Privacy Preserving E-Voting System Using Homomorphic Encryption",
+        "criteria_met": [],
+        "reasoning": "Notes: <|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|as"
+      },
+      {
+        "corpus_id": "BES-0564",
+        "title": "Delegated Proof of Stake Consensus Mechanism Based on Community Discovery and Credit Incentive",
+        "criteria_met": [],
+        "reasoning": "Notes: <|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|as"
+      },
+      {
+        "corpus_id": "BES-0333",
+        "title": "MultiTagging: A Vulnerable Smart Contract Labeling and Evaluation Framework",
+        "criteria_met": [],
+        "reasoning": "Notes: <|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|as"
+      },
+      {
+        "corpus_id": "BES-1117",
+        "title": "A Survey on Privacy-Preserving Blockchain Systems (PPBS) and a Novel PPBS-Based Framework for Smart ",
+        "criteria_met": [],
+        "reasoning": "Notes: <|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|as"
+      },
+      {
+        "corpus_id": "BES-0457",
+        "title": "E-Voting 2.0: A Blockchain Blueprint for Secure Elections",
+        "criteria_met": [],
+        "reasoning": "Notes: <|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|as"
+      },
+      {
+        "corpus_id": "BES-1546",
+        "title": "Role of Technology in the Development of Smart and Secure Public Voting Systems – a Review of Litera",
+        "criteria_met": [],
+        "reasoning": "Notes: <|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|as"
+      },
+      {
+        "corpus_id": "BES-1847",
+        "title": "Block-Chain Based E-Voting For Indonesia",
+        "criteria_met": [],
+        "reasoning": "Notes: \n| assistant |\n\n| assistant |\n\n| assistant |\n\n| assistant |\n\n| assistant |\n\n| assistant |\n\n| assistant |\n\n| assistant |\n\n| assistant |\n\n| assistant |\n\n| assistant |\n\n| assistant |\n\n| assistant |\n\n| as"
+      },
+      {
+        "corpus_id": "BES-0261",
+        "title": "Fair Compromises in Participatory Budgeting: a Multi-Agent Deep Reinforcement Learning Approach",
+        "criteria_met": [],
+        "reasoning": "Notes: <|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|as"
+      },
+      {
+        "corpus_id": "BES-1179",
+        "title": "A coercion-resistant blockchain-based E-voting protocol with receipts",
+        "criteria_met": [],
+        "reasoning": "Notes: <|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|as"
+      }
+    ]
+  },
+  "false_negatives": {
+    "count": 0,
+    "description": "LLM said EXCLUDE, Human said INCLUDE (CRITICAL)",
+    "criteria_patterns": {},
+    "examples": []
+  },
+  "criteria_usage": {
+    "decisions": {
+      "INCLUDE": 190
+    },
+    "criteria_met": {},
+    "criteria_violated": {}
+  },
+  "insights": [
+    "Warning: EC4 was rarely used (0 times). The model may struggle with this criterion.",
+    "Warning: EC5 was rarely used (0 times). The model may struggle with this criterion.",
+    "Warning: EC6 was rarely used (0 times). The model may struggle with this criterion."
+  ]
+}

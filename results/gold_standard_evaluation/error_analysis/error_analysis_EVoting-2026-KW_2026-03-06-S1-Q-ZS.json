@@ -1,0 +1,264 @@
+{
+  "metadata": {
+    "project_id": "EVoting-2026-KW",
+    "strategy": "S1_SINGLE",
+    "model": "qwen-7b",
+    "prompt_mode": "zero_shot",
+    "uncertain_treatment": "INCLUDE",
+    "total_compared": 190,
+    "ground_truth_count": 190,
+    "predictions_count": 200
+  },
+  "false_positives": {
+    "count": 25,
+    "description": "LLM said INCLUDE, Human said EXCLUDE",
+    "criteria_patterns": {
+      "IC1": 24,
+      "IC2": 20,
+      "IC3": 16,
+      "IC4": 14,
+      "IC5": 5
+    },
+    "examples": [
+      {
+        "corpus_id": "BES-1327",
+        "title": "IMPLEMENTASI TEKNOLOGI BLOCKCHAIN MENGGUNAKAN SMART CONTRACT PADA E-VOTING",
+        "criteria_met": [
+          "IC1",
+          "IC2",
+          "IC3",
+          "IC4"
+        ],
+        "reasoning": "Criteria met: IC1 (Proposes, describes, or evaluates a blockchain-based model, framework, or system); IC2 (Addresses electoral process (voter authentication, registration, petition signing, voting, counting, auditing, dispute resolution) for public or institutional elections (national, regional, local, university, organization)); IC3 (Includes empirical evaluation or experimental results); IC4 (Co"
+      },
+      {
+        "corpus_id": "BES-0474",
+        "title": "Elegant Techniques and Methods for Blockchain-Powered Electronic Voting Systems",
+        "criteria_met": [
+          "IC1",
+          "IC2"
+        ],
+        "reasoning": "Criteria met: IC1 (Proposes, describes, or evaluates a blockchain-based model, framework, or system); IC2 (Addresses electoral process (voter authentication, registration, petition signing, voting, counting, auditing, dispute resolution) for public or institutional elections (national, regional, local, university, organization))\nCriteria violated: EC3 (Opinion pieces, position papers, tutorials, o"
+      },
+      {
+        "corpus_id": "BES-0232",
+        "title": "Privacy Preserving E-Voting System Using Homomorphic Encryption",
+        "criteria_met": [
+          "IC1",
+          "IC2",
+          "IC3",
+          "IC4",
+          "IC5"
+        ],
+        "reasoning": "Criteria met: IC1 (Proposes, describes, or evaluates a blockchain-based model, framework, or system); IC2 (Addresses electoral process (voter authentication, registration, petition signing, voting, counting, auditing, dispute resolution) for public or institutional elections (national, regional, local, university, organization)); IC3 (Includes empirical evaluation or experimental results); IC4 (Co"
+      },
+      {
+        "corpus_id": "BES-0457",
+        "title": "E-Voting 2.0: A Blockchain Blueprint for Secure Elections",
+        "criteria_met": [
+          "IC1",
+          "IC2",
+          "IC3",
+          "IC4"
+        ],
+        "reasoning": "Criteria met: IC1 (Proposes, describes, or evaluates a blockchain-based model, framework, or system); IC2 (Addresses electoral process (voter authentication, registration, petition signing, voting, counting, auditing, dispute resolution) for public or institutional elections (national, regional, local, university, organization)); IC3 (Includes empirical evaluation or experimental results); IC4 (Co"
+      },
+      {
+        "corpus_id": "BES-0776",
+        "title": "SoulBound E-Voting System",
+        "criteria_met": [
+          "IC1",
+          "IC2",
+          "IC3",
+          "IC4"
+        ],
+        "reasoning": "Criteria met: IC1 (Proposes, describes, or evaluates a blockchain-based model, framework, or system); IC2 (Addresses electoral process (voter authentication, registration, petition signing, voting, counting, auditing, dispute resolution) for public or institutional elections (national, regional, local, university, organization)); IC3 (Includes empirical evaluation or experimental results); IC4 (Co"
+      },
+      {
+        "corpus_id": "BES-1133",
+        "title": "Blockchain based Voting system in Local Network",
+        "criteria_met": [
+          "IC1",
+          "IC2",
+          "IC3",
+          "IC4"
+        ],
+        "reasoning": "Criteria met: IC1 (Proposes, describes, or evaluates a blockchain-based model, framework, or system); IC2 (Addresses electoral process (voter authentication, registration, petition signing, voting, counting, auditing, dispute resolution) for public or institutional elections (national, regional, local, university, organization)); IC3 (Includes empirical evaluation or experimental results); IC4 (Co"
+      },
+      {
+        "corpus_id": "BES-0098",
+        "title": "Sistem E-Voting berbasis Blockchain dengan Autentikasi Biometrik Sidik Jari dan Protokol Zero-Knowle",
+        "criteria_met": [
+          "IC1",
+          "IC2",
+          "IC3",
+          "IC4",
+          "IC5"
+        ],
+        "reasoning": "Criteria met: IC1 (Proposes, describes, or evaluates a blockchain-based model, framework, or system); IC2 (Addresses electoral process (voter authentication, registration, petition signing, voting, counting, auditing, dispute resolution) for public or institutional elections (national, regional, local, university, organization)); IC3 (Includes empirical evaluation or experimental results); IC4 (Co"
+      },
+      {
+        "corpus_id": "BES-0901",
+        "title": "Utilization of Blockchain in E-Voting System",
+        "criteria_met": [
+          "IC1"
+        ],
+        "reasoning": "Criteria met: IC1 (Proposes, describes, or evaluates a blockchain-based model, framework, or system)\nCriteria violated: EC2 (Focuses on non-electoral domain (e.g., finance, supply chain, healthcare, IoT, energy) or discusses decentralization/blockchain in general without electoral application); EC3 (Opinion pieces, position papers, tutorials, or general overviews/surveys without systematic methodo"
+      },
+      {
+        "corpus_id": "BES-0840",
+        "title": "Proof of the possibility for a public audit of a secret internet voting system",
+        "criteria_met": [
+          "IC1",
+          "IC2",
+          "IC3",
+          "IC4"
+        ],
+        "reasoning": "Criteria met: IC1 (Proposes, describes, or evaluates a blockchain-based model, framework, or system); IC2 (Addresses electoral process (voter authentication, registration, petition signing, voting, counting, auditing, dispute resolution) for public or institutional elections (national, regional, local, university, organization)); IC3 (Includes empirical evaluation or experimental results); IC4 (Co"
+      },
+      {
+        "corpus_id": "BES-1275",
+        "title": "A close scrutiny of dApps and developing an e-voting dApp using Ethereum Blockchain",
+        "criteria_met": [
+          "IC1",
+          "IC3",
+          "IC5"
+        ],
+        "reasoning": "Criteria met: IC1 (Proposes, describes, or evaluates a blockchain-based model, framework, or system); IC3 (Includes empirical evaluation or experimental results); IC5 (Describes implementation or prototype)\nNotes: The paper proposes the development of an e-voting dApp using the Ethereum Blockchain, which addresses the electoral process. It includes an empirical evaluation through the development o"
+      },
+      {
+        "corpus_id": "BES-1867",
+        "title": "Smart democracies in Africa: legitimizing Kenyan elections through block-chain technology",
+        "criteria_met": [
+          "IC2",
+          "IC3",
+          "IC4"
+        ],
+        "reasoning": "Criteria met: IC2 (Addresses electoral process (voter authentication, registration, petition signing, voting, counting, auditing, dispute resolution) for public or institutional elections (national, regional, local, university, organization)); IC3 (Includes empirical evaluation or experimental results); IC4 (Contains security/privacy analysis)\nCriteria violated: EC5 (Abstract missing, insufficient"
+      },
+      {
+        "corpus_id": "BES-0965",
+        "title": "Blockvoting:An Online Voting System Using Block Chain",
+        "criteria_met": [
+          "IC1",
+          "IC2",
+          "IC3",
+          "IC4"
+        ],
+        "reasoning": "Criteria met: IC1 (Proposes, describes, or evaluates a blockchain-based model, framework, or system); IC2 (Addresses electoral process (voter authentication, registration, petition signing, voting, counting, auditing, dispute resolution) for public or institutional elections (national, regional, local, university, organization)); IC3 (Includes empirical evaluation or experimental results); IC4 (Co"
+      },
+      {
+        "corpus_id": "BES-0144",
+        "title": "Blockchain in Electronic Voting Systems: Trust and Security Challenges",
+        "criteria_met": [
+          "IC1",
+          "IC2",
+          "IC3",
+          "IC4"
+        ],
+        "reasoning": "Criteria met: IC1 (Proposes, describes, or evaluates a blockchain-based model, framework, or system); IC2 (Addresses electoral process (voter authentication, registration, petition signing, voting, counting, auditing, dispute resolution) for public or institutional elections (national, regional, local, university, organization)); IC3 (Includes empirical evaluation or experimental results); IC4 (Co"
+      },
+      {
+        "corpus_id": "BES-1234",
+        "title": "Controllable anonymous authentication scheme based on blockchain and decentralized traceable attribu",
+        "criteria_met": [
+          "IC1"
+        ],
+        "reasoning": "Criteria met: IC1 (Proposes, describes, or evaluates a blockchain-based model, framework, or system)\nCriteria violated: EC2 (Focuses on non-electoral domain (e.g., finance, supply chain, healthcare, IoT, energy) or discusses decentralization/blockchain in general without electoral application); EC3 (Opinion pieces, position papers, tutorials, or general overviews/surveys without systematic methodo"
+      },
+      {
+        "corpus_id": "BES-1481",
+        "title": "A Competent and Accurate BlockChain based E-Voting System on Liquid Democracy",
+        "criteria_met": [
+          "IC1",
+          "IC2",
+          "IC3",
+          "IC4",
+          "IC5"
+        ],
+        "reasoning": "Criteria met: IC1 (Proposes, describes, or evaluates a blockchain-based model, framework, or system); IC2 (Addresses electoral process (voter authentication, registration, petition signing, voting, counting, auditing, dispute resolution) for public or institutional elections (national, regional, local, university, organization)); IC3 (Includes empirical evaluation or experimental results); IC4 (Co"
+      },
+      {
+        "corpus_id": "BES-1530",
+        "title": "A New Perceptive of E Voting with Blockchain",
+        "criteria_met": [
+          "IC1",
+          "IC2"
+        ],
+        "reasoning": "Criteria met: IC1 (Proposes, describes, or evaluates a blockchain-based model, framework, or system); IC2 (Addresses electoral process (voter authentication, registration, petition signing, voting, counting, auditing, dispute resolution) for public or institutional elections (national, regional, local, university, organization))\nCriteria violated: EC3 (Opinion pieces, position papers, tutorials, o"
+      },
+      {
+        "corpus_id": "BES-1561",
+        "title": "KawalPilkada: A Conceptual Secure ElectronicVote System Based Blockchain Technology",
+        "criteria_met": [
+          "IC1"
+        ],
+        "reasoning": "Criteria met: IC1 (Proposes, describes, or evaluates a blockchain-based model, framework, or system)\nCriteria violated: EC2 (Focuses on non-electoral domain (e.g., finance, supply chain, healthcare, IoT, energy) or discusses decentralization/blockchain in general without electoral application); EC3 (Opinion pieces, position papers, tutorials, or general overviews/surveys without systematic methodo"
+      },
+      {
+        "corpus_id": "BES-0063",
+        "title": "Beyond the Ballot Box: Decentralized Voting on the Ethereum Blockchain",
+        "criteria_met": [
+          "IC1",
+          "IC2",
+          "IC3",
+          "IC4"
+        ],
+        "reasoning": "Criteria met: IC1 (Proposes, describes, or evaluates a blockchain-based model, framework, or system); IC2 (Addresses electoral process (voter authentication, registration, petition signing, voting, counting, auditing, dispute resolution) for public or institutional elections (national, regional, local, university, organization)); IC3 (Includes empirical evaluation or experimental results); IC4 (Co"
+      },
+      {
+        "corpus_id": "BES-0137",
+        "title": "Developing a Secured Voteing Sysytem Using Blockchain Trechnology",
+        "criteria_met": [
+          "IC1",
+          "IC2",
+          "IC3",
+          "IC4"
+        ],
+        "reasoning": "Criteria met: IC1 (Proposes, describes, or evaluates a blockchain-based model, framework, or system); IC2 (Addresses electoral process (voter authentication, registration, petition signing, voting, counting, auditing, dispute resolution) for public or institutional elections (national, regional, local, university, organization)); IC3 (Includes empirical evaluation or experimental results); IC4 (Co"
+      },
+      {
+        "corpus_id": "BES-0793",
+        "title": "Utilizing Blockchain Technology and Fingerprint Authentication for an Electronic Voting System.",
+        "criteria_met": [
+          "IC1"
+        ],
+        "reasoning": "Criteria met: IC1 (Proposes, describes, or evaluates a blockchain-based model, framework, or system)\nCriteria violated: EC2 (Focuses on non-electoral domain (e.g., finance, supply chain, healthcare, IoT, energy) or discusses decentralization/blockchain in general without electoral application); EC3 (Opinion pieces, position papers, tutorials, or general overviews/surveys without systematic methodo"
+      }
+    ]
+  },
+  "false_negatives": {
+    "count": 0,
+    "description": "LLM said EXCLUDE, Human said INCLUDE (CRITICAL)",
+    "criteria_patterns": {},
+    "examples": []
+  },
+  "criteria_usage": {
+    "decisions": {
+      "EXCLUDE": 96,
+      "INCLUDE": 94
+    },
+    "criteria_met": {
+      "IC1": 90,
+      "IC2": 84,
+      "IC3": 76,
+      "IC4": 73,
+      "IC5": 28
+    },
+    "criteria_violated": {
+      "EC2": 99,
+      "EC3": 55,
+      "EC6": 44,
+      "EC5": 29,
+      "EC4": 13,
+      "EC1": 8,
+      "IC2": 1,
+      "IC3": 1,
+      "IC4": 1,
+      "IC5": 1
+    }
+  },
+  "insights": [
+    "IC criterion 'IC1' caused 24 of 25 false positives. Consider refining this criterion in the prompt."
+  ]
+}

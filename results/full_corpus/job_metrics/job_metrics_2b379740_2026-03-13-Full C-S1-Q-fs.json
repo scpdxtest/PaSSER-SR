@@ -1,0 +1,69 @@
+{
+  "job_id": "2b379740",
+  "evaluated_at": "2026-03-13T15:13:18.220946",
+  "metrics": {
+    "job_id": "2b379740",
+    "project_id": "EVoting-2026-KW",
+    "strategy": "S1_SINGLE",
+    "model": "qwen-7b",
+    "prompt_mode": "few_shot",
+    "data_source": "corpus",
+    "uncertain_treatment": "INCLUDE",
+    "job_status": "completed",
+    "job_created_at": "2026-03-11T14:47:09.297000",
+    "evaluation_only": true,
+    "includes_calibration": false,
+    "predictions_count": 2036,
+    "ground_truth_count": 190,
+    "coverage_warning": true,
+    "total_papers": 190,
+    "recall": 1,
+    "precision": 0.7041,
+    "f1": 0.8263,
+    "wss_95": 0.4342,
+    "specificity": 0.7603,
+    "balanced_accuracy": 0.8802,
+    "recall_threshold_met": true,
+    "recall_threshold": 0.95,
+    "confusion_matrix": {
+      "TP": 69,
+      "TN": 92,
+      "FP": 29,
+      "FN": 0
+    },
+    "ground_truth_distribution": {
+      "INCLUDE": 62,
+      "EXCLUDE": 121,
+      "UNCERTAIN": 7
+    },
+    "predictions_distribution": {
+      "INCLUDE": 949,
+      "EXCLUDE": 1086,
+      "UNCERTAIN": 1
+    },
+    "confidence_intervals": {
+      "recall_ci_lower": 0.9473,
+      "recall_ci_upper": 1,
+      "precision_ci_lower": 0.6074,
+      "precision_ci_upper": 0.7854
+    },
+    "error_analysis": {
+      "false_negatives_count": 0,
+      "false_positives_count": 29,
+      "false_negatives_sample": [],
+      "false_positives_sample": [
+        "BES-1275",
+        "BES-1234",
+        "BES-1327",
+        "BES-0137",
+        "BES-0840",
+        "BES-0090",
+        "BES-0965",
+        "BES-0340",
+        "BES-1481",
+        "BES-0795"
+      ]
+    },
+    "evaluated_at": "2026-03-13T15:13:18.220946"
+  }
+}

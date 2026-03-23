@@ -1,0 +1,88 @@
+{
+  "job_id": "612eddb6",
+  "evaluated_at": "2026-03-13T15:10:00.821874",
+  "metrics": {
+    "job_id": "612eddb6",
+    "project_id": "EVoting-2026-KW",
+    "strategy": "S5_TWO_STAGE",
+    "model": "mistral-7b,llama-8b,qwen-7b",
+    "prompt_mode": "few_shot",
+    "data_source": "corpus",
+    "uncertain_treatment": "INCLUDE",
+    "job_status": "completed",
+    "job_created_at": "2026-03-11T14:53:04.631000",
+    "evaluation_only": true,
+    "includes_calibration": false,
+    "predictions_count": 2036,
+    "ground_truth_count": 190,
+    "coverage_warning": true,
+    "total_papers": 190,
+    "recall": 0.9855,
+    "precision": 0.5763,
+    "f1": 0.7273,
+    "wss_95": 0.3289,
+    "specificity": 0.5868,
+    "balanced_accuracy": 0.7861,
+    "recall_threshold_met": true,
+    "recall_threshold": 0.95,
+    "confusion_matrix": {
+      "TP": 68,
+      "TN": 71,
+      "FP": 50,
+      "FN": 1
+    },
+    "ground_truth_distribution": {
+      "INCLUDE": 62,
+      "EXCLUDE": 121,
+      "UNCERTAIN": 7
+    },
+    "predictions_distribution": {
+      "INCLUDE": 1214,
+      "EXCLUDE": 822,
+      "UNCERTAIN": 0
+    },
+    "confidence_intervals": {
+      "recall_ci_lower": 0.9224,
+      "recall_ci_upper": 0.9974,
+      "precision_ci_lower": 0.4861,
+      "precision_ci_upper": 0.6616
+    },
+    "error_analysis": {
+      "false_negatives_count": 1,
+      "false_positives_count": 50,
+      "false_negatives_sample": [
+        "BES-1494"
+      ],
+      "false_positives_sample": [
+        "BES-1275",
+        "BES-1234",
+        "BES-1327",
+        "BES-0137",
+        "BES-0840",
+        "BES-0090",
+        "BES-0320",
+        "BES-0965",
+        "BES-0238",
+        "BES-0228"
+      ]
+    },
+    "s5_stage_metrics": {
+      "st1_excl": 795,
+      "st2_papers": 1241,
+      "st1_rate": 39,
+      "total_time_sec": 82813.4,
+      "avg_st1_time_sec": 14.58,
+      "avg_st2_time_sec": 57.39,
+      "time_savings_pct": 29.1,
+      "debate_calls_saved": 1590,
+      "model_roles": {
+        "fast_filter": "llama-8b",
+        "debate": [
+          "mistral-7b",
+          "qwen-7b"
+        ]
+      }
+    },
+    "evaluated_at": "2026-03-13T15:10:00.821874"
+  }
+}
