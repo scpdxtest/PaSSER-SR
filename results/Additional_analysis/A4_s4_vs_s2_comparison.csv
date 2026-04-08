@@ -1,0 +1,3 @@
+paper_id,s4_decision,s2_decision,s4_confidence,s2_confidence,s4_weighted_score,mistral_decision,mistral_conf,llama_decision,llama_conf,qwen_decision,qwen_conf
+BES-0249,EXCLUDE,UNCERTAIN,LOW,MEDIUM,-0.9,UNCERTAIN,LOW,EXCLUDE,HIGH,UNCERTAIN,MEDIUM
+BES-1665,INCLUDE,UNCERTAIN,LOW,MEDIUM,0.9,INCLUDE,HIGH,UNCERTAIN,LOW,UNCERTAIN,MEDIUM

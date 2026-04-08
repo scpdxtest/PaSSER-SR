@@ -1,0 +1,13 @@
+strategy,model,prompt_mode,subset,N,TP,TN,FP,FN,recall,precision,f1
+S1_SINGLE,qwen-7b,few_shot,agreed,144,55,77,12,0,1.0,0.8209,0.9016
+S1_SINGLE,qwen-7b,few_shot,disputed,46,14,15,17,0,1.0,0.4516,0.6222
+S2_MAJORITY,"mistral-7b,llama-8b,qwen-7b",zero_shot,agreed,150,58,68,24,0,1.0,0.7073,0.8286
+S2_MAJORITY,"mistral-7b,llama-8b,qwen-7b",zero_shot,disputed,50,16,9,25,0,1.0,0.3902,0.5614
+S4_CONFIDENCE,"mistral-7b,llama-8b,qwen-7b",zero_shot,agreed,150,58,68,24,0,1.0,0.7073,0.8286
+S4_CONFIDENCE,"mistral-7b,llama-8b,qwen-7b",zero_shot,disputed,50,16,9,25,0,1.0,0.3902,0.5614
+S5_TWO_STAGE,"llama-8b,mistral-7b,qwen-7b",few_shot,agreed,144,54,63,26,1,0.9818,0.675,0.8
+S5_TWO_STAGE,"llama-8b,mistral-7b,qwen-7b",few_shot,disputed,46,14,8,24,0,1.0,0.3684,0.5385
+S5_TWO_STAGE,"mistral-7b,llama-8b,qwen-7b",zero_shot,agreed,150,58,68,24,0,1.0,0.7073,0.8286
+S5_TWO_STAGE,"mistral-7b,llama-8b,qwen-7b",zero_shot,disputed,50,15,9,25,1,0.9375,0.375,0.5357
+S5_TWO_STAGE,"qwen-7b,mistral-7b,llama-8b",few_shot,agreed,144,55,68,21,0,1.0,0.7237,0.8397
+S5_TWO_STAGE,"qwen-7b,mistral-7b,llama-8b",few_shot,disputed,46,14,10,22,0,1.0,0.3889,0.56

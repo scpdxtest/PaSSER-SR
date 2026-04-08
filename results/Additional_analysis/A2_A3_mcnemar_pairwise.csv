@@ -1,0 +1,11 @@
+rank_A,config_A,rank_B,config_B,N_common,both_correct,A_correct_B_wrong,A_wrong_B_correct,both_wrong,discordant_pairs,mcnemar_p_value,power
+1,S1_SINGLE|qwen-7b|few_shot,2,"S5_TWO_STAGE|qwen-7b,mistral-7b,llama-8b|few_shot",190,146,15,1,28,16,0.0005,0.9382
+1,S1_SINGLE|qwen-7b|few_shot,3,"S5_TWO_STAGE|mistral-7b,llama-8b,qwen-7b|zero_shot",190,145,16,1,28,17,0.0003,0.9533
+1,S1_SINGLE|qwen-7b|few_shot,4,"S2_MAJORITY|mistral-7b,llama-8b,qwen-7b|zero_shot",190,145,16,1,28,17,0.0003,0.9533
+1,S1_SINGLE|qwen-7b|few_shot,5,"S4_CONFIDENCE|mistral-7b,llama-8b,qwen-7b|zero_shot",190,145,16,1,28,17,0.0003,0.9533
+2,"S5_TWO_STAGE|qwen-7b,mistral-7b,llama-8b|few_shot",3,"S5_TWO_STAGE|mistral-7b,llama-8b,qwen-7b|zero_shot",190,143,4,3,40,7,1.0,0.0665
+2,"S5_TWO_STAGE|qwen-7b,mistral-7b,llama-8b|few_shot",4,"S2_MAJORITY|mistral-7b,llama-8b,qwen-7b|zero_shot",190,143,4,3,40,7,1.0,0.0665
+2,"S5_TWO_STAGE|qwen-7b,mistral-7b,llama-8b|few_shot",5,"S4_CONFIDENCE|mistral-7b,llama-8b,qwen-7b|zero_shot",190,143,4,3,40,7,1.0,0.0665
+3,"S5_TWO_STAGE|mistral-7b,llama-8b,qwen-7b|zero_shot",4,"S2_MAJORITY|mistral-7b,llama-8b,qwen-7b|zero_shot",200,150,0,1,49,1,1.0,0.1701
+3,"S5_TWO_STAGE|mistral-7b,llama-8b,qwen-7b|zero_shot",5,"S4_CONFIDENCE|mistral-7b,llama-8b,qwen-7b|zero_shot",200,150,0,1,49,1,1.0,0.1701
+4,"S2_MAJORITY|mistral-7b,llama-8b,qwen-7b|zero_shot",5,"S4_CONFIDENCE|mistral-7b,llama-8b,qwen-7b|zero_shot",200,151,0,0,49,0,1.0,0.0

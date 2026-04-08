@@ -1,0 +1,6 @@
+rank,config,strategy,n_papers,agents,mean_time_s,median_time_s,std_time_s,total_wall_h,mean_tokens,total_tokens,time_ratio_vs_S1,token_ratio_vs_S1,stage1_only,full_pipeline
+1,S1 Qwen FS,S1,2036,1,52.2,50.4,5.8,29.5,440,896479,1.00,1.00,2036,0
+2,S5 Q→M+L FS,S5,2036,3,44.8,55.1,16.6,25.4,524,1067524,0.86,1.19,836,1200
+3,S5 M→L+Q ZS,S5,2036,3,25.8,33.8,13.5,14.6,415,845019,0.49,0.94,722,1314
+4,S2 MLQ ZS,S2,2036,3,62.5,61.6,6.5,35.3,599,1219538,1.20,1.36,0,2036
+5,S4 MLQ ZS,S4,2036,3,63.0,62.1,6.9,35.6,599,1219538,1.21,1.36,0,2036
