@@ -40,6 +40,11 @@ passer-sr/
 |   +-- import_gold_standard.py   # Import gold standard into MongoDB
 |   +-- import_users.py           # Import user accounts
 |   +-- users_template.json       # User configuration template
+|   +-- A1_agreed_vs_disputed_FIXED.py    # Agreed vs. disputed GS subset analysis
+|   +-- A2_A3_mcnemar_power_FIXED.py      # McNemar pairwise test + power analysis
+|   +-- A4_confidence_distribution.py     # Confidence distribution analysis (S2, S4)
+|   +-- A5_computational_cost.py          # Computational cost (wall-clock, tokens)
+|   +-- A6_granite_ablation.py            # Granite ablation (MLG vs. MLQ)
 +-- blockchain/                   # Antelope smart contract
 |   +-- sraudit.cpp               # Audit contract source (C++, v2.1)
 |   +-- sraudit.abi               # Contract ABI
@@ -59,6 +64,19 @@ passer-sr/
 |   |   +-- job_metrics/          # Per-job metrics (JSON + XLSX, 6 configs)
 |   |   +-- error_analysis/       # Per-job error analysis (JSON)
 |   +-- full_text_review_list.csv # 949 papers selected for full-text review
+|   +-- audit_export/             # Blockchain audit export + timestamp proof
+|   |   +-- EVoting-2026-KW_final_corpus_20260317_134310.json
+|   |   +-- EVoting-2026-KW_final_corpus_20260317_134310.json.ots
+|   |   +-- full_text_review_list.csv
+|   |   +-- README_Zenodo_2026-03-23.md
+|   +-- Additional_analysis/      # Additional analyses (CSV outputs)
+|       +-- A1_agreed_vs_disputed_results.csv
+|       +-- A2_A3_mcnemar_pairwise.csv
+|       +-- A4_confidence_distribution.csv
+|       +-- A4_s4_vs_s2_comparison.csv
+|       +-- A5_computational_cost.csv
+|       +-- A5_per_paper_timing.csv
+|       +-- A6_granite_ablation.csv
 +-- .env.example                  # Environment variable template
 ```
 
@@ -72,7 +90,7 @@ The paper evaluates five LLM-based screening strategies for title-abstract scree
 - S2 (Majority Voting) --three models vote, majority decides
 - S3 (Recall-Focused OR) --any INCLUDE from three models triggers inclusion
 - S4 (Confidence-Weighted) --weighted average of three model confidence scores
-- S5 (Two-Stage Debate) --proposer model + two reviewers with iterative debate
+- S5 (Two-Stage Filtering) --fast-filter model + two-model majority voting panel
 
 **LLM models (4-bit quantised, Apple MLX):**
 
@@ -92,6 +110,31 @@ The paper evaluates five LLM-based screening strategies for title-abstract scree
 Every screening decision (human and LLM) is recorded as an immutable transaction on a private Antelope blockchain via the `sraudit` smart contract (v2.1). The complete audit export, Merkle root, and OpenTimestamps proof anchored to the Bitcoin blockchain are deposited on Zenodo: [https://doi.org/10.5281/zenodo.19182242](https://doi.org/10.5281/zenodo.19182242).
 
 The smart contract (`blockchain/sraudit.cpp`) implements the following on-chain actions: `logdecision`, `logres`, `logimport`, `logexport`, `logllmdec`, `logllmjob`, and `logaudit`.
+
+## Additional Analyses
+
+Six additional analysis scripts are provided. Each script reads data from the audit export and gold standard evaluation results. All outputs are saved in `results/Additional_analysis/`.
+
+| Script | Section | Description |
+|--------|---------|-------------|
+| `A1_agreed_vs_disputed_FIXED.py` | 4.5 | Compares screening performance on agreed vs. disputed Gold Standard subsets (150 agreed, 50 disputed). |
+| `A2_A3_mcnemar_power_FIXED.py` | 4.6 | Pairwise McNemar's exact test between the top five configurations with post-hoc power analysis. |
+| `A4_confidence_distribution.py` | 4.2 | Analyses confidence score distributions across models for S2 and S4 strategies. |
+| `A5_computational_cost.py` | 5.1 | Computes wall-clock time, token counts, and per-paper timing for the top five configurations. |
+| `A6_granite_ablation.py` | 5.1 | Ablation comparing ensembles with Granite (MLG) vs. ensembles with Qwen replacing Granite (MLQ). |
+
+Running the analyses:
+
+```bash
+cd scripts
+python A1_agreed_vs_disputed_FIXED.py
+python A2_A3_mcnemar_power_FIXED.py
+python A4_confidence_distribution.py
+python A5_computational_cost.py
+python A6_granite_ablation.py
+```
+
+All scripts require the audit export JSON in `results/audit_export/` and the gold standard evaluation data in `results/gold_standard_evaluation/`.
 
 ## Prerequisites
 
