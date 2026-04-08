@@ -1,0 +1,955 @@
+paper_id,title,doi,confidence_score,final_confidence
+BES-0001,"Blockchain-Based Secure Online Voting Platform Ensuring Voter Anonymity, Integrity, and End-to-End Verifiability",10.48550/arXiv.2509.22965,0.9,HIGH
+BES-0005,"Enhancing Democratic Processes: A Survey of DRE, Internet, and Blockchain in Electronic Voting Systems",10.1109/access.2025.3531349,0.7,MEDIUM
+BES-0011,Kite: How to Delegate Voting Power Privately,10.48550/arXiv.2501.05626,0.7,MEDIUM
+BES-0014,Blockchain-enhanced electoral integrity: a robust model for secure digital voting systems in Oman,10.12688/f1000research.160087.3,0.9,HIGH
+BES-0016,Blockchain Based Cryptographic Algorithm for Data Protection in Electronic Voting System,10.4108/eetiot.7680,0.7,MEDIUM
+BES-0020,Leveraging blockchain for robust and transparent E-voting systems,10.1016/j.csa.2025.100086,0.9,HIGH
+BES-0024,A Comprehensive Review of Blockchain based E-Voting Technologies and Challenges,10.1109/ICEARS64219.2025.10940076,0.9,HIGH
+BES-0025,"An efficient and secure privacy-preserving E-voting system with blockchain, homomorphic encryption, and ZKP",10.1080/1206212X.2025.2535679,0.9,HIGH
+BES-0026,MBCSD-IoT: A Multi-Level Blockchain-Assisted SDN-Based IoT Architecture for Secured E-Voting System,10.1109/TNSE.2025.3535726,0.9,HIGH
+BES-0027,Securing Blockchain-Based E-Voting Through Shamir's Secret Sharing over Ethereum,10.1109/ISDFS65363.2025.11011920,0.9,HIGH
+BES-0028,Secure and Scalable Blockchain Voting: A Comparative Framework and the Role of Large Language Models,10.55248/gengpi.6.0825.2847,0.9,HIGH
+BES-0031,Electoral Voting System Using Blockchain,10.55041/ijsrem40626,0.9,HIGH
+BES-0032,Blockchain-Based Voting Systems Enhancing Transparency and Security in Electoral Processes,10.1051/itmconf/20257602004,0.7,MEDIUM
+BES-0033,Decentralized E-Voting and Governance System Using Blockchain,10.52783/jisem.v10i2s.201,0.7,MEDIUM
+BES-0034,Empowering Democracy: Does Blockchain Unlock the E‐Voting Potential for Citizens?,10.1155/hbe2/6681599,0.7,MEDIUM
+BES-0038,"Blockchain in Electronic Voting: A Systematic Review of Security, Scalability, and Emerging Technologies",10.1109/IITCEE64140.2025.10915302,0.9,HIGH
+BES-0039,Electronic Voting System Using Blockchain Technology,10.1109/ICDT63985.2025.10986372,0.7,MEDIUM
+BES-0041,A New Era of Elections: Leveraging Blockchain for Fair and Transparent Voting,10.48550/arXiv.2502.16127,0.9,HIGH
+BES-0043,QV-net: Decentralized Self-Tallying Quadratic Voting with Maximal Ballot Secrecy,10.1145/3719027.3744810,0.9,HIGH
+BES-0044,Trustereum: a Trustworthy and Transparent Voting System Leveraging Ethereum Blockchain,10.1109/ICKECS65700.2025.11035613,0.9,HIGH
+BES-0045,VoteMate: A Decentralized Application for Scalable Electronic Voting on EVM-Based Blockchain,10.48550/arXiv.2505.15797,0.7,MEDIUM
+BES-0048,Secure E-Voting with Open Source Blockchain: Enhancing AES and RSA Encryption with Face Authentication Technology,10.1109/ICMLAS64557.2025.10968871,0.9,HIGH
+BES-0049,"Analysing security and efficiency in a quantum resistant decentralised E-voting system using blockchain, homomorphic encryption and zero knowledge proofs",10.1109/RMKMATE64874.2025.11042466,0.9,HIGH
+BES-0050,Perancangan dan Implementasi Sistem E-Voting Menggunakan Teknologi Blockchain dan Smart Contract,10.55679/semantik.v11i1.138,0.9,HIGH
+BES-0051,Transforming E-Voting with Blockchain: A Review of Technologies and Practical Implementations,10.48175/ijarsct-23909,0.9,HIGH
+BES-0052,Self-Tallying E-Voting Using Homomorphic Time-Lock Puzzles and ZK-SNARKs,10.1109/TNSE.2025.3550290,0.9,HIGH
+BES-0053,Revolutionizing Democratic Engagement: Block chain Based E-Voting System with Enhanced Biometric Security,10.1109/IITCEE64140.2025.10915356,0.9,HIGH
+BES-0054,Design of a secure electronic voting system based on zero-knowledge proof and blockchain technology,10.1177/14727978251361854,0.9,HIGH
+BES-0056,A Comprehensive Secured Digital Voting System using Web Development and Blockchain,10.1109/ICICCS65191.2025.10985218,0.7,MEDIUM
+BES-0057,A Privacy-Preserving E-Voting System using Federated Learning and CNNs for Secure Fingerprint and Biometric Verification,10.24237/djes.2025.18312,0.9,HIGH
+BES-0058,Development of Student Government E-Voting Application,10.69569/jip.2024.0675,0.9,HIGH
+BES-0059,Decentralized digital Ledger for Secure and Transparent crypto Voting,10.1109/ICDSAAI65575.2025.11011783,0.7,MEDIUM
+BES-0060,Block-Voter: A Full-Stack Ethereum-based Electronic Voting DApp,10.1109/ICICCS65191.2025.10984491,0.9,HIGH
+BES-0062,Blockchain-Driven E-Voting: Enhancing Security and Integrity with Smart Contracts,10.31645/jisrc.25.23.1.3,0.9,HIGH
+BES-0063,Beyond the Ballot Box: Decentralized Voting on the Ethereum Blockchain,10.55041/ijsrem42763,0.7,MEDIUM
+BES-0064,Decentralized and Biometric-Authenticated E-Voting System: A Blockchain-Based Approach,10.22214/ijraset.2025.67653,0.9,HIGH
+BES-0065,Smart Contract-Based Decentralized Voting System for Transparent Elections on Ethereum Blockchain,10.55041/isjem03696,0.9,HIGH
+BES-0066,A Secure E-Voting System Using Blockchain Ethereum Technology and Smart Contracts,10.22214/ijraset.2025.71860,0.9,HIGH
+BES-0070,A Decentralized and Privacy-Preserving Voting System with Enigma,10.1109/BCCA66705.2025.11227184,0.9,HIGH
+BES-0072,Secure Blockchain E-Voting with Anti-Spoofing and ZK Proofs,10.55041/ijsrem52345,0.9,HIGH
+BES-0073,Fingerprint-Authenticated Blockchain E-Voting: A Secure Digital Election Framework,10.55948/ijerste.2025.0702,0.9,HIGH
+BES-0074,Android-based Blockchain E-Voting System for Secure and Transparent Elections,10.1109/ICISS63372.2025.11076493,0.9,HIGH
+BES-0075,"A Scalable and Verifiable Blockchain-Based E-Voting Framework for Transparent, Secure and User-Centric Democratic Elections",10.5220/0013931800004919,0.9,HIGH
+BES-0076,Blockchain Framework for E-Voting in Bulgaria,10.1109/BdKCSE67969.2025.11300525,0.9,HIGH
+BES-0077,A Feature Centric Survey of Blockchain-Based E-Voting Systems with Secure QR Authentication ‎and Post-Quantum Cryptographic Enhancement,10.14419/0g3a5r31,0.9,HIGH
+BES-0078,Implementasi Smart Contract Blockchain Ethereum Pada Aplikasi E-voting,10.36423/index.v7i1.2177,0.7,MEDIUM
+BES-0079,Enhancing Transparency and Security in Elections: A Blockchain-Based E-Voting System(eVoteChain),10.1109/ICoEIT63558.2025.11211646,0.9,HIGH
+BES-0080,A Secure and Intelligent Blockchain-Based E-Voting System Using Multimodal Voter Authentication and Smart Contract Optimization,10.1109/ICFT66708.2025.11336389,0.9,HIGH
+BES-0081,"Secure E-voting authentication system employing biometric technology, Crypto-Watermarking Approach and blockchain technology: A Review",10.47831/mjpas.v3i2.324,0.7,MEDIUM
+BES-0082,A Lightweight Blockchain Framework for Secure and Efficient Small-Scale E-Voting,10.1109/ICDICI66477.2025.11134882,0.9,HIGH
+BES-0083,A Study on POA Consensus Mechanism in Blockchain-Enabled E-Voting Platforms,10.1109/GECOST66002.2025.11325003,0.9,HIGH
+BES-0084,Decentralized and Thrustless E-Voting Leveraging Blockchain for Democratic Integrity,10.1109/ICCPCT65132.2025.11176479,0.9,HIGH
+BES-0085,Implementation of Blockchain Technology in E-Voting Using Smart Contract and ZK-SNARK,10.34148/teknika.v14i3.1358,0.9,HIGH
+BES-0086,A Secure and Transparent Blockchain driven E-Voting System using Smart Contract and IPFS-based Scalability,10.1109/GCON65540.2025.11173301,0.9,HIGH
+BES-0087,Hybrid E-Voting System with Blockchain Integration and Polling Station Location Verification to Ensure Security and Legitimacy in Digital Elections,10.38124/ijsrmt.v4i7.666,0.9,HIGH
+BES-0088,"Electwithme: A Secure-Balloting, Coercion-Resistant, Scalable, And Optimized E-Voting System Using Blockchain Technology",10.64252/c31gp995,0.9,HIGH
+BES-0089,Next-Generation E-Voting Security using Blockchain Technology,10.1109/CISES66934.2025.11265437,0.9,HIGH
+BES-0090,Blockchain Based E-Voting System Hosted on Cloud,10.1109/ICDT63985.2025.10986452,0.7,MEDIUM
+BES-0091,SecureVote: Enhancing Electoral Integrity Using Blockchain-Based E-Voting,10.1109/iccsai64074.2025.11064040,0.9,HIGH
+BES-0092,A Blockchain and Face Recognition Based E-Voting System,10.22214/ijraset.2025.68648,0.9,HIGH
+BES-0093,"E-Voting System Using Machine Learning, Blockchain, and Cryptography",10.71097/ijsat.v16.i2.6512,0.7,MEDIUM
+BES-0094,Increasing Scalability of E-voting System Based on Public Blockchain Using AVS,10.1109/ICEIEC65904.2025.11273117,0.9,HIGH
+BES-0095,Develop a Performance based Right-To-Recall e-Voting System in India using Blockchain Technology,10.1109/ACROSET66531.2025.11281359,0.9,HIGH
+BES-0096,Decentralized E-Voting System: Enhancing Security and Trust using Ethereum Blockchain,10.1109/ICAISS61471.2025.11042062,0.9,HIGH
+BES-0097,Blockchain Based Transparent and Trustworthy E-Voting System,10.1109/Balkancom65827.2025.11186031,0.9,HIGH
+BES-0098,Sistem E-Voting berbasis Blockchain dengan Autentikasi Biometrik Sidik Jari dan Protokol Zero-Knowledge Proof Untuk Pengaman Privasi,10.33395/jmp.v14i2.15536,0.9,HIGH
+BES-0099,Design and Implementation of a Secure Blockchain-based E-Voting Architecture with Zero-Knowledge Proofs and Smart Contracts,10.1109/ICoICI65217.2025.11252722,0.9,HIGH
+BES-0100,Optimalisasi Sistem Pemilu Melalui Implementasi E-Voting Berbasis Blockchain Dengan Keamanan Kriptografi AES-128,10.47561/jtik.v18i2.343,0.9,HIGH
+BES-0101,E-Voting System Based on Blockchain,10.1109/ICCSAI64074.2025.11064001,0.7,MEDIUM
+BES-0102,Decentralized E-Voting Using Blockchain With Biometrics,10.1109/ICCAMS65118.2025.11233966,0.9,HIGH
+BES-0103,Applicatin of Blockchain Technology for E-Voting Systems Using Smart Contracta,10.59141/jist.v6i5.9046,0.9,HIGH
+BES-0104,Leveraging Blockchain for the Design and Realization of a Secure E-Voting Mechanism,10.4108/eai.28-4-2025.2358030,0.7,MEDIUM
+BES-0105,Safeguarding E-Voting with Blockchain: A Transparent and Reliable Solution,10.1109/ICRAIS66073.2025.11234696,0.9,HIGH
+BES-0106,Blockchain-Based Framework for Secure and Transparent E-Voting Using Ethereum: An Alternative to Traditional EVMs,10.1109/InC465408.2025.11256214,0.9,HIGH
+BES-0107,E-Voting System Over Conventional Voting System Using Blockchain Technology,10.1109/ICE2CPT66440.2025.11340523,0.7,MEDIUM
+BES-0108,Enhanced Comparison of Consensus Algorithms on Distributed E-Voting Application Using Blockchain,10.1109/ICCIES63851.2025.11032199,0.7,MEDIUM
+BES-0109,Implementation of Zero Knowledge Proof and Smart Contract for E-Voting System on Polygon Blockchain,10.1109/ICADEIS65852.2025.10932999,0.9,HIGH
+BES-0110,Decentralized E-Voting : Using Ethereum Blockchain,10.1109/OTCON65728.2025.11070852,0.9,HIGH
+BES-0111,A Secure and Distributed Blockchain-Based E-Voting System for Multi-Level Elections with Encrypted Authentication,10.1109/CSITSS67709.2025.11294662,0.9,HIGH
+BES-0112,A Secure E-Voting System With Blockchain Using Face Authentication Technology,10.4108/eai.28-4-2025.2357779,0.9,HIGH
+BES-0113,Blockchain-enabled Secured and Transparent E-Voting System using Smart Contracts,10.47164/ijngc.v16i1.1843,0.9,HIGH
+BES-0114,A Quantum-Secure and Blockchain-Integrated E-Voting Framework with Identity Validation,10.48550/arXiv.2511.16034,0.9,HIGH
+BES-0115,Survey on Secure E-Voting Platform,10.55041/ijsrem41519,0.7,MEDIUM
+BES-0116,A Federated AI and DAG-Based Framework for Secure and Scalable E-Voting,10.4108/eai.28-4-2025.2357759,0.9,HIGH
+BES-0117,"Towards Secure Decentralized Applications and Consensus Protocols in Blockchains (on Selfish Mining, Undercutting Attacks, DAG-Based Blockchains, E-Voting, Cryptocurrency Wallets, Secure-Logging, and CBDC)",10.48550/arXiv.2512.13213,0.7,MEDIUM
+BES-0118,Blockchain-Based Digital Voting Systems: Security and Usability Analysis,10.65521/ijacect.v13i1.58,0.9,HIGH
+BES-0119,CREATION OF A BLOCKCHAIN PLATFORM FOR ELECTRONIC VOTING,10.28925/2663-4023.2025.28.860,0.7,MEDIUM
+BES-0120,Research on blockchain electronic voting system based on face recognition and deep fake face detection,10.53894/ijirss.v8i6.10251,0.9,HIGH
+BES-0122,A Blockchain-Based Voting System Using Zero-Knowledge Proofs for Enhanced Privacy and Verifiability,10.1109/CIACON65473.2025.11189735,0.9,HIGH
+BES-0124,Blockchain Ballot for Enhancing Electoral Integrity through Decentralized Voting,10.1109/ICCAMS65118.2025.11234045,0.9,HIGH
+BES-0125,College Electoral System Using Blockchain Technology,10.1109/ICSSES64899.2025.11009278,0.9,HIGH
+BES-0126,Unmasking Electoral Finance: The ElectraChain Blockchain Solution,10.1109/ISCON65210.2025.11341296,0.7,MEDIUM
+BES-0127,Towards Practical Implementation of ElectraChain: A Blockchain-Based Solution for Transparent Electoral Finance,10.1109/ICRITO66076.2025.11241653,0.9,HIGH
+BES-0128,Enhancing electoral integrity : A blockchain-based voting system for secure and transparent elections,10.47974/jios-1886,0.9,HIGH
+BES-0129,FaceChainVote: A Unified Blockchain-Driven AI Electoral System,10.22214/ijraset.2025.72143,0.9,HIGH
+BES-0131,Designing a Post-Quantum Blockchain Voting Protocol with Zero-Knowledge Proofs for Tamper-Resilient Electoral Infrastructure,10.54660/ijmfd.2025.6.2.71-79,0.9,HIGH
+BES-0132,Secure Vote: Revolutionising Democracy Through Blockchain Technology,10.1109/ICCCT63501.2025.11018954,0.9,HIGH
+BES-0133,Future-Generation Framework for a Blockchain-Powered Election System,10.52783/jisem.v10i35s.6018,0.9,HIGH
+BES-0134,Blockchain-Based Voting System for Transparent and Tamper-Proof Elections in Rwanda,10.70619/vol5iss6pp70-89,0.9,HIGH
+BES-0136,Blockchain-Based Secure Voting System: A Transparent and Tamper-Proof Approach to Modern Elections,10.5220/0013910600004919,0.9,HIGH
+BES-0137,Developing a Secured Voteing Sysytem Using Blockchain Trechnology,10.51583/ijltemas.2025.140400066,0.9,HIGH
+BES-0138,A Secure Approach to Mitigate Double Voting in Electronic Voting Systems using Blockchain Technology,10.1109/ICCPCT65132.2025.11176586,0.9,HIGH
+BES-0139,Revolutionizing Democracy: How Blockchain Technology Will Be Transforming Indian Voting System,10.36948/ijfmr.2025.v07i04.51839,0.7,MEDIUM
+BES-0140,Revolutionizing Secure Elections: Leveraging Blockchain for Transparent and Immutable Online Voting,10.1109/ICNSoC66817.2025.00103,0.9,HIGH
+BES-0141,Blockchain-Based Distributed Electronic Voting System Ensuring Privacy and Integrity through Smart Contracts,10.22214/ijraset.2025.71401,0.9,HIGH
+BES-0143,EVALUATION OF ELECTRONIC BASED VOTING SYSTEM AND DESIGN OF BLOCK-CHAIN-BASED ELECTRONIC VOTING SYSTEM ENHANCED WITH FINGERPRINT AND FACIAL RECOGNITION TECHNOLOGIES TO ADDRESS IMPERSONATION,10.33003/fjs-2025-0907-3701,0.9,HIGH
+BES-0144,Blockchain in Electronic Voting Systems: Trust and Security Challenges,10.63345/sjaibt.v2.i4.108,0.9,HIGH
+BES-0145,Distributed Ledger Voting System Using Blockchain,10.1109/INCIP64058.2025.11020487,0.7,MEDIUM
+BES-0146,A Blockchain-based Decentralized Framework for Trust Management and Secure Voting,10.1109/ICMCSI64620.2025.10883609,0.9,HIGH
+BES-0147,Blockchain and AI-Driven Palmprint Biometrics for Secure Voting Systems in E-Governance Applications,10.1109/ICDT63985.2025.10986302,0.9,HIGH
+BES-0148,Enhancing Fairness and Transparency in Electronic Voting with Blockchain-Based Identity Management,10.1109/ICEEI68459.2025.11330477,0.9,HIGH
+BES-0149,MODEL OF ELECTRONIC VOTING USING HYPERLEDGER AND NEUROADAPTIVE APPROACH IN RISK MANAGEMENT IN CYBER-PHYSICAL SYSTEMS,10.28925/2663-4023.2025.28.784,0.9,HIGH
+BES-0150,VoteBlock - A Decentralized Online Voting Solution with Blockchain,10.1109/ICOEI65986.2025.11013208,0.9,HIGH
+BES-0152,A Blockchain-Enabled Approach to Secure and Transparent Electronic Voting,10.1109/AIC66080.2025.11212204,0.9,HIGH
+BES-0153,Blockchain consensus mechanisms for democratic voting environments,10.1109/IPDPSW66978.2025.00170,0.9,HIGH
+BES-0154,Blockchain-Based Online Voting System: Enhancing Security and Transparency in Elections Through Advanced Cryptographic Integration,10.1109/ACROSET66531.2025.11281000,0.9,HIGH
+BES-0155,Online Voting System Using Blockchain: A Secure and Transparent Approach,10.55041/ijsrem50471,0.9,HIGH
+BES-0156,Remote Voting System for Migrant People,10.38124/ijisrt/25may945,0.9,HIGH
+BES-0157,Blockchain-“Based Voting System”: Comprehensive Analysis and Future Prospects,10.1109/ICCSAI64074.2025.11064730,0.7,MEDIUM
+BES-0158,Blockchain EOSIO System Based on Vague Sets and Huawei Cloud,10.1109/MICCIS66057.2025.00079,0.9,HIGH
+BES-0160,Voter Verification in an Election Using Merkle Tree,10.22214/ijraset.2025.66154,0.7,MEDIUM
+BES-0162,SelectVote Byzantine Fault Tolerance for Evidence Custody: Virtual Voting Consensus with Environmental Compensation,10.3390/s25226846,0.9,HIGH
+BES-0163,Blockchain-Based Voting for Diaspora Communities: A Secure Remote Solution,10.70619/vol5iss12pp30-43-695,0.9,HIGH
+BES-0169,"BP-Vot: Blockchain-Based e-Voting Using Smart Contracts, Differential Privacy, and Self-Sovereign Identities",10.1109/ACCESS.2025.3548404,0.9,HIGH
+BES-0170,Permissioned Smart Contract Based e-Voting System for University,10.1109/NETCRYPT65877.2025.11102528,0.9,HIGH
+BES-0171,Assessing the impact of adopting Blockchain technology in Electronic voting system: Empirical evidence from Bangladesh,10.58970/jsr.1113,0.9,HIGH
+BES-0172,Decentralize Voting Storage System,10.55041/ijsrem53341,0.9,HIGH
+BES-0173,"Fully Transparent, Privacy-Preserving Yet Verifiable, Attack-Resistant, and Practical Remote Electronic Voting Rendering Assured and Fair Elections",10.1109/TP.2025.3603141,0.9,HIGH
+BES-0174,E-VoteChain: Securing Digital Elections,10.22214/ijraset.2025.68118,0.9,HIGH
+BES-0175,Optimizing Gas Costs in Decentralized Voting Systems: A Smart Contract Approach,10.1109/ICSSES64899.2025.11009257,0.9,HIGH
+BES-0176,IMPLEMENTASI SMART CONTRACT PADA E-VOTING DENGAN METODE PEER-TO-PEER BLOCKCHAIN ETHEREUM,10.30656/prosisko.v12i1.9136,0.7,MEDIUM
+BES-0177,Smart Contract-Based Voting: Enhancing Integrity with Ethereum and Advanced Hashing,10.1109/NETCRYPT65877.2025.11102663,0.7,MEDIUM
+BES-0179,Implementation of Smart Contracts in Electronic Voting (Case Study: Election of the President and Vice President POLNES Student Executive Board),10.30595/jrst.v9i2.26902,0.9,HIGH
+BES-0180,Can Hybrid Consortium Blockchain Enable Free Voting in i-Voting?,10.1109/ICCE-Taiwan66881.2025.11208023,0.9,HIGH
+BES-0181,"AuraVote: A Secure, Decentralized Voting System with AI-Powered Liveness and Identity Verification",10.61359/11.2206-2548,0.9,HIGH
+BES-0182,Blockchain-Based Biometric Voting System Using Face and Fingerprint Authentication for Secure and Transparent Elections,10.1109/ICDDS67737.2025.11344716,0.9,HIGH
+BES-0183,Generating efficient and semantic interoperable smart contracts for e-governance,10.1109/ICBC64466.2025.11185103,0.7,MEDIUM
+BES-0184,INNOVATIVE METHODS OF ENCRYPTION AND STORAGE OF DATABASE PARTS IN DISTRIBUTED SYSTEMS BASED ON SMART CONTRACTS,10.23939/csn2025.02.134,0.9,HIGH
+BES-0186,Implementation of Decentralized Systems in Electronic Election Applications,10.35879/jik.v19i3.695,0.9,HIGH
+BES-0191,Blockchain and Machine Learning Powered Secure Online Voting System,10.32628/ijsrset25122297,0.7,MEDIUM
+BES-0192,Blockchain-based decentralized voting system with SHA-256 algorithm and facial recognition,10.11591/ijres.v14.i2.pp481-489,0.9,HIGH
+BES-0193,Blockchain-Based Autonomous Voting System Ethereum,10.22214/ijraset.2025.68143,0.9,HIGH
+BES-0194,Blockchain-Based Consensus Algorithm for Decentralized Secure Voting Systems,10.1109/ICCR67387.2025.11292227,0.9,HIGH
+BES-0196,Design and Scalability Performance Evaluation of Permissioned Blockchain Architecture for Online Voting System,10.11113/ijic.v15n1.527,0.9,HIGH
+BES-0197,Secure And Transparent Voting System using Ethureum Blochchain,10.1109/ICIDCA66325.2025.11280362,0.9,HIGH
+BES-0198,Are Voters Willing to Collectively Secure Elections? Unraveling a Practical Blockchain Voting System,10.1109/BRAINS67003.2025.11302910,0.9,HIGH
+BES-0199,The Decentralized Voting System Using Blockchain,10.55041/ijsrem43776,0.9,HIGH
+BES-0200,Novel Blockchain-based Protocols for Electronic Voting and Auctions,10.48550/arXiv.2507.03258,0.9,HIGH
+BES-0201,Blockchain Voting Systems: A Leap Towards Electoral Security and Clarity,10.52783/jisem.v10i51s.10429,0.9,HIGH
+BES-0202,Design and Implementation of a Secure and Transparent Decentralized Voting System using Blockchain Technology,10.55041/ijsrem46461,0.9,HIGH
+BES-0203,Zero-Knowledge Proof-Enabled Blockchain Protocol for Tamper-Resistant Electronic Voting Systems,10.1109/ICCR67387.2025.11292404,0.9,HIGH
+BES-0204,SecureVote: A Blockchain-Based Voting System with Biometric Fingerprint Authentication,10.55041/ijsrem55389,0.9,HIGH
+BES-0205,Blockchain-Based Secure Voting System for Transparent Digital Elections in India,10.22214/ijraset.2025.73359,0.9,HIGH
+BES-0206,Blockchain-Based Approach to Ensuring Transparency in Organizational Voting Processes,10.30837/bi.2025.2(103).08,0.9,HIGH
+BES-0207,Scalable Internet Voting Through AI-Driven Facial Recognition and Blockchain: A De-Duplication-Based Approach to Secure Voter Identity,10.1109/ICCICA67008.2025.11337363,0.9,HIGH
+BES-0208,"Secured Blockchain-Based Voting System Using ZKP, IPFS",10.22214/ijraset.2025.70767,0.9,HIGH
+BES-0211,Development of a blockchain-based electronic voting system utilizing national identification number,10.11591/ijres.v14.i3.pp810-820,0.9,HIGH
+BES-0215,VoteGuard: A Hybrid Blockchain-AI Framework for Secure Electronic Voting with Enhanced Biometric Authentication and Decentralized Integrity,10.22214/ijraset.2025.74239,0.9,HIGH
+BES-0217,Project QSUeVoto: distributed electronic voting system based on blockchain technology,10.11591/ijeecs.v38.i1.pp272-280,0.7,MEDIUM
+BES-0219,"Blockchain-enhanced electoral integrity: a robust model for secure digital voting systems in Oman [version 2; peer review: 2 approved, 1 approved with reservations, 1 not approved]",10.12688/f1000research.160087.2,0.9,HIGH
+BES-0221,ENHANCED INFORMATION SECURITY FOR VOTING SYSTEM IN EMERGENCIES USING PAILLIER’S CRYPTOSYSTEM,10.37943/22fula2667,0.9,HIGH
+BES-0232,Privacy Preserving E-Voting System Using Homomorphic Encryption,10.63856/y52wg044,0.9,HIGH
+BES-0235,ADDRESSING SECURITY AND PRIVACY CONCERNS IN BLOCKCHAIN-BASED ELECTIONS,,0.7,MEDIUM
+BES-0236,Створення блокчейн-платформи для електронного голосування,,0.7,MEDIUM
+BES-0239,RFID-enabled electronic voting framework for secure democratic processes,10.3390/telecom6040078,0.9,HIGH
+BES-0249,A Quantum Walk-Enabled Blockchain with Weighted Quantum Voting Consensus,,0.7,MEDIUM
+BES-0251,SmartphoneDemocracy: Privacy-Preserving E-Voting on Decentralized Infrastructure using Novel European Identity,,0.9,HIGH
+BES-0255,DAO-AI: Evaluating Collective Decision-Making through Agentic AI in Decentralized Governance,,0.7,MEDIUM
+BES-0268,"Blockchain for securing electronic voting systems: a survey of architectures, trends, solutions, and challenges",10.1007/s10586-024-04709-8,0.9,HIGH
+BES-0272,Blockchain-Based Electronic Voting System: Significance and Requirements,10.1155/2024/5591147,0.7,MEDIUM
+BES-0274,Decentralizing Democracy: Secure and Transparent E-Voting Systems with Blockchain Technology in the Context of Palestine,10.3390/fi16110388,0.9,HIGH
+BES-0278,"Transforming online voting: a novel system utilizing blockchain and biometric verification for enhanced security, privacy, and transparency",10.1007/s10586-023-04261-x,0.9,HIGH
+BES-0282,<scp>DemocracyGuard</scp>: Blockchain‐based secure voting framework for digital democracy,10.1111/exsy.13694,0.9,HIGH
+BES-0283,A biometrics-generated private/public key cryptography for a blockchain-based e-voting system,10.1016/j.eij.2024.100447,0.9,HIGH
+BES-0286,Enhancing Security and Transparency in Online Voting through Blockchain Decentralization,10.1007/s42979-024-03286-2,0.9,HIGH
+BES-0292,Blockchain Enabled Privacy- Preserved Secure e-voting System for Smart Cities,10.1109/icstem61137.2024.10560826,0.7,MEDIUM
+BES-0293,A Voting System Based on Blockchain Technology,10.22214/ijraset.2024.59416,0.9,HIGH
+BES-0296,Blockchain-Based E-Voting Mechanisms: A Survey and a Proposal,10.3390/network4040021,0.9,HIGH
+BES-0301,An efficient and versatile e-voting scheme on blockchain,10.1186/s42400-024-00226-8,0.9,HIGH
+BES-0304,Zero-knowledge Identity Authentication for E-voting System,10.58346/jisis.2024.i2.002,0.9,HIGH
+BES-0305,Hyperledger Iroha for a Secure and Efficient Voting System,10.1109/idciot59759.2024.10467774,0.7,MEDIUM
+BES-0306,Blockchain-based e-voting system in a university,10.11591/ijeecs.v34.i3.pp1915-1923,0.9,HIGH
+BES-0307,Designing A Secure Large Scale E -Voting System Leveraging Sharding Blockchain with Interoperability Protocol and Consensus Mechanism,10.1109/iitcee59897.2024.10467713,0.9,HIGH
+BES-0308,"Hybrid-Blockchain-Based Electronic Voting Machine System Embedded with Deepface, Sharding, and Post-Quantum Techniques",10.3390/blockchains2040017,0.9,HIGH
+BES-0309,Intelligent Gesture-Enhanced Blockchain Voting: A New Era of Secure and Accessible E-Voting,10.1109/access.2024.3468338,0.9,HIGH
+BES-0311,EtherVote: a secure smart contract-based e-voting system,10.1007/s11276-024-03818-x,0.9,HIGH
+BES-0314,Transforming the voting process integrating blockchain into e-voting for enhanced transparency and securiy,10.12928/telkomnika.v22i2.25758,0.9,HIGH
+BES-0315,A Methodology for Vulnerability Assessment and Threat Modelling of an e-Voting Platform Based on Ethereum Blockchain,10.1109/access.2024.3495981,0.9,HIGH
+BES-0317,The impact of blockchain and artificial intelligence technologies in network security for e-voting,10.11591/ijece.v14i6.pp6723-6733,0.9,HIGH
+BES-0318,Improving the End‐to‐End Protection in E‐Voting Using <scp>BVM</scp>—Blockchain‐Based E‐Voting Mechanism,10.1002/cpe.8324,0.9,HIGH
+BES-0321,DECENTRALIZED ELECTRONIC VOTING WITH ETHEREUM BLOCKCHAIN IN DEMOCRATIC AND POLITICAL ELECTIONS,10.32890/jcia2024.3.2.5,0.9,HIGH
+BES-0322,A Secure and Transparent Voting System using Blockchain Technology,10.22214/ijraset.2024.64927,0.9,HIGH
+BES-0323,Analysis and design on acceptance of blockchain based e-voting system,10.11591/ijeecs.v33.i3.pp1793-1801,0.7,MEDIUM
+BES-0324,Analysis of research on the implementation of Blockchain technologies in regional electoral processes,10.11591/ijece.v14i3.pp2854-2867,0.7,MEDIUM
+BES-0325,Advancing E-Voting Security: Biometrics-Enhanced Blockchain for Privacy and VerifiAbility (Bebpv),10.54536/ajise.v3i3.3876,0.9,HIGH
+BES-0326,An Improved Secure and Efficient E-Voting Scheme Based on Blockchain Systems,10.1109/jiot.2024.3507366,0.9,HIGH
+BES-0329,Block Chain-Powered E-Voting System: A Secure and Transparent Solution with Three-Tiered OTP Security Mechanism,10.1109/ic2pct60090.2024.10486507,0.9,HIGH
+BES-0331,Verifiable Random Function Schemes Based on SM2 Digital Signature Algorithm and its Applications for Committee Elections,10.1109/ojcs.2024.3463649,0.9,HIGH
+BES-0334,Votereum: Blockchain based Secure Voting System,10.1109/ICPCSN62568.2024.00097,0.9,HIGH
+BES-0335,Send Message to the Future? Blockchain-Based Time Machines for Decentralized Reveal of Locked Information,10.1109/TNSM.2025.3604833,0.9,HIGH
+BES-0336,Quantum-Enhanced Secure Approval Voting Protocol,10.48550/arXiv.2406.19730,0.7,MEDIUM
+BES-0337,Enhancing Security and Scalability in Electronic Voting Through Privacy-Preserving Cryptography and Efficient Data Structures,10.1109/Blockchain62396.2024.00093,0.9,HIGH
+BES-0339,"Blockchain-Powered E-Voting: A Novel Approach to Secure Voter Authentication, Online Voting and Election Automation",10.17485/ijst/v17i47.3573,0.9,HIGH
+BES-0340,Disrupting the Ballot Box: Blockchain as a Catalyst for Innovation in Electoral Processes,10.1109/icaccess61735.2024.10499541,0.7,MEDIUM
+BES-0341,Multi party confidential verifiable electronic voting scheme based on blockchain,10.1186/s13677-024-00723-8,0.9,HIGH
+BES-0342,ZkSNARKs and Ticket-Based E-Voting: A Blockchain System Proof of Concept,10.56294/dm2024.341,0.9,HIGH
+BES-0343,Improving Election Integrity: Blockchain and Byzantine Generals Problem Theory in Vote Systems,10.3390/electronics13101853,0.9,HIGH
+BES-0344,Design of Blockchain-based Secured Election Voting System,10.1109/sceecs61402.2024.10481966,0.7,MEDIUM
+BES-0345,Immutable and Transparent Electronic Voting Platform Leveraging Blockchain Technology,10.36948/ijfmr.2024.v06i03.19520,0.9,HIGH
+BES-0346,Blind Vote: Economical and Secret Blockchain-Based Voting,10.1109/blockchain62396.2024.00016,0.9,HIGH
+BES-0355,Secured Electronic Voting Using Ethereum Blockchain Technology,10.1109/WCONF61366.2024.10692159,0.9,HIGH
+BES-0356,Z-Voting: A zero knowledge based confidential voting on blockchain,10.1109/SCIoT62588.2024.10570116,0.9,HIGH
+BES-0362,Blockchain based Decentralized Petition System,10.48550/arXiv.2407.00534,0.7,MEDIUM
+BES-0363,Anonymous voting using distributed ledger-assisted secure multi-party computation,10.1007/s41109-024-00650-2,0.9,HIGH
+BES-0365,Enhanced Web based Multi-Platform E-voting Solution,10.1109/ICOSEC61587.2024.10722721,0.7,MEDIUM
+BES-0366,Decentralizing Voting: Block Chain based E-Voting System Using Ethereum Smart Contracts,10.1109/ISCS61804.2024.10581197,0.9,HIGH
+BES-0367,Smart and Secure E-Voting Application using Blockchain Technology,10.48175/ijarsct-15999,0.9,HIGH
+BES-0368,Strengthening the Authentication Mechanism of Blockchain-Based E-Voting System Using Post-Quantum Cryptography,10.15575/join.v9i2.1305,0.9,HIGH
+BES-0369,"Blockchain-based e-voting systems: Enhancing security, transparency and trust",10.30574/ijsra.2024.12.1.0707,0.9,HIGH
+BES-0371,Systematic Review to Propose a Blockchain-based Digital Forensic Ready Internet Voting System,10.34190/iccws.19.1.2188,0.9,HIGH
+BES-0372,Electronic Voting System using Blockchain and Machine Learning,10.1109/ic-etite58242.2024.10493453,0.9,HIGH
+BES-0374,Development of an Electronic Voting System using Blockchain Technology and Deep Hybrid Learning,10.37394/23205.2024.23.18,0.9,HIGH
+BES-0376,Block Chain Based Voting System,10.1109/icwite59797.2024.10502514,0.9,HIGH
+BES-0377,EOS Blockchain-Based Electronic Voting System,10.1109/BRAINS63024.2024.10732348,0.9,HIGH
+BES-0379,VoteChain: Promising a Secure and Transparent Election using Blockchain and Biometrics,10.1109/ICPECTS62210.2024.10780340,0.9,HIGH
+BES-0380,E-Voting System Using Blockchain and Face Recognition,10.22214/ijraset.2024.60890,0.9,HIGH
+BES-0381,Integrating Blockchain and Facial Recognition for a Decentralized and Tamper-Proof Voting System,10.1109/ICDICI62993.2024.10810799,0.9,HIGH
+BES-0383,A Blockchain Technology Based Voting System,10.36948/ijfmr.2024.v06i06.32871,0.9,HIGH
+BES-0384,Blockchain-Based Comparative Analysis of E-Voting Systems: A Review,10.1109/ASSIC60049.2024.10507924,0.7,MEDIUM
+BES-0385,Next-Gen Voting: A Blockchain-Based e-Voting System for Fast and Secure Digital Elections,10.1109/IJCC64742.2024.10847284,0.9,HIGH
+BES-0389,Effective E-Voting Mechanism Using Blockchain and IOT,10.1109/ICACCS60874.2024.10717141,0.9,HIGH
+BES-0390,Unlocking Democracy: A Blockchain Odyssey in E-Voting Systems,10.1109/ASIANCON62057.2024.10838111,0.7,MEDIUM
+BES-0392,Revolutionizing Voting: Blockchain-Powered E-Voting with Solana,10.1109/ICTEST60614.2024.10576075,0.7,MEDIUM
+BES-0394,Comparative E-Voting Security Evaluation: Multi-Modal Authentication Approaches,10.1109/BCCA62388.2024.10844450,0.9,HIGH
+BES-0395,Blockchain Voting: A Solution to the Challenges of Traditional Electoral Systems,10.1109/SSITCON62437.2024.10796778,0.7,MEDIUM
+BES-0396,A Comprehensive Analysis of Blockchain-Based Voting Systems: Enhancing Transparency and Security,10.1145/3723178.3723275,0.7,MEDIUM
+BES-0397,A Novel Approach to E-Voting With Group Identity-Based Identification and Homomorphic Encryption Scheme,10.1109/ACCESS.2024.3408670,0.7,MEDIUM
+BES-0398,A Survey on Decentralized Voting System Using Blockchain Technology,10.22214/ijraset.2024.66092,0.9,HIGH
+BES-0399,Enhancing the Security of Digital Voting Systems: A Blockchain-Based Decentralized Approach for Future Electronic Voting Systems,10.48175/ijarsct-18787,0.9,HIGH
+BES-0400,BLOCKCHAIN DEMOCRACY EVALUATING A SECURE VOTING SYSTEM,10.56726/irjmets50478,0.9,HIGH
+BES-0401,"E-Voting in India: A Secure, Transparent, and Cost-Efficient Future Through Blockchain and Aadhaar Integration",10.36948/ijfmr.2024.v06i05.27572,0.9,HIGH
+BES-0402,Integrating Aadhaar Cards and Blockchain Technology with Smart Contracts to Enable Security in Online Voting,10.1109/ic2pct60090.2024.10486324,0.9,HIGH
+BES-0403,Blockchain Voting System- An NFT-Based Approach,10.55524/ijircst.2024.12.5.9,0.9,HIGH
+BES-0404,Digital Voting Application using Blockchain Technology,10.55041/ijsrem32302,0.9,HIGH
+BES-0405,A Multi-Candidate Self-Tallying Voting Scheme Based on Smart Contracts,10.3390/cryptography8030042,0.9,HIGH
+BES-0406,Digital Voting with Blockchain using Interplanetary File System and Practical Byzantine Fault Tolerance,10.48084/etasr.8440,0.9,HIGH
+BES-0407,The New Era of Voting Using Blockchain Technology,10.15680/ijirset.2024.1305171,0.9,HIGH
+BES-0408,Digitalized Voting System using Blockchain Technology,10.48175/ijarsct-17955,0.9,HIGH
+BES-0409,Secure Routing E-voting Protocol based on Wireless Sensor Network Platform with Block chain,10.37391/ijeer.120432,0.9,HIGH
+BES-0411,"Secure-Tech Triad Enhancing Electronic Voting System Security through Integrated Blockchain, AI, and IoT Technologies",10.1051/itmconf/20246301011,0.9,HIGH
+BES-0415,A Review on Online Voting System using Face Recognition and Blockchain,10.48175/ijarsct-22867,0.7,MEDIUM
+BES-0416,Design and Implementation of a Secure and Transparent E-Voting System Using Blockchain Technology and Hybrid Encryption; the case of Africa,10.1109/SmartBlock4Africa61928.2024.10779535,0.9,HIGH
+BES-0417,A Secure and Transparent Voting System Framework Using Finger Vein and Blockchain Technology,10.1109/CICN63059.2024.10847554,0.9,HIGH
+BES-0421,Blockchain-Based E-Voting System: A Decentralized Approach on the Ethereum Private Network,10.33795/ijfte.v3i1.6095,0.9,HIGH
+BES-0422,Securing Elections with Blockchain: A Review of Blockchain based E-Voting Systems,10.1109/ICACCM61117.2024.11059072,0.9,HIGH
+BES-0423,The Use of Blockchain to Prevent Vote Manipulation in E-Voting for Electronic General Meetings of Shareholders in Indonesia,10.46799/ajesh.v3i12.465,0.7,MEDIUM
+BES-0424,Strategic Integration of Blockchain Technology to Establish a Robust and Secure E-Voting System,10.1109/ICAAIC60222.2024.10575586,0.7,MEDIUM
+BES-0425,A Privacy-Preserving E-Voting System Using Blockchain and Linkable Ring Signatures,10.1109/IC3IT63743.2024.10869355,0.9,HIGH
+BES-0426,Building Voting Systems for a Fairer Future: Exploring Blockchain based E-voting with Ethereum for National Elections,10.1109/ICBDS61829.2024.10837039,0.9,HIGH
+BES-0427,Secure and Immutable Blockchain-Based E-Voting for Efficient Overseas e-Voting,10.1109/WF-IoT62078.2024.10811413,0.9,HIGH
+BES-0428,Secured and Decentralized System for e-voting with Hybrid Cryptography and Blockchain,10.1080/03772063.2024.2373889,0.9,HIGH
+BES-0430,Evaluating the Security Impact of Face Recognition and IoT-Enabled Blockchain on Electronic Voting Machines,10.1109/IDICAIEI61867.2024.10842869,0.7,MEDIUM
+BES-0432,Revolutionizing Electoral Integrity With A CNN-Powered Smart Voting System Using Advanced Facial Recognition Techniques,10.1109/PuneCon63413.2024.10895506,0.9,HIGH
+BES-0434,Unleashing Innovation: Experimental Evaluation of Blockchain Assisted Electronic Voting System Using Secured Authentication Scheme,10.1109/ISCS61804.2024.10581204,0.9,HIGH
+BES-0437,Design and Implementation of a Decentralized Voting System Using Volta Blockchain,10.1109/Wintechcon61988.2024.10837904,0.9,HIGH
+BES-0438,A Systematic Survey on E-VOTING SYSTEM USING BLOCKCHAIN TECHNOLOGY,10.55041/ijsrem28897,0.9,HIGH
+BES-0439,Analysis of Coercion-Resistant for E-Voting System based on Blockchain,10.22214/ijraset.2024.58856,0.7,MEDIUM
+BES-0443,Success Factors for Conceptual Digital Voting Model,10.13052/jmm1550-4646.2042,0.7,MEDIUM
+BES-0444,Ox-Ethnio: Blockchain E-Voting System,10.22214/ijraset.2024.58239,0.9,HIGH
+BES-0445,A Blockchain-Powered E-Voting System with SHA-256 Encryption,10.55041/ijsrem32060,0.9,HIGH
+BES-0446,Blockchain Democracy: A Case for Constituency-Centric E-Voting on Private Ethereum Networks,10.1109/COMSNETS59351.2024.10427346,0.7,MEDIUM
+BES-0447,Securing Democracy: Implementing a Blockchain-Based E-Voting System in Libya,10.1109/MI-STA61267.2024.10599690,0.9,HIGH
+BES-0448,Implementasi Sistem E-Voting Berbasis Blockchain: Mendefinisikan Masa Depan Demokrasi yang Lebih Inklusif,10.14421/jrh.v7i1.3537,0.7,MEDIUM
+BES-0449,Enhancing Trust and Security in E-Voting: A Comprehensive Review of Blockchain and NFC Integration,10.22214/ijraset.2024.61170,0.9,HIGH
+BES-0450,Secure E-voting: Leveraging Blockchain technology and Face recognition for enhanced authentication,10.1109/ICAC2N63387.2024.10895391,0.9,HIGH
+BES-0451,E-Voting Application Development Utilizing Blockchain Technology: Evaluation of Blockchain's Usage to Solve E-Voting Data Security Problem,10.1109/ICAAEEI63658.2024.10899136,0.7,MEDIUM
+BES-0452,"Advancing Electoral Processes: A Novel E-Voting Model Integrating Iris Scans, Raspberry Pi, and Blockchain Technology",10.55041/ijsrem31456,0.9,HIGH
+BES-0453,Development of an E-Voting Scheme through a Blockchain-Enabled Approach with Deep Hybrid Learning for Biometric Authentication,10.1109/I2CT61223.2024.10543350,0.9,HIGH
+BES-0454,Scalability Evaluation of zk-SNARK Authentication in Blockchain-Based E-Voting,10.1109/SCISISIS61014.2024.10760236,0.9,HIGH
+BES-0455,Blockchain-Powered E-Voting: A Pathway to SDG 16 Transparent and Inclusive Elections,10.1109/ICTBIG64922.2024.10911876,0.9,HIGH
+BES-0456,Implementing a Blockchain-based E-Voting System for India: Mitigating Security Challenges through Aadhaar Card Authentication,10.22214/ijraset.2024.61173,0.9,HIGH
+BES-0457,E-Voting 2.0: A Blockchain Blueprint for Secure Elections,10.1109/ICPIDS65698.2024.00048,0.7,MEDIUM
+BES-0458,Blockchain Adoption in E-Voting in Malaysian Higher Education: Concept paper,10.21834/e-bpj.v9isi18.5488,0.7,MEDIUM
+BES-0461,Decentrailized E-Voting System Using Blockchain,10.9790/0050-11050713,0.9,HIGH
+BES-0462,Blockchain-Enabled E-Voting: A Path To Secure And Transparent Elections,10.1109/AECE62803.2024.10911231,0.9,HIGH
+BES-0465,Neural-Based Secured Decentralized E-Voting Framework using Blur Image Broadcasting,10.33166/aetic.2024.04.004,0.9,HIGH
+BES-0467,Securing the Ballot: Ganache's Role in Modernizing E-Voting,10.1109/ICSES63445.2024.10763353,0.7,MEDIUM
+BES-0468,Design and Implementation of a Blockchain-Based Voting System,10.22624/aims/cisdi/v15n4p6,0.9,HIGH
+BES-0469,Integrating Blockchain Technology for Privacy-Preserving and Tamper-Proof Electronic Voting in Modern Electoral Systems,10.20533/ijicr.2042.4655.2024.0158,0.9,HIGH
+BES-0470,Optimizing Electoral Integrity: Real-Time Control of Eligibility with Hyperledger Fabric Blockchain,10.9734/cjast/2024/v43i104436,0.9,HIGH
+BES-0471,EVOTE: A Decentralized Blockchain - Based Electoral Platformfor Upcoming Elections,10.1109/NKCon62728.2024.10774963,0.9,HIGH
+BES-0472,USING ARTIFICIAL INTELLIGENCE TO ANALYZE AND PREDICT ELECTORAL ACTIVITY IN BLOCKCHAIN VOTING SYSTEMS,10.52167/1609-1817-2024-133-4-223-234,0.9,HIGH
+BES-0473,Tlaotic: Blockchain-Based Digital Ballot Box Compatible with Mexican Electoral Processes,10.1109/ARGENCON62399.2024.10735899,0.9,HIGH
+BES-0474,Elegant Techniques and Methods for Blockchain-Powered Electronic Voting Systems,10.1109/ICCICA60014.2024.10585055,0.7,MEDIUM
+BES-0475,Towards Secure and Transparent Elections: A Review of Electronic Voting Integrated with Blockchain Technology,10.22214/ijraset.2024.62293,0.7,MEDIUM
+BES-0476,BIOLOGICAL AUTHENTICATION VOTING SYSTEM USING BLOCKCHAIN,10.55041/ijsrem34142,0.7,MEDIUM
+BES-0477,SECURING THE VOTE: LEVERAGING ANOMALY DETECTION IN BLOCKCHAIN SYSTEMS,10.63458/ijerst.v2i4.97,0.7,MEDIUM
+BES-0479,Cross-Chain Blockchain Voting System with NFT-Based Authentication,10.1145/3719384.3719452,0.9,HIGH
+BES-0480,Revolutionizing Democracy: Leveraging Blockchain for Secure and Transparent Online Voting,10.1109/IC-CGU58078.2024.10530658,0.7,MEDIUM
+BES-0483,"vSPACE: Voting in a Scalable, Privacy-Aware and Confidential Election",10.48550/arXiv.2403.05275,0.9,HIGH
+BES-0484,B Vote: Block chain Based Voting System,10.59256/ijire.20240502001,0.9,HIGH
+BES-0485,Establishing Trust in Online Voting: Blockchain Solutions for Secure Elections with Immutability and Efficiency,10.1109/ICICAT62666.2024.10923486,0.7,MEDIUM
+BES-0487,Ballot Casting System using Blockchain Technology,10.1109/ICSADL61749.2024.00127,0.7,MEDIUM
+BES-0490,Privacy-Preserving E-Voting Scheme with Dynamically Involved Voters,10.1109/ICSIP61881.2024.10671491,0.9,HIGH
+BES-0494,Information and computing system based on smart contracts for online voting,10.21869/2223-1536-2024-14-3-48-62,0.7,MEDIUM
+BES-0495,Exploring blockchain-integrated voting system technologies,10.1117/12.3027111,0.9,HIGH
+BES-0496,"A Blockchain-Powered Voting System for Enhanced Accuracy, Security, and Voter Confidence",10.55041/ijsrem38021,0.9,HIGH
+BES-0497,Proof of Stake Based Voting System Using Block Chain,10.1109/SMART63812.2024.10882186,0.7,MEDIUM
+BES-0498,Self-Tallying Voting with Blockchain in Wireless Network Environment,10.1109/MWC.014.2300520,0.9,HIGH
+BES-0499,Enhancing Trust and Transparency with Blockchain-Powered Remote Electronic Voting,10.1109/ICCCCM61016.2024.11039910,0.7,MEDIUM
+BES-0500,Blockchain Based Voting System for Secure and Transparent Electoral Processes,10.1109/ICACCS60874.2024.10717101,0.9,HIGH
+BES-0503,INNOVATIVE IT SOLUTIONS TO ENHANCE THE EFFECTIVENESS OF ELECTRONIC ELECTIONS THROUGH BLOCKCHAIN,10.52167/1609-1817-2024-132-3-339-349,0.9,HIGH
+BES-0505,Opportunities and Challenges in Elections Through E-Voting: An Analysis on Voters Participation,10.1109/ISC260477.2024.11004139,0.7,MEDIUM
+BES-0506,Design and Development of Block Chain Technology Based Small Scale Institutional Voting System,10.1109/icscna63714.2024.10864372,0.9,HIGH
+BES-0508,Blockchain Voting Machines: An Approach to Election Security,,0.7,MEDIUM
+BES-0509,PERANCANGAN E-VOTING  BERBASIS SMART CONTRACT MENGGUNAKAN KEAMANAN ALGORITMA KONSENSUS PROOF-OF-STAKE,,0.7,MEDIUM
+BES-0510,Blockchain and Electronic Voting: An Electronic Voting Hyperledger Fabric System based on the Portuguese electoral voting system,,0.9,HIGH
+BES-0511,Assessing the role of blockchain-based voting systems in electoral processes,,0.7,MEDIUM
+BES-0512,Enhancing Security in E-Voting through Blockchain Integration and Aadhaar Card Authentication,,0.7,MEDIUM
+BES-0513,Examining the Role of ICT in Addressing Potential Issues in Indonesian Absentee Voting in Malaysia,10.24269/ars.v12i3.11575,0.7,MEDIUM
+BES-0524,"Diseño y prototipo de un sistema de auditoría y control electoral para los procesos de escrutinios y publicación de resultados basado en DLT : Análisis, diseño e implementación del prototipo del sistema de cadena de bloques (infraestructura, contratos inteligentes y aplicación)",,0.9,HIGH
+BES-0525,Diseño y prototipo de un sistema de auditoría y control electoral para los procesos de escrutinios y publicaciones de resultados basados en DLT : diseño e implementación del prototipo del sistema de seguridad.,,0.7,MEDIUM
+BES-0526,Diseño y prototipo de un sistema de auditoria y control electoral para los procesos de escrutinios y publicación de resultados basados en DLT : diseño e implementación del prototipo del sistema de archivos descentralizado .,,0.7,MEDIUM
+BES-0533,Blockchain y Web 3.0: Creación de una Plataforma Electoral,,0.7,MEDIUM
+BES-0538,"Biometric voting integrated with Islamic political principles: to
+
+enhance democracy in Bangladesh's e-voting system",,0.7,MEDIUM
+BES-0554,Metaverse governance: An empirical analysis of voting within Decentralized Autonomous Organizations,10.1016/j.jbusres.2023.113764,0.7,MEDIUM
+BES-0555,Blockchain-Based E-Voting Systems: A Technology Review,10.3390/electronics13010017,0.9,HIGH
+BES-0556,E-Voting Meets Blockchain: A Survey,10.1109/access.2023.3253682,0.7,MEDIUM
+BES-0560,Verifiable Mix-Nets and Distributed Decryption for Voting from Lattice-Based Assumptions,10.1145/3576915.3616683,0.7,MEDIUM
+BES-0561,Privacy-Preserving E-Voting System Supporting Score Voting Using Blockchain,10.3390/app13021096,0.9,HIGH
+BES-0566,A remote and cost‐optimized voting system using blockchain and smart contract,10.1049/blc2.12021,0.7,MEDIUM
+BES-0567,Blockchain-Based Secure Voting Mechanism Underlying 5G Network: A Smart Contract Approach,10.1109/access.2023.3297492,0.9,HIGH
+BES-0568,"ACB-Vote: Efficient, Flexible, and Privacy- Preserving Blockchain-Based Score Voting With Anonymously Convertible Ballots",10.1109/tifs.2023.3287394,0.9,HIGH
+BES-0569,PVPBC: Privacy and Verifiability Preserving E-Voting Based on Permissioned Blockchain,10.3390/fi15040121,0.9,HIGH
+BES-0571,Conceptual Architecture of a Blockchain Solution for E-Voting in Elections at the University Level,10.1109/access.2023.3247964,0.7,MEDIUM
+BES-0572,E-voting System Based on Ethereum Blockchain Technology Using Ganache and Remix Environments,10.30684/etj.2023.135464.1273,0.7,MEDIUM
+BES-0574,Blockchain and Internet of Things (IoT) Enabled Smart E-Voting System,10.1109/idciot56793.2023.10053462,0.7,MEDIUM
+BES-0577,Designing a Blockchain-Enabled Methodology for Secure Online Voting System,10.1109/idciot56793.2023.10053410,0.7,MEDIUM
+BES-0580,"ElectAnon: A Blockchain-based, Anonymous, Robust, and Scalable Ranked-choice Voting Protocol",10.1145/3598302,0.9,HIGH
+BES-0583,A Secure Decentralized E-Voting with Blockchain &amp; Smart Contracts,10.1109/confluence56041.2023.10048871,0.9,HIGH
+BES-0584,SBvote: Scalable Self-Tallying Blockchain-Based Voting,10.1145/3555776.3578603,0.9,HIGH
+BES-0588,ECC-EXONUM-eVOTING: A Novel Signature-Based e-Voting Scheme Using Blockchain and Zero Knowledge Property,10.1109/ojcoms.2023.3348468,0.9,HIGH
+BES-0589,Blockchain-Based Electronic Voting: A Secure and Transparent Solution,10.3390/cryptography7020027,0.9,HIGH
+BES-0590,Secure Voting Website Using Ethereum and Smart Contracts,10.3390/asi6040070,0.9,HIGH
+BES-0591,How Hard is Takeover in DPoS Blockchains? Understanding the Security of Coin-based Voting Governance,10.1145/3576915.3623171,0.7,MEDIUM
+BES-0594,Distributed Anonymous e-Voting Method Based on Smart Contract Authentication,10.3390/electronics12091968,0.9,HIGH
+BES-0598,Secure and Transparent Elections: Exploring Decentralized Electronic Voting on P2P Blockchain,10.34306/ajri.v5i1sp.959,0.7,MEDIUM
+BES-0604,Blockchain Technology in Improving Transparency and Efficiency in Government Operations,10.1109/ecai58194.2023.10194154,0.7,MEDIUM
+BES-0607,Decentralized and Automated Online Voting System using Blockchain Technology,10.1051/e3sconf/202343001046,0.7,MEDIUM
+BES-0608,Security Attacks on E-Voting System Using Blockchain,10.52866//ijcsm.2023.02.02.016,0.9,HIGH
+BES-0609,Smart Contracts and Blockchain based E-Voting,10.1109/iciccs56967.2023.10142675,0.7,MEDIUM
+BES-0610,Online Voting Scheme Using IBM Cloud-Based Hyperledger Fabric with Privacy-Preservation,10.3390/app13137905,0.9,HIGH
+BES-0612,BBB-Voting: Self-Tallying End-to-End Verifiable 1-out-of-k Blockchain-Based Boardroom Voting,10.1109/blockchain60715.2023.00054,0.9,HIGH
+BES-0615,E-participation System: Leveraging Blockchain Technology to Enhance Democratic Engagement,10.1109/icetas59148.2023.10346551,0.9,HIGH
+BES-0618,A Privacy-Preserving Blockchain-based E-voting System,10.48550/arXiv.2307.08412,0.9,HIGH
+BES-0623,Review on blockchain-based e-voting systems,10.1145/3605423.3605435,0.9,HIGH
+BES-0625,Design and Implementation of a Blockchain-based e-Voting system by using the Algorand platform,10.1145/3555776.3577750,0.9,HIGH
+BES-0628,Use of Blockchain Technology in Electronic Voting Systems: An Overview from Computer Security,10.1109/iccsai59793.2023.10420927,0.7,MEDIUM
+BES-0630,A Decentralized and Immutable E-Voting System using Blockchain,10.1109/icscss57650.2023.10169552,0.7,MEDIUM
+BES-0631,Blockchain based E-Voting Application – A Survey,10.1109/icscds56580.2023.10104596,0.9,HIGH
+BES-0632,Blockchain-Based E-Voting System with Face Recognition,10.54216/fpa.120104,0.9,HIGH
+BES-0633,Implementasi Teknologi Blockchain dalam Aplikasi E-Voting Berbasis Mobile,10.31849/digitalzone.v14i2.16682,0.7,MEDIUM
+BES-0634,The Blockchain Conceptual Model to Prevents Fraud and Increase Transparency In The Presidential Election In Indonesia,10.1109/icced60214.2023.10425635,0.7,MEDIUM
+BES-0635,New Blockchain-Based Publicly Traceable Self-Tallying Voting Protocol,10.1109/tnse.2023.3336516,0.9,HIGH
+BES-0641,Optimizing Gas Fees for Cost-Effective E-voting Smart Contracts on the Ethereum Blockchain,10.1109/icac60630.2023.10417420,0.7,MEDIUM
+BES-0643,HAC-Bchain: A Secure and Scalable Blockchain-Shard Based E-Voting System,10.1109/temscon-aspac59527.2023.10531344,0.9,HIGH
+BES-0644,Online voting management system based on Blockchain,10.1109/ines59282.2023.10297916,0.7,MEDIUM
+BES-0645,Secure Blockchain-Based Electronic Voting Mechanism,10.34028/iajit/20/2/12,0.9,HIGH
+BES-0652,An Approach Towards Decentralized E-Voting,10.1109/icetet-sip58143.2023.10151527,0.9,HIGH
+BES-0653,A novel smart contract based blockchain with sidechain for electronic voting,10.11591/ijece.v14i1.pp617-630,0.9,HIGH
+BES-0654,Blockchain and smart contract enabled smart and secure electronic voting system,10.1504/ijeg.2023.130173,0.9,HIGH
+BES-0655,Optimization of Blockchain Based E-voting,10.1109/icbir57571.2023.10147663,0.7,MEDIUM
+BES-0656,An Implementation and Analysis of Zero Knowledge Based E-Voting Solution With Proof of Vote on Public Ethereum Blockchain,10.1109/metacom57706.2023.00081,0.9,HIGH
+BES-0657,DBE-voting: A Privacy-Preserving and Auditable Blockchain-Based E-Voting System,10.1109/icc45041.2023.10279692,0.9,HIGH
+BES-0665,A Blockchain-based Electronic Voting System: EtherVote,10.48550/arXiv.2307.10726,0.7,MEDIUM
+BES-0668,Blockchain-based decentralized voting system security Perspective: Safe and secure for digital voting system,10.48550/arXiv.2303.06306,0.7,MEDIUM
+BES-0669,A Secure and Decentralized Method of E-voting using Blockchain and Smart Contracts,10.1109/iciccs56967.2023.10142546,0.7,MEDIUM
+BES-0670,Cryptcast: E-Voting System Utilizing Blockchain,10.1109/icast59062.2023.10455047,0.9,HIGH
+BES-0671,E-Voting Using Blockchain: A Systematic Literature Review,10.1109/ice3is59323.2023.10335317,0.7,MEDIUM
+BES-0673,Voting Application using Blockchain Technology,10.22214/ijraset.2023.54001,0.9,HIGH
+BES-0674,Research on E-voting Based on Blockchain,10.1109/ccet59170.2023.10335141,0.7,MEDIUM
+BES-0675,Ether Vote: Revolutionizing Elections with Blockchain-Powered Electronic Voting System,10.1109/smartgencon60755.2023.10442887,0.7,MEDIUM
+BES-0677,A Privacy Protection Method of Blockchain-Based E-Voting Using Homomorphic Encryption and Order-Preserving Encryption,10.1109/icaica58456.2023.10405563,0.9,HIGH
+BES-0678,Blockchain based Electronic Voting System Design with Smart Contracts,10.1109/isci58771.2023.10391913,0.9,HIGH
+BES-0679,An On-Site Electronic Voting System Using Blockchain and Biometrics,10.34028/iajit/20/5/13,0.9,HIGH
+BES-0680,Enhancing Trustworthiness and Interoperability of Electronic Voting Systems through Blockchain Bridges,10.28991/hij-2023-04-04-04,0.7,MEDIUM
+BES-0684,Blockchain and SDN-IoT based secured voting system,10.1109/i3cs58314.2023.10127253,0.7,MEDIUM
+BES-0685,Empowering Secure and Cost-Efficient Blockchain Electronic Voting by Optimized ZK-SNARK Algorithm,10.1109/iceei59426.2023.10346804,0.9,HIGH
+BES-0686,Online Voting System using Face Recognition and Blockchain,10.48175/ijarsct-8547,0.7,MEDIUM
+BES-0692,Authentication of Voter Using Convolutional Neural Network and Blockchain,10.1109/ictacs59847.2023.10390084,0.9,HIGH
+BES-0694,A Voting System Using Block Chain A Deep Survey,10.1109/icacite57410.2023.10183312,0.9,HIGH
+BES-0695,Cloud Based Voting System Using Blockchain Technology,10.1109/ICAC3N60023.2023.10541707,0.7,MEDIUM
+BES-0697,Secure and Decentralized Anonymous E-Voting Scheme,10.1145/3564746.3587107,0.9,HIGH
+BES-0698,"Blockchain Electoral Vote Counting Solutions: A Comparative Analysis of Methods, Constraints, and Approaches",10.1109/icabcd59051.2023.10220467,0.9,HIGH
+BES-0700,Decentralized E-Voting System Using Ethereum Blockchain Technology,10.4028/p-0zwk07,0.9,HIGH
+BES-0702,Survey on Decentralized Democracy: Blockchain Voting System,10.55041/ijsrem26786,0.7,MEDIUM
+BES-0703,Securing E-Voting using Hyperledger Fabric: A Permissioned Blockchain Approach,10.1109/ocit59427.2023.10431056,0.9,HIGH
+BES-0704,A Robust Blockchain Assisted Electronic Voting Mechanism with Enhanced Cyber Norms and Precautions,10.1109/iconstem56934.2023.10142750,0.7,MEDIUM
+BES-0705,A Blockchain-Based E-Voting System for India: Addressing Security Challenges with Aadhaar Card Authentication,10.1109/icpcsn58827.2023.00207,0.9,HIGH
+BES-0706,Revolutionizing College Elections with a Secure Blockchain Voting Solution,10.1109/icccmla58983.2023.10346825,0.7,MEDIUM
+BES-0707,Secured Voting System based on Blockchain,10.1109/icaiss58487.2023.10250456,0.7,MEDIUM
+BES-0708,Design and Implementation of Blockchain-based Anonymous Electronic Voting System,10.1109/bmsb58369.2023.10211580,0.9,HIGH
+BES-0709,MyVote - Blockchain Based Online Voting System,10.47001/irjiet/2023.704041,0.9,HIGH
+BES-0710,Secure Digital Voting System on Blockchain,10.48175/ijarsct-13850,0.7,MEDIUM
+BES-0711,Evaluating the Public Perception of a Blockchain-Based Election,10.1145/3585059.3611439,0.7,MEDIUM
+BES-0712,Decentralized Blockchain based Online Voting System with Biometric Authentication,10.1109/icces57224.2023.10192776,0.9,HIGH
+BES-0713,DECENTRALISED ONLINE VOTING SYSTEM,10.56726/irjmets40446,0.9,HIGH
+BES-0714,Smart Voting Platform (Secured Digital Voting System) Uses Blockchain Technology and Biometric Authentication,10.7753/ijsea1205.1029,0.7,MEDIUM
+BES-0715,Blockchain Based Voting Framework With Non-Transferable Non-Fungible Tokens,10.1109/icit58056.2023.10225885,0.9,HIGH
+BES-0716,Electronic Voting Through Blockchain: A Survey,10.1109/hora58378.2023.10156749,0.9,HIGH
+BES-0717,Investigating the Effectiveness of Using Blockchain Technology for Secure and Transparent Voting Systems,10.32628/ijsrst523102120,0.7,MEDIUM
+BES-0718,Electronic Voting System based on Blockchain for Sri Lanka: Conceptual Overview,10.21275/sr23125232540,0.7,MEDIUM
+BES-0719,Digital Forensic Readiness Model for Internet Voting,10.34190/eccws.22.1.1186,0.7,MEDIUM
+BES-0727,Blockchain-based Electronic Voting: Case of Student Council Polls,10.1109/ZCICT59466.2023.10528421,0.7,MEDIUM
+BES-0731,Perancangan Website E-Voting Menggunakan Smart Contract Pada Blockchain Polygon,10.33022/ijcs.v12i3.3234,0.7,MEDIUM
+BES-0735,Blockchain Based E-Voting and Electoral Fraud Detection,10.22214/ijraset.2023.56370,0.9,HIGH
+BES-0736,Designing a framework for blockchain-based e-voting system for Libya,10.11591/csit.v4i3.p191-198,0.7,MEDIUM
+BES-0737,Enhancing E-Voting Security with Blockchain-Backed Decentralized Authorization,10.1109/eict61409.2023.10427881,0.9,HIGH
+BES-0738,Designing an E-Voting Framework Using Blockchain: A Secure and Transparent Attendance Approach,10.1109/icsecs58457.2023.10256270,0.9,HIGH
+BES-0739,E-Voting Blockchain: Enhancing The Security And Transparency Of Digital Voting,10.1109/icicyta60173.2023.10428836,0.9,HIGH
+BES-0740,Modern Electoral System in Malaysia using E-Voting with the Implementation of Blockchain Technology,10.69511/ijdsaa.v4i0.166,0.7,MEDIUM
+BES-0741,Ballot and Beyond: Exploring Blockchain Voting,10.22214/ijraset.2023.57314,0.7,MEDIUM
+BES-0742,Blockchain Based Voting Decentralized Application,10.1109/icccnt56998.2023.10307528,0.7,MEDIUM
+BES-0743,Voting System using Blockchain Ethereum (dApp),10.48175/ijarsct-9486,0.9,HIGH
+BES-0744,d-BAEV: Distributed Blockchain-Based Anonymous Electronic Voting,10.1109/mass58611.2023.00058,0.9,HIGH
+BES-0745,E-Voting System Improvised by Blockchain Technology: A Case Study,10.1109/icdate58146.2023.10248479,0.7,MEDIUM
+BES-0746,Formal Verification of Blockchain and IoT-based E-Voting System Using SPIN,10.1109/etecte59617.2023.10396747,0.9,HIGH
+BES-0747,Design of an Elliptic Curve Cryptography Encrypted Blockchain-based Electoral System,10.1109/icaaic56838.2023.10141247,0.7,MEDIUM
+BES-0748,General Voting System for Democratic Countries Using Blockchain and Computer Technology,10.58482/ijeresm.v2i1.3,0.7,MEDIUM
+BES-0749,A Secured Framework Model to Design Electronic Voting System using BlockChain Methodology,10.1109/icses60034.2023.10465374,0.9,HIGH
+BES-0750,Blockchain Technology Implementation on Simple Microcontroller Based Ballots System,10.24912/ijaste.v1.i2.770-777,0.7,MEDIUM
+BES-0751,A Novel Electronic Voting Mechanism Based on Blockchain Technology,10.3837/tiis.2023.10.015,0.9,HIGH
+BES-0752,Blockchain-based Voting System in a Democratic Environment,10.1109/icaiss58487.2023.10250609,0.7,MEDIUM
+BES-0753,An Overview of Joint Biometric Identification for Secure Online Voting with Blockchain Technology,10.1109/icimia60377.2023.10426344,0.7,MEDIUM
+BES-0754,The Future of Democracy: Exploring the Potential of Block chain-Based Digital Voting Systems,10.32628/cseit2390633,0.7,MEDIUM
+BES-0755,A Safe and Effective Online Voting System Based on The Blockchain as A Concept,10.32628/cseit2390416,0.7,MEDIUM
+BES-0756,EASY E-VOTE: An Ethereum-based Voting System using IPFS and MetaMask for Student Government Election,10.1109/icit58056.2023.10225798,0.9,HIGH
+BES-0757,Secure E-Voting System,10.1109/conit59222.2023.10205632,0.9,HIGH
+BES-0759,Audit model using controls from ISO/IEC 27002 for the information security of electronic voting based on IoT and Blockchain,10.1109/icalter61411.2023.10372915,0.7,MEDIUM
+BES-0760,A Solidity implementation of TAVS,10.3389/fbloc.2023.1105119,0.9,HIGH
+BES-0762,Self–Tallying Electronic Voting Based on Blockchain,10.1093/combul/bwad036,0.7,MEDIUM
+BES-0763,Blockchain Proportional Governance Reconfiguration: Mitigating a Governance Oligarchy,10.1109/ccgrid57682.2023.00057,0.7,MEDIUM
+BES-0766,BSeVS – A Smart e-Voting System based on Blockchain Technology,10.1109/ICCCNT56998.2023.10307745,0.9,HIGH
+BES-0767,BVKCS - A Blockchain Based e-Voting System with Key Covering Scheme,10.1109/ICTBIG59752.2023.10456233,0.9,HIGH
+BES-0776,SoulBound E-Voting System,10.22214/ijraset.2023.48548,0.9,HIGH
+BES-0781,Secure voting system based on blockchain and threshold cryptography,10.1109/ICBCTIS59921.2023.00026,0.9,HIGH
+BES-0782,Advancements in Blockchain Based Architecture for E-Voting System,10.36948/ijfmr.2023.v05i06.8305,0.9,HIGH
+BES-0784,VoteBlock: Blockchain Based E-Voting System,10.48175/ijarsct-13183,0.9,HIGH
+BES-0785,SvaVoting: A Novel Secret Sharing-Based Verifiable and Anonymous E-Voting Scheme in Blockchain Systems,10.1109/ICPADS60453.2023.00105,0.9,HIGH
+BES-0786,A Peer-To-Peer based System with Blockchain for Secured Voting Scheme (E-Voting),10.48175/ijarsct-9555,0.7,MEDIUM
+BES-0787,Electronic Matadan: Blockchain Based E-Voting System,10.1109/ICNTE56631.2023.10146641,0.7,MEDIUM
+BES-0788,A Framework for Building Blockchain Based Secured E-voting,10.1109/SMART59791.2023.10428416,0.7,MEDIUM
+BES-0789,Blockchain Ballotbox: Empowering Democracy Through Tamper-Proof E-Voting,10.1109/ICIMIA60377.2023.10425872,0.9,HIGH
+BES-0790,Implementation of a New E-voting System based on Blockchain using ECDSA with Blind Signatures,10.5121/csit.2023.130211,0.7,MEDIUM
+BES-0791,AQUA: A BLOCKCHAIN BASED MULTI-WINNER E-VOTING SYSTEM,10.47577/technium.v11i.9139,0.9,HIGH
+BES-0792,VoteCoin : A Blockchain Perspective on E-Voting Infrastructure,10.32628/cseit2390615,0.9,HIGH
+BES-0793,Utilizing Blockchain Technology and Fingerprint Authentication for an Electronic Voting System.,10.48175/ijarsct-13682,0.7,MEDIUM
+BES-0795,Using Blockchain Technology to Curb Voter Fraud in Nigeria,10.36615/dps.v2i1.2313,0.7,MEDIUM
+BES-0798,ElectRA-Decentralized Voting Application,10.1109/ICSCC59169.2023.10334998,0.7,MEDIUM
+BES-0799,Voting on ICP Blockchain: A Decentralized Web3 Approach,10.55041/ijsrem27809,0.9,HIGH
+BES-0801,The impact of security and privacy threat modeling on blockchain-enabled-electronic voting system,10.54254/2755-2721/6/20230797,0.7,MEDIUM
+BES-0808,Digital Democratic Elections: Leveraging Blockchain for Government Voting,10.1109/TEMSCON-ASPAC59527.2023.10531588,0.9,HIGH
+BES-0809,Voting Decentralized Application Using Blockchain,10.1109/IC3I59117.2023.10397817,0.7,MEDIUM
+BES-0810,Voting System with Artificial Intelligence and Blockchain,10.3126/kjse.v7i1.60549,0.7,MEDIUM
+BES-0811,Implementation of Blockchain technology In Electronic voting systems,10.1109/TELECOM59629.2023.10409673,0.7,MEDIUM
+BES-0814,Decentralized and Incentivized Voting System with Web3 Technology Ensuring Anonymity and Preventing Double Voting,10.1109/DSC61021.2023.10354239,0.9,HIGH
+BES-0817,Decentralize Internet Voting Model with Blockchain Smart Contract,,0.9,HIGH
+BES-0818,E-Voting Berbasis Blockchain Ethereum dengan RFID Reader untuk E-KTP,,0.7,MEDIUM
+BES-0819,The relevance of blockchain based voting adoption in governance structure : evidence from Nigeria,,0.7,MEDIUM
+BES-0820,Electronic voting through blockchain: A proposed framework,,0.9,HIGH
+BES-0821,Toward Privacy-Preserving Electronic Voting with Ballot-Spoiling Using Blockchain,10.18122/td.2192.boisestate,0.9,HIGH
+BES-0822,A Scalable Coercion-resistant Blockchain Decision-making Scheme,,0.7,MEDIUM
+BES-0823,Democratization of Voting with Blockchain Technology,,0.7,MEDIUM
+BES-0827,Implementasi ZK-SNARK untuk Modul Autentikasi Identitas pada Sistem E-Voting Berbasis Blockchain,,0.7,MEDIUM
+BES-0828,Sistem E-Voting Berbasis Blockchain untuk Meningkatkan Transparansi dan Keamanan Pemilihan,,0.9,HIGH
+BES-0829,"VeriVoting: A decentralized, verifiable and privacy-preserving scheme for weighted voting",,0.9,HIGH
+BES-0830,СИСТЕМИ ЕЛЕКТРОННОГО ГОЛОСУВАННЯ НА БЛОКЧЕЙНІ,10.18372/2225-5036.29.17870,0.7,MEDIUM
+BES-0834,Distributed Cryptographic Protocols,10.4995/thesis/10251/198106,0.7,MEDIUM
+BES-0836,Enhancing the Robustness of a Three-Layer Security Electronic Voting System Using Kerberos Authentication,,0.9,HIGH
+BES-0839,Mejoramiento de la seguridad en las elecciones de la Universidad de Córdoba mediante un sistema de votaciones basado en tecnología Blockchain,,0.9,HIGH
+BES-0840,Proof of the possibility for a public audit of a secret internet voting system,10.21303/2461-4262.2023.002742,0.9,HIGH
+BES-0845,Study of Cyber Security Approaches in Organizing Digital Voting,,0.7,MEDIUM
+BES-0859,Tight Short-Lived Signatures,,0.7,MEDIUM
+BES-0866,Analysis of Blockchain Solutions for E-Voting: A Systematic Literature Review,10.1109/access.2022.3187688,0.9,HIGH
+BES-0868,A Framework to Make Voting System Transparent Using Blockchain Technology,10.1109/access.2022.3180168,0.9,HIGH
+BES-0869,DVTChain: A blockchain-based decentralized mechanism to ensure the security of digital voting system voting system,10.1016/j.jksuci.2022.06.014,0.9,HIGH
+BES-0878,A Decentralized Digital Voting System Based on Block chain Architecture,10.1109/iciptm54933.2022.9754194,0.7,MEDIUM
+BES-0880,A Systematic Literature Review and Meta-Analysis on Scalable Blockchain-Based Electronic Voting Systems,10.3390/s22197585,0.9,HIGH
+BES-0881,E-Voting System Using Blockchain Technology,10.1109/icac3n56670.2022.10074164,0.7,MEDIUM
+BES-0882,Implementation and Early Adoption of an Ethereum-Based Electronic Voting System for the Prevention of Fraudulent Voting,10.3390/su14052917,0.9,HIGH
+BES-0884,A Liquid Democracy Enabled Blockchain-Based Electronic Voting System,10.1155/2022/1383007,0.7,MEDIUM
+BES-0887,A Blockchain-Based Self-Tallying Voting Protocol With Maximum Voter Privacy,10.1109/tnse.2022.3190909,0.9,HIGH
+BES-0888,Low Power Blockchained E-Vote Platform for University Environment,10.3390/fi14090269,0.7,MEDIUM
+BES-0890,Assuring Anonymity and Privacy in Electronic Voting with Distributed Technologies Based on Blockchain,10.3390/app12115477,0.9,HIGH
+BES-0892,Distributed-Ledger-Based Blockchain Technology for Reliable Electronic Voting System with Statistical Analysis,10.3390/electronics11203308,0.9,HIGH
+BES-0893,Secure and Anonymous Voting D-App with IoT Embedded Device Using Blockchain Technology,10.3390/electronics11121895,0.9,HIGH
+BES-0899,Blockchain-based Voting System Powered by Post-Quantum Cryptography (BBVSP-PQC),10.1109/icpc2t53885.2022.9776966,0.7,MEDIUM
+BES-0901,Utilization of Blockchain in E-Voting System,10.1109/conit55038.2022.9847995,0.7,MEDIUM
+BES-0906,Bie Vote: A Biometric Identification Enabled Blockchain-Based Secure and Transparent Voting Framework,10.1109/bcca55292.2022.9922588,0.9,HIGH
+BES-0909,Implementing Blockchain-Based Traceable Certificates as Sustainable Technology in Democratic Elections,10.3390/electronics11203359,0.7,MEDIUM
+BES-0914,Scalability of Blockchain based E-voting system using Multiobjective Genetic Algorithm with Sharding,10.1109/delcon54057.2022.9753019,0.7,MEDIUM
+BES-0915,Blockchain Based New E-voting Protocol System without Trusted Tallying Authorities,10.1109/ccict56684.2022.00064,0.7,MEDIUM
+BES-0916,Deploying Electronic Voting System Use-case on Ethereum Public Blockchain,10.1109/ants56424.2022.10227805,0.9,HIGH
+BES-0919,Designing an E-Voting Framework Using Blockchain Technology,10.4018/ijegr.298203,0.7,MEDIUM
+BES-0920,E-Voting System Using Blockchain and Homomorphic Encryption,10.1109/mysurucon55714.2022.9972661,0.9,HIGH
+BES-0922,Blockchain for the electronic voting system: case study: student representative vote in Tunisian institute,10.1109/sin56466.2022.9970543,0.9,HIGH
+BES-0923,Collaborative Administration of Role-Based Access Control in Smart Contracts,10.1109/brains55737.2022.9909116,0.7,MEDIUM
+BES-0926,A Secure Framework for E-Voting Using Blockchain,10.1109/iccsea54677.2022.9936073,0.7,MEDIUM
+BES-0928,Dispute-free Scalable Open Vote Network using zk-SNARKs,10.48550/arXiv.2203.03363,0.9,HIGH
+BES-0929,AvecVoting: Anonymous and Verifiable E-voting with Untrustworthy Counters on Blockchain,10.1109/icc45855.2022.9838840,0.9,HIGH
+BES-0930,Decentralized Application (DAPP) to enable E-voting system using Blockchain Technology,10.1109/iccsea54677.2022.9936413,0.7,MEDIUM
+BES-0932,A Review on E-Voting Based on Blockchain Models,10.24996/ijs.2022.63.3.38,0.7,MEDIUM
+BES-0933,A Framework for Blockchain Based E-Voting System for Iraq,10.3991/ijim.v16i10.30045,0.7,MEDIUM
+BES-0935,Implementation of an E-voting Prototype using Ethereum Blockchain in Ganache Network,10.1109/cspa55076.2022.9782016,0.9,HIGH
+BES-0936,E-Matdaan: A Blockchain based Decentralized E-Voting System,10.1109/sces55490.2022.9887759,0.7,MEDIUM
+BES-0937,zVote: A Blockchain-based Privacy-preserving Platform for Remote E-voting,10.1109/icc45855.2022.9838690,0.9,HIGH
+BES-0938,De-Centralized Voting System using Blockchain,10.1109/icbds53701.2022.9936022,0.7,MEDIUM
+BES-0939,Decentralized Online Voting System using Blockchain,10.1109/icaaic53929.2022.9792791,0.7,MEDIUM
+BES-0941,Iraqi E-Voting System Based on Smart Contract Using Private Blockchain Technology,10.31449/inf.v46i6.4241,0.9,HIGH
+BES-0942,BCvoteMDE: A Blockchain-based E-Voting Scheme for Multi-District Elections,10.1109/cscwd54268.2022.9776193,0.9,HIGH
+BES-0943,A Novel Vote Counting System Based on Secure Blockchain,10.32628/ijsrset22948,0.7,MEDIUM
+BES-0944,WeVoting: Blockchain-based Weighted E-Voting with Voter Anonymity and Usability,10.1109/globecom48099.2022.10001590,0.9,HIGH
+BES-0945,"Development of Blockchain-based e-Voting System: Requirements, Design and Security Perspective",10.1109/trustcom56396.2022.00132,0.9,HIGH
+BES-0946,"ProvotuMN: Decentralized, Mix-Net-based, and Receipt-free Voting System",10.1109/icbc54727.2022.9805556,0.9,HIGH
+BES-0947,Secured Electronic Voting System Using RSA Key Encapsulation Mechanism,10.24018/ejece.2022.6.2.427,0.7,MEDIUM
+BES-0950,Valid Blockchain-Based E-Voting Using Elliptic Curve and Homomorphic Encryption,10.3991/ijim.v16i20.33173,0.9,HIGH
+BES-0951,Blockchain based Reliable Electronic Voting Technology,10.1109/icesc54411.2022.9885278,0.7,MEDIUM
+BES-0954,Anonymous voting scheme using quantum assisted blockchain,10.48550/arXiv.2206.03182,0.7,MEDIUM
+BES-0955,A Framework for e-Voting System Based on Blockchain and Distributed Ledger Technologies,10.32604/cmc.2022.023846,0.7,MEDIUM
+BES-0956,A decentralized and trustless e-voting system based on blockchain technology,10.1109/csicc55295.2022.9780507,0.9,HIGH
+BES-0961,Blockchain-based E-Voting Technology: Opportunities and Challenges,10.1109/icces54183.2022.9835721,0.7,MEDIUM
+BES-0962,A Cost-efficient and Scalable Framework for E-Voting System based on Ethereum Blockchain,10.1109/iccr56254.2022.9996026,0.7,MEDIUM
+BES-0963,Performance Evaluation of E-Voting Based on Hyperledger Fabric Blockchain Platform,10.18280/ria.360410,0.9,HIGH
+BES-0964,Retrieval of Data from the Database of a BCT–Voting System,10.1109/isec54952.2022.10025062,0.9,HIGH
+BES-0965,Blockvoting:An Online Voting System Using Block Chain,10.1109/icitiit54346.2022.9744132,0.7,MEDIUM
+BES-0968,Blockchain-based Electronic Voting System for Modern Democracy: A Review,10.1109/ISEC54952.2022.10025096,0.7,MEDIUM
+BES-0971,Iraqi Paradigm E-Voting System Based on Hyperledger Fabric Blockchain Platform,10.18280/isi.270506,0.9,HIGH
+BES-0972,Decentralized electronic voting system using Hyperledger Fabric,10.1109/scc55611.2022.00056,0.9,HIGH
+BES-0973,Blockchain-Based Voting Considered Harmful?,10.1109/tnsm.2022.3181028,0.9,HIGH
+BES-0974,Permissioned Blockchain Voting System using Hyperledger Fabric,10.1109/icibt52874.2022.9807702,0.9,HIGH
+BES-0975,Paillier Cryptosystem Based ChainNode for Secure Electronic Voting,10.3389/fbloc.2022.927013,0.9,HIGH
+BES-0979,E-Voting via Upgradable Smart Contracts on Blockchain,10.1109/incoft55651.2022.10094482,0.9,HIGH
+BES-0980,E-Voting using Ethereum Blockchain,10.22214/ijraset.2022.43083,0.9,HIGH
+BES-0981,A Practical Anonymous Voting Scheme Based on Blockchain for Internet of Energy,10.1155/2022/4436824,0.9,HIGH
+BES-0982,Online Voting System Using Blockchain,10.1109/icears53579.2022.9752044,0.9,HIGH
+BES-0983,Blockchain based Electronic Voting Machine,10.1109/icecaa55415.2022.9936071,0.7,MEDIUM
+BES-0984,Sancus: an Anonymous and Trustworthy Blockchain-based Electronic Voting Architecture,10.1109/bcca55292.2022.9921940,0.9,HIGH
+BES-0991,College Election System using Blockchain,10.1051/itmconf/20224403005,0.7,MEDIUM
+BES-0993,Decentralized Voting System Based on Regions Using Facial Recognition,10.31645/jisrc.22.20.1.8,0.7,MEDIUM
+BES-0999,An Efficient Open Vote Network for Multiple Candidates,10.1109/access.2022.3224798,0.9,HIGH
+BES-1003,Security Requirement Analysis of Blockchain-based E-Voting Systems,10.1007/978-981-19-1844-5_6,0.7,MEDIUM
+BES-1006,Development of Mobile Application For E-Voting System Using 3-step Security for preventing phishing attack,10.1109/icacite53722.2022.9823503,0.7,MEDIUM
+BES-1007,E-Voting With Blockchain Technology,10.37896/ymer21.05/72,0.7,MEDIUM
+BES-1008,E-voting System using Public Blockchain,10.1109/mysurucon55714.2022.9972479,0.9,HIGH
+BES-1009,Decentralized Voting System,10.1109/icac3n56670.2022.10074317,0.7,MEDIUM
+BES-1010,Development of a Blockchain-Based Online Secret Electronic Voting System,10.1587/transinf.2021edk0005,0.9,HIGH
+BES-1011,Advanced E-Voting System using Blockchain,10.1109/icicict54557.2022.9917830,0.7,MEDIUM
+BES-1012,Integrity Assured Digital Voting System by using Blockchain as the Technology,10.1109/icebe55470.2022.00055,0.9,HIGH
+BES-1013,Process Authentication through Blockchain: Three Case Studies,10.3390/cryptography6040058,0.7,MEDIUM
+BES-1015,Blockchain based digital voting system: A secure and decentralized electoral process,10.1109/ic3i56241.2022.10073137,0.7,MEDIUM
+BES-1016,Decentralize Smart Contract Voting System,10.1109/iccr56254.2022.9995815,0.7,MEDIUM
+BES-1017,LegitVote: A Blockchain-Based System to Facilitate E-Voting Process,10.1109/icca56443.2022.10039527,0.7,MEDIUM
+BES-1018,PUPVOTE: Blockchain-Based Voting System Using NEAR Protocol,10.1109/ictc55196.2022.9952594,0.9,HIGH
+BES-1019,A Study on Decentralized Electronic-Voting Using Blockchain,10.1109/icatiece56365.2022.10047463,0.7,MEDIUM
+BES-1020,Analysis of Centralized vs Decentralized Electronic Voting,10.1109/itis57155.2022.10010100,0.7,MEDIUM
+BES-1021,Preserving Transparency and Integrity of Elections Utilising Blockchain Technology,10.18080/jtde.v10n4.626,0.7,MEDIUM
+BES-1022,An Enhanced Multi-Level Authentication Electronic Voting System,10.24071/ijasst.v4i2.5237,0.9,HIGH
+BES-1023,Online E-voting system by using blockchain technology,10.53730/ijhs.v6ns3.9446,0.7,MEDIUM
+BES-1024,Comparing and Elucidating Blockchain Based Voting Mechanisms,10.1109/icscds53736.2022.9760775,0.7,MEDIUM
+BES-1032,Trusted Vote: Reorienting eVoting using Blockchain,10.1109/I-SMAC55078.2022.9987301,0.7,MEDIUM
+BES-1036,E-Vote System Using Blockchain and Artificial Intelligence,10.55041/ijsrem12677,0.7,MEDIUM
+BES-1037,Secure E-voting system using blockchain based on solidity technology,10.1063/5.0109146,0.7,MEDIUM
+BES-1038,An Advanced Full Stack Decentralized Approach for Secure Election Voting Process,10.1109/cisct55310.2022.10046508,0.7,MEDIUM
+BES-1040,Investigating the Impact of Delayed Mining upon Scaling Blockchain Applications under Malleability Attack—An e-Voting Scenario,10.51846/vol5iss2pp1-10,0.7,MEDIUM
+BES-1041,BE-Voting: A Secure Blockchain Enabled Voting System,10.1109/icecte57896.2022.10114521,0.9,HIGH
+BES-1042,Blockchain Voting: A Comparative Analysis,10.22214/ijraset.2022.41005,0.7,MEDIUM
+BES-1043,Boxting: A Blockchain based voting system,10.1109/eircon56026.2022.9934824,0.9,HIGH
+BES-1044,Blockchain Technology Integrated Electronic Vote Casting System,10.1145/3542954.3542974,0.7,MEDIUM
+BES-1045,Secure Online Voting System: Blockchain and other Approaches,10.1145/3590837.3590894,0.7,MEDIUM
+BES-1047,Formal Verification and Implementation of an E-Voting System,10.4018/ijsi.309731,0.7,MEDIUM
+BES-1048,Development and Performance Evaluation of a Blockchain Associated E-Voting System in IoT-Enabled Smart-Cities,10.1109/iciem54221.2022.9853068,0.9,HIGH
+BES-1049,A blockchain-based electronic voting system without third parties,10.5281/zenodo.6600587,0.9,HIGH
+BES-1050,Ledger-based Electronic Voting System using a multi-tier security approach,10.1109/icerect56837.2022.10060835,0.9,HIGH
+BES-1051,Blockchain Based E-voting System Using Smart Contracts,10.22214/ijraset.2022.40996,0.7,MEDIUM
+BES-1053,Design of a Secured Database System Using Blockchain Technology,10.4236/oalib.1109010,0.7,MEDIUM
+BES-1054,Pure Voting (PV): An Offline Voting Algorithm,10.1109/apcc55198.2022.9943669,0.7,MEDIUM
+BES-1056,SocChain: Blockchain with Swift Proportional Governance for Bribery Mitigation,10.48550/arXiv.2207.02711,0.7,MEDIUM
+BES-1059,Secure Order Based Voting Using Distributed Tallying,,0.9,HIGH
+BES-1061,Decentralization of E voting based on Blind Signature and Smart Contract,10.20894/ijbi.105.011.001.005,0.7,MEDIUM
+BES-1062,Blockchain-Based Secured Voting Using Multi-Level Authentication,10.4018/978-1-7998-9274-8.ch010,0.7,MEDIUM
+BES-1063,"Securing Nationwide Elections Through Blockchain Ledger, Utilising Encryption Hardware",10.1109/ICECCME55909.2022.9988032,0.7,MEDIUM
+BES-1065,A Blockchain Based Portal for Online E-Voting,10.48175/ijarsct-3622,0.7,MEDIUM
+BES-1066,UTHM E-Voting System Using Blockchain,10.30880/jscdm.2022.03.01.004,0.7,MEDIUM
+BES-1067,BLOCKCHAIN BASED E-VOTING SYSTEM IMPLEMENTATION AND EVALUATION,10.55041/ijsrem14303,0.7,MEDIUM
+BES-1068,Survey on Blockchain Technology and its application in Electoral Voting System,10.22214/ijraset.2022.47752,0.7,MEDIUM
+BES-1070,University E-voting System Utilizing Blockchain Technology and Zero-Knowledge Proofs,,0.9,HIGH
+BES-1071,Implementation of blockchain technology in online voting system with Ethereum and Metamask / Nurriza Syafiqah Mohd Rozali,,0.7,MEDIUM
+BES-1072,"A BLOCKCHAIN IMPLEMENTATION MODEL FOR ELECTRONIC
+
+VOTING SYSTEM",,0.9,HIGH
+BES-1074,Electis.app White Paper,10.15157/diss/037,0.9,HIGH
+BES-1086,"Propuesta de Diseño de un Prototipo de Red Blockchain Aplicado a un Ejercicio Electoral a Nivel Colombia, Midiendo Impactos y Beneficios.",,0.7,MEDIUM
+BES-1087,Implementación de un sistema de votación electrónica para fortalecer el proceso de escrutinio utilizando Blockchain.,,0.7,MEDIUM
+BES-1088,BlockID diseño de un sistema de votaciones  basado en la tecnología blockchain,10.2139/ssrn.2973050.,0.7,MEDIUM
+BES-1089,Modelado de un sistema de votación electrónico basado en la tecnología blockchain a través de JFrame de Java Swing.,,0.7,MEDIUM
+BES-1090,Застосування технології виборчого блокчейну в системі цифрового голосування,10.15421/152209,0.7,MEDIUM
+BES-1092,A Predictive Model For Detecting Underage Voters using Deep Learning and Blockchain Technology,,0.7,MEDIUM
+BES-1097,Towards Better Privacy-preserving Electronic Voting System,,0.9,HIGH
+BES-1098,Decentralized Verifiable Mail-in Ballot Counting for Postal Voting,,0.9,HIGH
+BES-1109,On the Design and Implementation of a Blockchain Enabled E-Voting Application Within IoT-Oriented Smart Cities,10.1109/access.2021.3061411,0.7,MEDIUM
+BES-1118,E-Voting System Based on Blockchain Technology: A Survey,10.1109/icit52682.2021.9491734,0.7,MEDIUM
+BES-1119,A Manipulation Prevention Model for Blockchain-Based E-Voting Systems,10.1155/2021/6673691,0.9,HIGH
+BES-1120,<i>d</i>-BAME: Distributed Blockchain-Based Anonymous Mobile Electronic Voting,10.1109/jiot.2021.3074877,0.9,HIGH
+BES-1122,PriScore: Blockchain-Based Self-Tallying Election System Supporting Score Voting,10.1109/tifs.2021.3108494,0.9,HIGH
+BES-1124,Covid-19: Implementation e-voting Blockchain Concept,10.29099/ijair.v5i1.173,0.7,MEDIUM
+BES-1128,ElectionBlock: An Electronic Voting System using Blockchain and Fingerprint Authentication,10.1109/icsa-c52384.2021.00033,0.9,HIGH
+BES-1132,Decentralized Electronic Vote Based on Blockchain P2P,10.1109/citsm52892.2021.9588851,0.7,MEDIUM
+BES-1133,Blockchain based Voting system in Local Network,10.1109/icaccs51430.2021.9441912,0.7,MEDIUM
+BES-1134,Multi-Candidate Voting Model Based on Blockchain,10.1109/jas.2021.1004207,0.9,HIGH
+BES-1135,An Ethereum Based Distributed Application for Ensuring the Integrity of Stored E-Voting Data,10.1145/3479645.3479706,0.9,HIGH
+BES-1137,On Secure E-Voting over Blockchain,10.1145/3461461,0.9,HIGH
+BES-1138,A Scalable Implementation of Anonymous Voting over Ethereum Blockchain,10.3390/s21123958,0.9,HIGH
+BES-1144,AMVchain: authority management mechanism on blockchain-based voting systems,10.1007/s12083-021-01100-x,0.9,HIGH
+BES-1149,Chirotonia: A Scalable and Secure e-Voting Framework based on Blockchains and Linkable Ring Signatures,10.1109/Blockchain53845.2021.00065,0.9,HIGH
+BES-1150,E-Voting using Blockchain,10.1088/1742-6596/1911/1/012001,0.9,HIGH
+BES-1153,"Distributed Trust, a Blockchain Election Scheme",10.15388/20-infor440,0.7,MEDIUM
+BES-1155,Online Voting System Based on IoT and Ethereum Blockchain,10.1109/ICTSA52017.2021.9406528,0.7,MEDIUM
+BES-1158,E-Voting System Using Hyperledger Fabric Blockchain and Smart Contracts,10.3390/engproc2021007011,0.9,HIGH
+BES-1159,Design of Blockchain based e-Voting System for Vote Requirements,10.1088/1742-6596/1944/1/012002,0.9,HIGH
+BES-1160,Decentralized Online Voting using Blockchain and Secret Contracts,10.1109/icoin50884.2021.9333966,0.7,MEDIUM
+BES-1161,Go-Ethereum for electronic voting system using clique as proof-of-authority,10.12928/telkomnika.v19i5.20415,0.9,HIGH
+BES-1163,Blockchain based voting system for Jordan parliament elections,10.11591/ijece.v11i5.pp4325-4335,0.9,HIGH
+BES-1164,Secure E-Voting System using Blockchain technology and authentication via Face recognition and Mobile OTP,10.1109/icccnt51525.2021.9580147,0.9,HIGH
+BES-1167,HSM-based Key Management Solution for Ethereum Blockchain,10.1109/ICBC51069.2021.9461136,0.7,MEDIUM
+BES-1172,Towards a Blockchain based Intelligent and Secure Voting,10.1109/icds53782.2021.9626751,0.7,MEDIUM
+BES-1173,Towards Achieving Personal Privacy Protection and Data Security on Integrated E-Voting Model of Blockchain and Message Queue,10.1155/2021/8338616,0.9,HIGH
+BES-1175,E-voting System Using Homomorphic Encryption and Blockchain Technology to Encrypt Voter Data,,0.9,HIGH
+BES-1176,Distributed Remote E-Voting System Based on Shamir’s Secret Sharing Scheme,10.3390/electronics10243075,0.9,HIGH
+BES-1177,Blockchain-based system for e-voting using Blind Signature Protocol,10.1109/globecom46510.2021.9685189,0.9,HIGH
+BES-1179,A coercion-resistant blockchain-based E-voting protocol with receipts,10.3934/amc.2021005,0.7,MEDIUM
+BES-1180,Secure Remote E-Voting using Blockchain,10.1109/iciccs51141.2021.9432249,0.7,MEDIUM
+BES-1181,Blockchain Technology Application for Electronic Voting Systems,10.1109/elconrus51938.2021.9396400,0.7,MEDIUM
+BES-1185,Privacy-Preserving E-voting System through Blockchain Technology,10.1109/tribes52498.2021.9751618,0.9,HIGH
+BES-1189,Study on E-Voting Systems: A Blockchain Based Approach,10.1109/icce-asia53811.2021.9641914,0.7,MEDIUM
+BES-1190,Face Detection using Deep Learning to ensure a Coercion Resistant Blockchain-based Electronic Voting,10.30919/es8d585,0.7,MEDIUM
+BES-1197,An Blockchain-based E-voting System Applying Time Lock Encryption,10.1109/conit51480.2021.9498566,0.9,HIGH
+BES-1198,Architecting a scalable e-election system using Blockchain technologies,10.1109/roedunet54112.2021.9638303,0.9,HIGH
+BES-1209,Designing a Blockchain-Based Pemilu E-Voting Information System,10.31937/ijnmt.v8i1.1865,0.9,HIGH
+BES-1210,A Secure Digital E-Voting Using Blockchain Technology,10.1088/1742-6596/1916/1/012197,0.7,MEDIUM
+BES-1211,Decentralized Voting Application Using Blockchain,10.1109/csnt51715.2021.9509561,0.9,HIGH
+BES-1212,Securing the E-voting system through blockchain using the concept of proof of work,10.1109/ictai53825.2021.9673389,0.7,MEDIUM
+BES-1213,Computational Intelligence Approach for Municipal Council Elections Using Blockchain,10.32604/iasc.2021.014827,0.9,HIGH
+BES-1214,Secure Ranked Choice Online Voting System via Intel SGX and Blockchain,10.1109/trustcom53373.2021.00036,0.9,HIGH
+BES-1215,Voting System based on BlockChain and using Iris Recognition,10.1109/iccct53315.2021.9711819,0.7,MEDIUM
+BES-1216,Secure E-Voting System Using Visual Cryptography &amp; Block Chain Ledger,10.17762/turcomat.v12i1s.1544,0.7,MEDIUM
+BES-1220,FASTEN: Fair and Secure Distributed Voting Using Smart Contracts,10.1109/ICBC51069.2021.9461060,0.9,HIGH
+BES-1221,Æternum: A Decentralized Voting System with Unconditional Privacy,10.1109/icbc51069.2021.9461101,0.9,HIGH
+BES-1222,RectorDApp: Decentralized Application for Managing University Rector Elections,10.1109/sose52839.2021.00024,0.9,HIGH
+BES-1223,An Efficient and Effective Blockchain-based Data Aggregation for Voting System,10.1109/icscan53069.2021.9526450,0.7,MEDIUM
+BES-1224,An Efficient Blockchain Based Electronic Voting System Using Proxy Multi-signature,10.1109/iaecst54258.2021.9695917,0.7,MEDIUM
+BES-1225,Distributed Internet voting architecture: A thin client approach to Internet voting,10.1177/0268396220978983,0.9,HIGH
+BES-1226,BEvote: Bitcoin-Enabled E-Voting Scheme with Anonymity and Robustness,10.1155/2021/9988646,0.9,HIGH
+BES-1228,A Cost-Efficient Proof-of-Stake-Voting Based Auditable Blockchain e-Voting System,10.1088/1757-899x/1099/1/012038,0.9,HIGH
+BES-1229,"An Electronic Voting System adopting Blockchain: Interpretation, Characteristics and Investigation",10.1051/e3sconf/202129701076,0.7,MEDIUM
+BES-1230,Implementation of Election System Using Blockchain Technology,10.1109/icses52305.2021.9633828,0.7,MEDIUM
+BES-1231,SEVA: A Smart Electronic Voting Application Using Blockchain Technology,10.1109/blockchain53845.2021.00056,0.9,HIGH
+BES-1234,Controllable anonymous authentication scheme based on blockchain and decentralized traceable attribute-based signature,10.1360/ssi-2021-0018,0.7,MEDIUM
+BES-1239,An Empirical Analysis Of Using Blockchain Technology In E-Voting Systems,10.1109/icore54267.2021.00033,0.9,HIGH
+BES-1241,Enhancing Electronic Voting With A Dual-Blockchain Architecture,10.5195/ledger.2021.199,0.9,HIGH
+BES-1242,An efficient vote casting system with Aadhar verification through blockchain,10.1504/ijsse.2021.121439,0.9,HIGH
+BES-1243,"Smart voting using Fingerprint, Face and OTP Technology with Blockchain",10.1088/1742-6596/1916/1/012139,0.7,MEDIUM
+BES-1246,BSEVOTING: A Conceptual Framework to Develop Electronic Voting System using Sidechain,10.23919/eecsi53397.2021.9624282,0.7,MEDIUM
+BES-1251,Is E-voting Systems based on Blockchain Technology Efficient in Nigeria General Elections?,10.4108/eai.10-3-2021.168964,0.7,MEDIUM
+BES-1252,Blockchain E-voting Scheme Based on SM9 Partial Blind Signature,10.1109/cisai54367.2021.00201,0.9,HIGH
+BES-1253,A Self-Tallying Electronic Voting Based on Blockchain,10.1093/comjnl/bxab123,0.9,HIGH
+BES-1254,Using Blockchain Technology to Create a Secure Digital Voting System,,0.7,MEDIUM
+BES-1256,Voting System Based on Blockchain,10.30564/jcsr.v3i2.2797,0.9,HIGH
+BES-1257,A Transparent Immutable and More Secured Voting System Using Blockchain,10.1088/1742-6596/1964/4/042099,0.7,MEDIUM
+BES-1259,An Online E-voting System based on an Adaptive Ledger with Singular Value Decomposition Technique,10.33640/2405-609x.3156,0.7,MEDIUM
+BES-1260,Towards Secure and Auditable E-Voting System with Go Ethereum,10.17762/turcomat.v12i10.4951,0.9,HIGH
+BES-1267,“iSAY”: Blockchain-based Intelligent Polling System for Legislative Assistance,10.14569/IJACSA.2021.0120129,0.7,MEDIUM
+BES-1268,Privacy Preserved E-Voting System Using Blockchain,10.2139/ssrn.3852951,0.7,MEDIUM
+BES-1271,e-Voting System using Fingerprint and Face Recognition Authentication with Blockchain,10.5281/zenodo.5782925,0.7,MEDIUM
+BES-1273,Requirement Analysis of Some Blockchain-based E-voting Schemes,,0.7,MEDIUM
+BES-1275,A close scrutiny of dApps and developing an e-voting dApp using Ethereum Blockchain,10.1504/ijcaet.2021.117127,0.7,MEDIUM
+BES-1276,Secure Internet Voting using Blockchain Technology,10.1109/iccws53234.2021.9703027,0.7,MEDIUM
+BES-1277,A Proposed Blockchain-Based Voting System with User Authentication through Biometrics,10.17648/jisc.v8i1.78,0.7,MEDIUM
+BES-1278,A Heuristic Approach using Block Chain to Fight Novel COVID-19 During an Election,10.1109/citisia53721.2021.9719897,0.7,MEDIUM
+BES-1279,Editorial on the Special Issue on Election Security,10.1145/3471534,0.7,MEDIUM
+BES-1287,Decentralized Incognito Limpid E-Voting System,10.21276/IJIRCST.2021.9.2.14,0.7,MEDIUM
+BES-1288,Cryptography Implementation for electronic voting security,10.1051/e3sconf/202132803005,0.7,MEDIUM
+BES-1290,"A Decentralized, Secure, Peer-to-Peer Multi-Voting System on Ethereum Blockchain",10.22214/ijraset.2021.38421,0.9,HIGH
+BES-1291,DECENTRALIZED ELECTRONIC VOTING USING SMART CONTRACTS (DEV-SC),10.26782/jmcms.2021.08.00004,0.7,MEDIUM
+BES-1292,Demystifying Democracy: Incentivizing Blockchain Voting Technology for an enriched Electoral System,10.1109/iccict50803.2021.9510158,0.7,MEDIUM
+BES-1293,Blockchain oriented hyperledger based performance driven framework for mass e-voting,10.3233/idt-210014,0.9,HIGH
+BES-1294,A Large‐Scale E‐voting System Based on Blockchain,,0.9,HIGH
+BES-1297,Methods and Software Complex Development for Remote Electronic Voting Based on Ethereum Blockchain Platform,10.24151/1561-5405-2021-26-6-565-579,0.9,HIGH
+BES-1300,A Blockchain Voting Scheme Based on Data Security Separation,10.1109/icetci53161.2021.9563532,0.9,HIGH
+BES-1303,Purwarupa Sistem Pemilihan Umum Elektronik dengan Pemanfaatan Protokol Ethereum pada Teknologi Blockchain,10.26623/transformatika.v19i1.2746,0.7,MEDIUM
+BES-1306,Electronic Voting Application Powered by Blockchain Technology,10.4018/978-1-7998-3444-1.ch011,0.9,HIGH
+BES-1307,E-ballot System Based on Blockchain Technology,10.2139/ssrn.3884812,0.7,MEDIUM
+BES-1309,E-VOTING SYSTEMS USING BLOCKCHAIN: A SYSTEMATIC REVIEW AND FUTURE RESEARCH DIRECTION,10.36713/EPRA7157,0.7,MEDIUM
+BES-1310,I-Voting System Based on Block Chain,10.3233/apc210016,0.7,MEDIUM
+BES-1311,A Visionary Approach to Smart Voting System,10.2139/ssrn.3884959,0.7,MEDIUM
+BES-1313,Ethereum Blockchain-based Decentralized Preferential E-Voting Smart Contract using Solidity,,0.7,MEDIUM
+BES-1316,A FRAMEWORK BASED ON BLOCKCHAIN FOR ELECTORAL VOTING SYSTEM,10.26782/jmcms.2021.10.00001,0.7,MEDIUM
+BES-1318,Blockchain in the Field of Voting,10.5220/0010617200003170,0.7,MEDIUM
+BES-1319,An Enhanced Security for Online Voting System using Blockchain Technology,10.48175/IJARSCT-825,0.7,MEDIUM
+BES-1320,Secure Blockchain Decentralized Voting for Verified Users,10.5121/ijnsa.2021.13502,0.9,HIGH
+BES-1321,Design and Implementation of Voting System Based on Ethereum,10.1109/ICAA53760.2021.00112,0.9,HIGH
+BES-1325,BBB-Voting: 1-out-of-k Blockchain-Based Boardroom Voting,,0.9,HIGH
+BES-1327,IMPLEMENTASI TEKNOLOGI BLOCKCHAIN MENGGUNAKAN SMART CONTRACT PADA E-VOTING,,0.7,MEDIUM
+BES-1328,A proposal for the use of blockchain in the portuguese voting system,,0.7,MEDIUM
+BES-1329,Blockchain-based e-voting system for student election in UiTM / Muhammad Haziq Aiman Hafiz,,0.7,MEDIUM
+BES-1330,Blockchain Elections: Smart Contract Electoral System Design And Implementation,,0.9,HIGH
+BES-1333,Blockchain Based Election Architecture using XRPL,,0.9,HIGH
+BES-1335,Chirotonía: Scalable and Secure e-Voting Framework based on Blockchains and Linkable Ring Signatures,,0.9,HIGH
+BES-1337,"Electronic Voting: 6th International Joint Conference, E-Vote-ID 2021, Virtual Event, October 5–8, 2021: proceedings",10.5445/ir/1000138829,0.7,MEDIUM
+BES-1343,A secured automated bimodal biometric electronic voting system,10.11591/ijai.v10.i1.pp1-8,0.7,MEDIUM
+BES-1344,Anovote,,0.7,MEDIUM
+BES-1347,Estudio para la recomendación del voto electrónico usando tecnología Blockchain en las elecciones seccionales de la ciudad de Guayaquil.,,0.7,MEDIUM
+BES-1348,Sistema de voto electrónico basado en blockchain,,0.7,MEDIUM
+BES-1354,A Fully Anonymous e-Voting Protocol Employing Universal zk-SNARKs and Smart Contracts,,0.9,HIGH
+BES-1365,A Blockchain-Based Self-Tallying Voting Protocol in Decentralized IoT,10.1109/tdsc.2020.2979856,0.9,HIGH
+BES-1367,Secure large‐scale E‐voting system based on blockchain contract using a hybrid consensus model combined with sharding,10.4218/etrij.2019-0362,0.9,HIGH
+BES-1370,Decentralized E-voting system based on Smart Contract by using Blockchain Technology,10.1109/icsidempc49020.2020.9299581,0.7,MEDIUM
+BES-1374,Blockchain Ethereum Clients Performance Analysis Considering E-Voting Application,10.1016/j.procs.2020.03.303,0.7,MEDIUM
+BES-1375,Architecture-Centric Evaluation of Blockchain-Based Smart Contract E-Voting for National Elections,10.3390/informatics7020016,0.9,HIGH
+BES-1376,A Smart Contract System for Decentralized Borda Count Voting,10.1109/tem.2020.2986371,0.9,HIGH
+BES-1377,Electronic Voting based on Virtual ID of Aadhar using Blockchain Technology,10.1109/icimia48430.2020.9074942,0.9,HIGH
+BES-1378,Digital Voting: A Blockchain-based E-Voting System using Biohash and Smart Contract,10.1109/icssit48917.2020.9214250,0.7,MEDIUM
+BES-1380,A Blockchain-Based Traceable Self-Tallying E-Voting Protocol in AI Era,10.1109/tnse.2020.3011928,0.9,HIGH
+BES-1386,Electronic Voting Using Blockchain And Smart Contracts: Proof Of Concept,10.1109/tla.2020.9387645,0.7,MEDIUM
+BES-1393,Implementation and evaluation of blockchain based e-voting system with Ethereum and Metamask,10.1109/icimcis51567.2020.9354310,0.9,HIGH
+BES-1398,Machine Learning with Blockchain for Secure E-voting System,10.1109/smart-tech49988.2020.00050,0.7,MEDIUM
+BES-1399,Using Blockchain Data Security Management for E-Voting Systems,10.1109/citsm50537.2020.9268847,0.7,MEDIUM
+BES-1400,A Hyper-ledger Fabric Framework as a Service for Improved Quality E-voting System,10.1109/tensymp50017.2020.9230820,0.7,MEDIUM
+BES-1401,Blockchain and Aadhaar based Electronic Voting System,10.1109/iceca49313.2020.9297655,0.7,MEDIUM
+BES-1403,Blockchain Enabled Online-Voting System,10.1051/itmconf/20203203018,0.7,MEDIUM
+BES-1408,Implementation of Decentralized Blockchain E-voting,10.4108/eai.13-7-2018.164859,0.7,MEDIUM
+BES-1412,Secure Electronic Voting System using Blockchain Technology,10.21742/ijsh.2020.14.2.04,0.7,MEDIUM
+BES-1414,TrustVote: On Elections We Trust with Distributed Ledgers and Smart Contracts,10.1109/brains49436.2020.9223306,0.9,HIGH
+BES-1415,A electronic voting protocol based on blockchain and homomorphic signcryption,10.1002/cpe.5817,0.7,MEDIUM
+BES-1416,Provotum: A Blockchain-based and End-to-end Verifiable Remote Electronic Voting System,10.1109/lcn48667.2020.9314815,0.9,HIGH
+BES-1419,Blockchain-Based Self-Tallying Voting System with Software Updates in Decentralized IoT,10.1109/mnet.001.1900439,0.9,HIGH
+BES-1420,E-Voting System using Hyperledger Sawtooth,10.1109/icaccm50413.2020.9212945,0.9,HIGH
+BES-1424,Implementing Electronic Voting System With Blockchain Technology,10.1109/incet49848.2020.9154116,0.7,MEDIUM
+BES-1425,Practical I-Voting on Stellar Blockchain,10.3390/app10217606,0.9,HIGH
+BES-1428,Block Chain Technology based Electoral Franchise,10.1109/icimia48430.2020.9074931,0.7,MEDIUM
+BES-1430,A Blockchain based Cost effective Digital Voting System using SideChain and Smart Contracts,10.1109/icece51571.2020.9393081,0.7,MEDIUM
+BES-1435,Design and implementation of cast-as-intended verifiability for a blockchain-based voting system,10.1145/3341105.3373884,0.9,HIGH
+BES-1439,A Blockchain Voting System Based on the Feedback Mechanism and Wilson Score,10.3390/info11120552,0.9,HIGH
+BES-1441,E-Voting on Blockchain using Solidity Language,10.1109/icvee50212.2020.9243267,0.7,MEDIUM
+BES-1442,Highly Secured Blockchain Based Electronic Voting System Using SHA3 and Merkle Root,10.1088/1757-899x/993/1/012103,0.7,MEDIUM
+BES-1448,Blockchain-based Electronic Voting System with Special Ballot and Block Structures that Complies with Indonesian Principle of Voting,10.14569/ijacsa.2020.0110121,0.9,HIGH
+BES-1449,Fault-Tolerant Architecture Design for Blockchain-Based Electronics Voting System,10.1109/jcsse49651.2020.9268264,0.7,MEDIUM
+BES-1450,Anonymous and Coercion-Resistant Distributed Electronic Voting,10.1109/icnc47757.2020.9049653,0.9,HIGH
+BES-1452,Implementation of Smart Contracts Ethereum Blockchain in Web-Based Electronic Voting (e-voting),10.26623/transformatika.v18i1.1779,0.7,MEDIUM
+BES-1454,Decentralized electronic voting system based on blockchain technology developing principals,10.32782/cmis/2608-17,0.9,HIGH
+BES-1455,Efficient Privacy-Preserving Electronic Voting Scheme Based on Blockchain,10.1109/smartiot49966.2020.00036,0.9,HIGH
+BES-1457,BUVOTS: A Blockchain Based Unmanipulated Voting Scheme,10.2139/ssrn.3735921,0.7,MEDIUM
+BES-1459,Design and Implementation of Smart Card based Secure Key Storage The Blockchain E-voting Application,10.1109/icitamee50454.2020.9398390,0.9,HIGH
+BES-1462,E-Voting System In Smart Phone Using Mobile Application,10.1109/ICACCS48705.2020.9074289,0.7,MEDIUM
+BES-1463,Analysis and Improvement of an E-voting System Based on Blockchain,10.1109/icee50131.2020.9260875,0.9,HIGH
+BES-1464,A Privacy-Aware Digital Voting System employing Blockchain and Smart Contracts,10.1109/csde50874.2020.9411634,0.7,MEDIUM
+BES-1465,The Prototype of Thai Blockchain-based Voting System,10.14569/ijacsa.2020.0110510,0.9,HIGH
+BES-1466,Auditable blockchain voting system - the blockchain technology toward the electronic voting process,10.1504/ijwgs.2020.106102,0.9,HIGH
+BES-1470,"Blockchain technology in elections: past, present and future",10.12737/2587-6295-2020-25-38,0.7,MEDIUM
+BES-1471,BLOCK CHAIN TECHNOLOGY FOR ELECTRONIC VOTING,10.31838/jcr.07.03.22,0.7,MEDIUM
+BES-1476,Utilizing Public Blockchains for the Sybil-Resistant Bootstrapping of Distributed Anonymity Services,10.1145/3320269.3384729,0.7,MEDIUM
+BES-1479,BLOCKCHAIN BASED E-VOTING APPROACH IN P2P NETWORK,10.31838/jcr.07.09.72,0.7,MEDIUM
+BES-1480,The Blockchain Revolution: Paradigm Shifts in Traditional Voting Practices,10.5120/ijca2020920535,0.7,MEDIUM
+BES-1481,A Competent and Accurate BlockChain based E-Voting System on Liquid Democracy,10.1109/brains49436.2020.9223308,0.9,HIGH
+BES-1486,ethVote: Towards secure voting with distributed ledgers,10.1109/cybersecurity49315.2020.9138866,0.9,HIGH
+BES-1487,Augmenting an Internet Voting System with Selene Verifiability using Permissioned Distributed Ledger,10.1109/icdcs47774.2020.00124,0.9,HIGH
+BES-1488,Development Principles for Electronic Voting System Using Distributed Ledger Technology,10.1109/dessert50317.2020.9125042,0.7,MEDIUM
+BES-1490,Yet Another E-Voting Scheme Implemented Using Hyperledger Fabric Blockchain,10.1007/978-3-030-58808-3_4,0.9,HIGH
+BES-1491,Cloud Database Security in E-Voting System using Blockchain Technology,10.35940/ijrte.e6292.018520,0.7,MEDIUM
+BES-1492,Blockchain Interfaced Sacure E-Voting System,10.3126/jie.v15i1.27730,0.9,HIGH
+BES-1494,Blockchain Based Public Cloud Security for E-Voting System on IoT Environment,10.1088/1757-899x/981/4/042013,0.7,MEDIUM
+BES-1495,The New Concept of Guaranteeing Confidence in the E-Voting System,10.1109/picst51311.2020.9468012,0.7,MEDIUM
+BES-1496,Design and practical implementation of verify‐your‐vote protocol,10.1002/cpe.5813,0.9,HIGH
+BES-1502,Securing E-Voting System using Blockchain,,0.7,MEDIUM
+BES-1503,Blockchain-based Biometric Election System,10.46300/9106.2020.14.13,0.7,MEDIUM
+BES-1505,Implementation of Secure Voting System using Blockchain,10.17577/ijertv9is060974,0.9,HIGH
+BES-1506,Secured Voting Using Blockchain,10.1109/iccca49541.2020.9250859,0.7,MEDIUM
+BES-1507,An IoT and Blockchain based Electronic Voting System,10.22214/ijraset.2020.6224,0.7,MEDIUM
+BES-1511,Implementation of Blockchain for Fair Polling System,10.1109/icosec49089.2020.9215354,0.7,MEDIUM
+BES-1519,BLOCKCHAIN AS AN E-VOTING TOOL,10.21474/ijar01/12225,0.7,MEDIUM
+BES-1520,Smart Contract Formulation in General Elections,10.30534/ijeter/2020/03862020,0.7,MEDIUM
+BES-1521,Secure Voting System Using Distributed Ledger Technology,10.1109/icics49469.2020.239487,0.7,MEDIUM
+BES-1522,Design of Electronic Voting Portal Using Blockchain Technology,10.37591/joedt.v11i2.4167,0.7,MEDIUM
+BES-1523,Secure Electronic Voting System based on Mobile-app and Blockchain,10.2174/2666255813999200821161058,0.7,MEDIUM
+BES-1524,Blockchain-based E-Voting System using Proof of Voting (PoV) Consensus Algorithm,10.32377/cvrjst1819,0.7,MEDIUM
+BES-1529,Performance of the Secret Electronic Voting Scheme Using Hyperledger Fabric Permissioned Blockchain,10.1007/978-3-030-58808-3_3,0.9,HIGH
+BES-1531,Ethereum Blockchain based Secure E voting S ystem,10.35940/ijitee.e2542.039520,0.7,MEDIUM
+BES-1532,To Enhance Election Voting using Blockchain,10.22214/ijraset.2020.4028,0.7,MEDIUM
+BES-1533,Electronic Voting Using Decentralized System Based on Ethereum Blockchain,10.32409/jikstik.19.1.152,0.7,MEDIUM
+BES-1536,Hybrid-Voting: A Hybrid Structured Electronic Voting System,10.1145/3366424.3382708,0.9,HIGH
+BES-1539,Learning Citizenship in Practice with SchoolVote System,10.1145/3383923.3383962,0.7,MEDIUM
+BES-1540,"Problems, construction principles and development prospects of the national electronic voting system in Ukraine",10.30837/rt.2020.1.200.08,0.9,HIGH
+BES-1542,Vote-from-Home? Evaluation Framework for Election Security on Remote Voting in Response to COVID-19,10.2139/ssrn.3685381,0.7,MEDIUM
+BES-1543,A BLOCKCHAIN-BASED AUDITABLE AND SECURE VOTING SYSTEM,10.23860/THESIS-KEKULANDARA-MADHUKARA-2020,0.9,HIGH
+BES-1547,ETHEREUM BLOCKCHAIN BASED E-VOTING SYSTEM FOR DECENTRALIZED AND SECURE ELECTIONS,,0.7,MEDIUM
+BES-1551,Blockchain Technology for Secure Electronic Voting,10.5120/ijca2020920755,0.7,MEDIUM
+BES-1556,The impact of blockchain technology on the trustworthiness of online voting systems - an exploration of blockchain technology,,0.7,MEDIUM
+BES-1557,„The impact of blockchain technology on the trustworthiness of online voting systems”-„elections and trust“,,0.7,MEDIUM
+BES-1558,PROCESS REDESIGN UNTUK PEMILIHAN KETUA UMUM ORGANISASI KEMAHASISWAAN MENGGUNAKAN METODE BUSINESS PROCESS MANAGEMENT,10.33197/jitter.vol6.iss3.2020.434,0.7,MEDIUM
+BES-1559,Empirical Analysis of Transaction Malleability within Blockchain-based e-Voting,10.1016/j.cose.2020.102081,0.9,HIGH
+BES-1560,Система онлайн-голосування на базі технології Blockchain,,0.7,MEDIUM
+BES-1562,Implementasi Blockchain pada Sistem Pemungutan Suara Elektronik dengan Metode Konsensus Proof-Of-Authority,,0.7,MEDIUM
+BES-1564,Rancang Bangun Sistem Informasi Electronic Voting terhadap Pemilihan Umum Berbasis Blockchain,,0.7,MEDIUM
+BES-1570,"Desarrollo de un prototipo de aplicación móvil para votación electrónica descentralizada en instituciones de educación básica y media de Madrid Cundinamarca, mediante la implementación de Smart Contracts. Caso de estudio: Colegio San Pedro",,0.7,MEDIUM
+BES-1577,NetVote: A strict-coercion resistance re-voting based internet voting scheme with linear filtering,10.3390/math8091618,0.9,HIGH
+BES-1578,Proverum: A Hybrid Public Verifiability and Decentralized Identity Management,,0.9,HIGH
+BES-1579,Electt: running auditable and verifiable elections in untrusted environments,,0.9,HIGH
+BES-1584,Trustworthy Electronic Voting Using Adjusted Blockchain Technology,10.1109/access.2019.2895670,0.7,MEDIUM
+BES-1587,Securing e-voting based on blockchain in P2P network,10.1186/s13638-019-1473-6,0.9,HIGH
+BES-1588,An Anti-Quantum E-Voting Protocol in Blockchain With Audit Function,10.1109/access.2019.2935895,0.7,MEDIUM
+BES-1592,Decentralized E-Voting Portal Using Blockchain,10.1109/icccnt45670.2019.8944820,0.7,MEDIUM
+BES-1593,Distributed E-Voting and E-Bidding Systems Based on Smart Contract,10.3390/electronics8040422,0.9,HIGH
+BES-1607,Votereum: An Ethereum-Based E-Voting System,10.1109/rivf.2019.8713661,0.9,HIGH
+BES-1615,Blockchain-Based Electronic Voting System for Elections in Turkey,10.1109/ubmk.2019.8907102,0.7,MEDIUM
+BES-1617,Decentralised Applications Using Ethereum Blockchain,10.1109/iconstem.2019.8918887,0.7,MEDIUM
+BES-1618,A Secure Decentralized Trustless E-Voting System Based on Smart Contract,10.1109/trustcom/bigdatase.2019.00082,0.9,HIGH
+BES-1621,Blockchain-Based E-Vote-as-a-Service,10.1109/cloud.2019.00085,0.7,MEDIUM
+BES-1623,Integration of Fog Computing and Blockchain Technology Using the Plasma Framework,10.1109/bloc.2019.8751308,0.7,MEDIUM
+BES-1624,A Proposed Mobile Voting Framework Utilizing Blockchain Technology and Multi-Factor Authentication,10.1088/1742-6596/1378/3/032104,0.9,HIGH
+BES-1625,Towards a Privacy-Preserving Voting System Through Blockchain Technologies,10.1109/dasc/picom/cbdcom/cyberscitech.2019.00116,0.7,MEDIUM
+BES-1627,Secured voting through Blockchain technology,10.1109/icoei.2019.8862743,0.7,MEDIUM
+BES-1628,Electronic Voting Recording System Based on Blockchain Technology,10.1109/cmi48017.2019.8962142,0.7,MEDIUM
+BES-1630,Secured Electronic Voting System Using the Concepts of Blockchain,10.1109/iemcon.2019.8936310,0.9,HIGH
+BES-1631,VoteChain: A Blockchain Based E-Voting System,10.1109/gcat47503.2019.8978295,0.9,HIGH
+BES-1634,Blockchain Based Anonymous Voting System Using zkSNARKs,10.1109/icaem.2019.8853836,0.9,HIGH
+BES-1635,Blockchain E-Voting Done Right: Privacy and Transparency with Public Blockchain,10.1109/icsess47205.2019.9040770,0.9,HIGH
+BES-1636,Maintaining Voting Integrity using Blockchain,10.1109/icecco48375.2019.9043225,0.7,MEDIUM
+BES-1637,Block Chain Based Cloud Computing Model on EVM Transactions for Secure Voting,10.1109/iccmc.2019.8819649,0.7,MEDIUM
+BES-1640,Development of a Distributed Blockchain eVoting System,10.1145/3345035.3345080,0.9,HIGH
+BES-1642,Privacy-protected Electronic Voting System Based on Blockchin and Trusted Execution Environment,10.1109/iccc47050.2019.9064387,0.9,HIGH
+BES-1644,Proof of Concept Blockchain-based Voting System,10.1145/3372938.3372969,0.7,MEDIUM
+BES-1645,Ques-Chain: An Ethereum Based E-Voting System,10.5121/csit.2019.90803,0.7,MEDIUM
+BES-1647,Using Ring Signatures For An Anonymous E-Voting System,10.1109/atit49449.2019.9030447,0.7,MEDIUM
+BES-1652,Blockchain-based Complete Self-tallying E-voting Protocol,10.1109/apsipaasc47483.2019.9023220,0.9,HIGH
+BES-1653,Blockchain e-voting system with the use of intelligent agent approach,10.1145/3365921.3365927,0.7,MEDIUM
+BES-1654,A Novel P2P based System with Blockchain for Secured Voting Scheme,10.1109/iconstem.2019.8918895,0.7,MEDIUM
+BES-1655,Design of Blockchain-Based Electronic Election System Using Hyperledger: Case of Indonesia,10.1109/icitisee48480.2019.9003768,0.9,HIGH
+BES-1656,Ring Signature-Based Voting on Blockchain,10.1145/3376044.3376054,0.9,HIGH
+BES-1660,CaIV: Cast-as-Intended Verifiability in Blockchain-based Voting,10.1109/bloc.2019.8751413,0.9,HIGH
+BES-1661,BlockVOTE : An Architecture of a Blockchain-based Electronic Voting System,10.1109/icsec47112.2019.8974826,0.9,HIGH
+BES-1664,Implement Liquid Democracy on Ethereum: A Fast Algorithm for Realtime Self-tally Voting System,,0.7,MEDIUM
+BES-1665,Blockchain implimentation on E-voting System,10.1109/iss1.2019.8907951,0.7,MEDIUM
+BES-1666,Blockchain Based Secured E-voting by Using the Assistance of Smart Contract,,0.9,HIGH
+BES-1667,Towards Developing a Secure and Robust Solution for E-Voting using Blockchain,10.1109/icnte44896.2019.8945955,0.7,MEDIUM
+BES-1668,An Analytical View on Political Voting System using Blockchain Technology - UAE Case Study,10.1109/itt48889.2019.9075074,0.9,HIGH
+BES-1672,A Decentralized E-Voting System Based on Blockchain Network,10.35940/ijitee.l3815.1081219,0.9,HIGH
+BES-1673,Transparent E-Voting dApp Based on Waves Blockchain and RIDE Language,10.1109/redundancy48165.2019.9003336,0.7,MEDIUM
+BES-1674,Blockchain Based E-Voting System for India Using UIDAI's Aadhaar,10.5281/zenodo.3428327,0.7,MEDIUM
+BES-1679,“Voting System using Multichain Blockchain and Fingerprint Verification”,10.35940/ijitee.a4170.119119,0.7,MEDIUM
+BES-1685,Deploying a Shareholder Rights Management System onto a Distributed Ledger,10.65109/rlmd8223,0.7,MEDIUM
+BES-1690,DABSTERS: Distributed Authorities using Blind Signature to Effect Robust Security in e-Voting,10.5220/0007917702280235,0.9,HIGH
+BES-1692,Secure Electronic Voting using Block Chain and Homomorphic Encryption,10.35940/ijrte.b1168.0982s1119,0.7,MEDIUM
+BES-1696,End-to-End Verifiable Electronic Voting System Using Delegated Proof of Stake On Blockchain,10.2139/ssrn.3511409,0.9,HIGH
+BES-1697,A transparent referendum protocol with immutable proceedings and verifiable outcome for trustless networks,10.1007/978-3-030-36687-2_54,0.9,HIGH
+BES-1700,BIDS: Blockchain Based Intrusion Detection System for Electoral Process,10.1109/icecco48375.2019.9043292,0.7,MEDIUM
+BES-1702,Decentralized Application on Voting System,10.35940/ijrte.d9757.118419,0.7,MEDIUM
+BES-1704,Applying Technologies of Distributed Registries and Blockchains in Popular Voting and Lawmaking: Key Methods and Main Problems,,0.7,MEDIUM
+BES-1708,Design and Implementation a Smart E-Voting Model : Decentralization Using Blockchain,10.32628/cseit1195424,0.7,MEDIUM
+BES-1709,E-Voting in India Using Blockchain and It’s Modus Operandi,10.1166/jctn.2019.8249,0.7,MEDIUM
+BES-1710,Election Voting Using Blockchain Technology,,0.7,MEDIUM
+BES-1711,Ballot Mechanism Design Based on Blockchain Methodologies,10.1145/3366650.3366656,0.7,MEDIUM
+BES-1712,Peculiarities of Application of Technologies of Distributed Registers and Blockchain (Blockchain) for the Popular Vote,10.17803/1994-1471.2019.106.9.041-052,0.7,MEDIUM
+BES-1713,Electronic voting through DE-PBFT consensus and DAG data structure,10.1109/iccke48569.2019.8965093,0.7,MEDIUM
+BES-1715,The Concept of Electronic Voting Based on Blockchain,10.17587/IT.25.75-85,0.7,MEDIUM
+BES-1718,Blockchain electronic vote system,10.1109/chilecon47746.2019.8988084,0.9,HIGH
+BES-1719,Secure i-Voting Scheme with Blockchain Technology and Blind Signature,10.33847/2686-8296.1.1_1,0.7,MEDIUM
+BES-1720,Bringing transparency and trust to elections,10.1145/3326365.3326372,0.9,HIGH
+BES-1724,Secure Online Voting System Using Blockchain,10.32628/CSEIT1952162,0.7,MEDIUM
+BES-1725,A Study on the Conceptual Model of an E-Voting System based on Blockchain,10.37272/jiecr.2019.04.19.2.99,0.7,MEDIUM
+BES-1727,Blockchain-based Digital-Voting: Effectiveness and Challenges in Afghanistan,,0.7,MEDIUM
+BES-1731,E-Voting: Blockchain Based Voting For Secure Vote Casting,10.35940/ijeat.b3024.129219,0.7,MEDIUM
+BES-1732,A Voting Application Which Provides Data Security via Blockchain Technology,10.1109/UBMK.2019.8907111,0.7,MEDIUM
+BES-1736,Rational e-voting based on network evolution in the cloud,10.1504/ijcse.2019.104437,0.7,MEDIUM
+BES-1737,Designing a Secure and Scalable Real-time Voting System: Analyzing a Successful Real-time Voting System Implementation,10.30574/wjarr.2019.4.2.0158,0.9,HIGH
+BES-1742,A Decentralized Voting System,,0.7,MEDIUM
+BES-1745,Blockchain-based Decentralized Application for Electronic Voting using an Electronic ID,,0.9,HIGH
+BES-1746,Design of an electronic voting system using A blockchain network,,0.9,HIGH
+BES-1747,Security Protocol Analysis and Blockchains,,0.7,MEDIUM
+BES-1748,A secure blockchain-based web application voting system / Adib Farhan Sayuti,,0.7,MEDIUM
+BES-1749,Investigating performance constraints for blockchain based secure e-voting system,10.1016/j.future.2019.11.005,0.9,HIGH
+BES-1751,Применение технологий распределенных реестров и цепочек блоков в народных голосованиях и законотворчестве: ключевые способы и основные проблемы,,0.7,MEDIUM
+BES-1755,Blokzincir tabanlı e-seçim sistem önerilerinin güvenlik ve mahremiyet analizleri,,0.9,HIGH
+BES-1759,Estudio y aplicación de Sistema Electoral basado en Blockchain,,0.7,MEDIUM
+BES-1774,Blockchain-Enabled E-Voting,10.1109/ms.2018.2801546,0.7,MEDIUM
+BES-1775,Towards secure e-voting using ethereum blockchain,10.1109/isdfs.2018.8355340,0.9,HIGH
+BES-1777,E-Voting With Blockchain: An E-Voting Protocol with Decentralisation and Voter Privacy,10.1109/Cybermatics_2018.2018.00262,0.7,MEDIUM
+BES-1781,Secure Digital Voting System Based on Blockchain Technology,10.4018/ijegr.2018010103,0.7,MEDIUM
+BES-1782,Large-scale Election Based On Blockchain,10.1016/j.procs.2018.03.063,0.9,HIGH
+BES-1784,Towards the intelligent agents for blockchain e-voting system,10.1016/j.procs.2018.10.177,0.7,MEDIUM
+BES-1785,Decentralized Voting Platform Based on Ethereum Blockchain,10.1109/imcet.2018.8603050,0.9,HIGH
+BES-1786,BroncoVote: Secure Voting System using Ethereum’s Blockchain,10.5220/0006609700960107,0.9,HIGH
+BES-1788,A Proposal of Blockchain-Based Electronic Voting System,10.1109/worlds4.2018.8611593,0.9,HIGH
+BES-1789,A Privacy-Preserving Voting Protocol on Blockchain,10.1109/cloud.2018.00057,0.9,HIGH
+BES-1791,"Crypto-voting, a Blockchain based e-Voting System",10.5220/0006962102210225,0.9,HIGH
+BES-1793,SHARVOT,10.1145/3194113.3194118,0.7,MEDIUM
+BES-1795,"DATE: A Decentralized, Anonymous, and Transparent E-voting System",10.1109/hoticn.2018.8605994,0.9,HIGH
+BES-1797,SecEVS : Secure Electronic Voting System Using Blockchain Technology,10.1109/gucon.2018.8675008,0.7,MEDIUM
+BES-1798,Towards Blockchain-Based E-voting System,10.1109/iciset.2018.8745613,0.7,MEDIUM
+BES-1799,Online Voting Application Using Ethereum Blockchain,10.1109/icacci.2018.8554652,0.9,HIGH
+BES-1800,E-Voting on the Blockchain,10.31585/jbba-1-2-(3)2018,0.7,MEDIUM
+BES-1807,Crypto-democracy: A Decentralized Voting Scheme using Blockchain Technology,10.5220/0006881905080513,0.7,MEDIUM
+BES-1815,Blockchain-Based Electronic Voting Protocol,10.30630/joiv.2.4-2.174,0.7,MEDIUM
+BES-1816,Electronic voting machine based on Blockchain technology and Aadhar verification,,0.7,MEDIUM
+BES-1819,A Blockchain-Based Network Security Mechanism for Voting Systems,10.1109/ic3.2018.00-15,0.9,HIGH
+BES-1825,Blockchain-Based Election Infrastructures,10.1109/isc2.2018.8656988,0.7,MEDIUM
+BES-1829,Design of a Public Key Infrastructure-based Single Ballot E-Voting System,10.1109/ICITSI.2018.8696083,0.7,MEDIUM
+BES-1830,Improving End-to-End Verifiable Voting Systems with Blockchain Technologies,10.1109/cybermatics_2018.2018.00202,0.9,HIGH
+BES-1831,Transparent Voting Platform Based on Permissioned Blockchain,,0.7,MEDIUM
+BES-1833,An efficient and effective Decentralized Anonymous Voting System,,0.9,HIGH
+BES-1837,Blockchain in Voting System Application,10.14419/ijet.v7i4.11.20793,0.7,MEDIUM
+BES-1839,Disseminated and Decentred Blockchain secured Balloting: apropos to India,10.1109/icoac44903.2018.8939065,0.7,MEDIUM
+BES-1841,Design and implementation of a secure and robust voting system based on blockchain,,0.7,MEDIUM
+BES-1847,Block-Chain Based E-Voting For Indonesia,10.26666/rmp.jesr.2018.5.3,0.7,MEDIUM
+BES-1851,Secure and Transparent Election System for India using Block chain Technology,10.1109/punecon.2018.8745404,0.7,MEDIUM
+BES-1852,Distributed E-Voting System Based On Blind Intermediaries Using Homomorphic Encryption,10.1145/3264437.3264473,0.9,HIGH
+BES-1853,Using of Blockchain in Electronic Election in Russia,,0.7,MEDIUM
+BES-1854,Implementation of Blockchain Technology in Electronic Election in Sierra Leone,,0.9,HIGH
+BES-1857,D4: Distributed Direct Digital Democracy: a Remote Electronic Voting Protocol,,0.7,MEDIUM
+BES-1861,Applying Block Chain Technologies to Digital Voting Algorithms,,0.7,MEDIUM
+BES-1862,"A privacy-preserving, decentralized and functional Bitcoin e-voting
+  protocol",10.1109/smartworld.2018.00078,0.9,HIGH
+BES-1863,Platform-independent Secure Blockchain-Based Voting System,10.1007/978-3-319-99136-8_20,0.9,HIGH
+BES-1864,Побудова ефективної системи електронного голосування з використанням ланцюгів блоків,,0.7,MEDIUM
+BES-1867,Smart democracies in Africa: legitimizing Kenyan elections through block-chain technology,,0.7,MEDIUM
+BES-1868,Implementaciòn de un prototipo de una red descentralizada blockchain para el voto electrónico en la Universidad De Guayaquil,,0.7,MEDIUM
+BES-1877,Coconut E-Petition Implementation,,0.7,MEDIUM
+BES-1881,A Conceptual Secure Blockchain Based Electronic Voting System,10.5121/ijnsa.2017.9301,0.7,MEDIUM
+BES-1885,Blockchain based e-voting recording system design,10.1109/tssa.2017.8272896,0.7,MEDIUM
+BES-1893,An end-to-end voting-system based on bitcoin,10.1145/3019612.3019841,0.9,HIGH
+BES-1897,From Blockchain to Internet-Based Voting,10.1109/csci.2017.34,0.7,MEDIUM
+BES-1899,Design of Distributed Voting Systems,,0.7,MEDIUM
+BES-1904,Temper proof data distribution for universal verifiability and accuracy in electoral process using blockchain,10.1109/icet.2017.8281747,0.9,HIGH
+BES-1910,The Future of E-Voting,,0.7,MEDIUM
+BES-1914,A Study on Ways to Apply the Blockchain-based Online Voting System,10.14257/ijca.2017.10.12.11,0.7,MEDIUM
+BES-1925,Distributed Protocols at the Rescue for Trustworthy Online Voting,10.5220/0006228504990505,0.7,MEDIUM
+BES-1926,A Smart Contract for Boardroom Voting with Maximum Voter Privacy,10.1007/978-3-319-70972-7_20,0.9,HIGH
+BES-1934,An E-voting Protocol Based on Blockchain,,0.7,MEDIUM
+BES-1958,An Anonymous Distributed Electronic Voting System Using Zerocoin,10.1109/ICOIN50884.2021.9333937,0.9,HIGH
+BES-1979,A SECURE E-VOTING FOR THE STUDENT PARLIAMENT,10.2298/FUEE1602205P,0.7,MEDIUM
+BES-1981,"Distributed, End-to-end Verifiable, and Privacy-Preserving Internet Voting Systems",,0.9,HIGH
+BES-1988,An Improved E-voting scheme using Secret Sharing based Secure Multi-party Computation,,0.7,MEDIUM
+BES-2005,"A distributed, end-to-end verifiable, internet voting system",,0.9,HIGH
+BES-2013,"Blockchain-Enabled Decentralized, Secure and Reliable Voting Through Biometric Identification Using Metaverse Immersive Devices and Deep Learning",,0.9,HIGH
